@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # encoding: utf-8
 
-class Filter_Info():
+class Filter_Info(object):
     def __init__(self):
         self.education_set = {u"高中/中专/中技":0,
                               u"大专":1,
@@ -10,7 +10,7 @@ class Filter_Info():
                               u"博士":4,
                               u"其他":5,}
 
-        self.experience_set = {u"其他":0,
+        self.experience_set = {u"不限":0,
                                u"无经验":1,
                                u"1年以下":2,
                                u"1-3年":3,
@@ -37,6 +37,11 @@ class Filter_Info():
                                  u"事业单位":8,
                                  u"其它":9,}
 
+        self.occupation_set = {u"全职":0,
+                             u"实习":1,
+                             u"兼职":2,
+                             u"其他":3,}
+
 class Company(object):
 
     """Docstring for Company. """
@@ -59,6 +64,7 @@ class Job(object):
         self.company_name = ""
         self.salary_min = 0
         self.salary_max = 0
+        self.need_number = 0
         self.experience = ""
         self.location = ""
         self.occupation = ""
@@ -66,3 +72,4 @@ class Job(object):
         self.title = ""
         self.duty = ""
         self.requirement = ""
+
