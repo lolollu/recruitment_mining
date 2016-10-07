@@ -218,8 +218,8 @@ class Job_Info(Basic_Parse):
                 value += unicode(i.string).strip()
             item_set[key] = value
 
-        for key,value in item_set.items():
-            print '{} : {}'.format(key, value)
+        #for key,value in item_set.items():
+        #    print '{} : {}'.format(key, value)
 
         #parse items
         job_table = {}
@@ -257,7 +257,6 @@ class Job_Info(Basic_Parse):
 
         try:
             job_table['location'] = item_set[u"工作地点"]
-            print item_set[u"工作地点"]
         except:
             job_table['location'] = None
 
@@ -272,8 +271,10 @@ class Job_Info(Basic_Parse):
         try:
             education_set = fielter_info.education_set
             education = item_set[u"最低学历"]
-            education_code = education_set[education]
-            job_table['education'] = education_code
+            for key, value in education_set.items():
+                if education in key or education == key:
+                    job_table['education'] = value
+                    break
         except:
             job_table['education'] = None
 
@@ -281,22 +282,34 @@ class Job_Info(Basic_Parse):
             title_list = utilities.json_parse(r'position_list.json')
             temp_title = item_set[u"职位类别"].split("/")
             title = ""
-            for i in temp_title:
-                if len(title)< len(i):
-                    title = unicode(i)
+            if len(temp_title) == 1:
+                title = unicode(temp_title[0])
+            else:
+                for i in temp_title:
+                    if len(title)< len(i):
+                        title = unicode(i)
 
             print "*%s*"%title
 
             for i in range(len(title_list)):
-                #field = title_list[i]['field']
                 titles = title_list[i]['sub_position']
+                job_table['title'] = None
                 for j in range(len(titles)):
-                    if title in titles[j] or title == titles[j]:
-                        title_code = "%03d%03d"%(i,j)
-                        print title_code
-                        job_table['title'] = str(title_code)
-                        i = -1
-                        break
+                    if len(temp_title) == 1:
+                        if title == titles[j]:
+                            title_code = "%03d%03d"%(i,j)
+                            #print title_code
+                            job_table['title'] = str(title_code)
+                            i = -1
+                            break
+
+                    else:
+                        if title in titles[j]:
+                            title_code = "%03d%03d"%(i,j)
+                            #print title_code
+                            job_table['title'] = str(title_code)
+                            i = -1
+                            break
                 if i <  0:
                     break
         except:
@@ -308,7 +321,19 @@ class Job_Info(Basic_Parse):
         content = ''
         for line in description_content:
             content += unicode(line.string).strip()
-        return (1,2)
+        re_pattern = re.compile(r'SWSStringCutStart(.+?)SWSStringCutEnd')
+        content = re.findall(re_pattern, content)
+        if content is not []:
+            content = content[0]
+            if len(content) == 0 :
+                return None
+            elif len(content) > 500:
+                return content[:500]
+            else:
+                return content
+        else:
+            return None
+
 
     def show_info(self):
         print 'position : {}'.format(self.job_info.position)
@@ -319,10 +344,11 @@ class Job_Info(Basic_Parse):
         print 'need_number : {}'.format(self.job_info.need_number)
         print 'location : {}'.format(self.job_info.location)
         print 'occupation : {}'.format(self.job_info.occupation)
-        print 'education : {}'.format(self.job_info.occupation)
+        print 'education : {}'.format(self.job_info.education)
         print 'title : {}'.format(self.job_info.title)
-        print 'duty : {}'.format(self.job_info.duty)
-        print 'requirement : {}'.format(self.job_info.requirement)
+        #print 'duty : {}'.format(self.job_info.duty)
+        #print 'requirement : {}'.format(self.job_info.requirement)
+        print 'description : {}'.format(self.job_info.description)
 
 
     def get_information(self):
@@ -377,30 +403,22 @@ class Job_Info(Basic_Parse):
             description_content = None
 
         if description_content:
-            duty, requirement = self.parse_description(description_content)
+            job_description = self.parse_description(description_content)
         else:
-            duty=requirement = None
+            job_description = None
 
-        if duty:
-            self.job_info.duty = duty
-            self.job_info.requirement = requirement
+        if job_description:
+            self.job_info.description = job_description
 
 
 
 if __name__=="__main__":
-#    companies_url= Company_List(r'http://company.zhaopin.com/changsha/')
-#    print companies_url.page_list
-#    print companies_url.next_page_url
-#    company_info = Company_Info(r'http://company.zhaopin.com/CC430331122.htm')
-#    company_info.show_info()
+    #    companies_url= Company_List(r'http://company.zhaopin.com/changsha/')
+    #    print companies_url.page_list
+    #    print companies_url.next_page_url
+    #    company_info = Company_Info(r'http://company.zhaopin.com/CC430331122.htm')
+    #    company_info.show_info()
 
-    job_url = r'http://jobs.zhaopin.com/395517120252721.htm'
+    job_url = r'http://jobs.zhaopin.com/120019970287649.htm'
     job_info = Job_Info(job_url)
     job_info.show_info()
-
-
-
-
-
-
-

@@ -3,12 +3,13 @@
 
 class Filter_Info(object):
     def __init__(self):
-        self.education_set = {u"高中/中专/中技":0,
-                              u"大专":1,
-                              u"本科/学士":2,
-                              u"硕士/研究生":3,
-                              u"博士":4,
-                              u"其他":5,}
+        self.education_set = {u"不限":0,
+                              u"高中/中专/中技":1,
+                              u"大专":2,
+                              u"本科/学士":3,
+                              u"硕士/研究生":4,
+                              u"博士":5,
+                              u"其他":6,}
 
         self.experience_set = {u"不限":0,
                                u"无经验":1,
@@ -26,21 +27,23 @@ class Filter_Info(object):
                                  u"10000人以上":5,
                                  u"不限":6,}
 
-        self.company_type_set = {u"国企":0,
-                                 u"外商独资":1,
-                                 u"代表处":2,
-                                 u"合资":3,
-                                 u"民营":4,
-                                 u"股份制企业":5,
-                                 u"上市公司":6,
-                                 u"国家机关":7,
-                                 u"事业单位":8,
-                                 u"其它":9,}
+        self.company_type_set = {u"不限":0,
+                                 u"国企":1,
+                                 u"外商独资":2,
+                                 u"代表处":3,
+                                 u"合资":4,
+                                 u"民营":5,
+                                 u"股份制企业":6,
+                                 u"上市公司":7,
+                                 u"国家机关":8,
+                                 u"事业单位":9,
+                                 u"其它":10,}
 
-        self.occupation_set = {u"全职":0,
-                             u"实习":1,
-                             u"兼职":2,
-                             u"其他":3,}
+        self.occupation_set = {u"不限":0,
+                               u"全职":1,
+                               u"实习":2,
+                               u"兼职":3,
+                               u"其他":4,}
 
 class Company(object):
 
@@ -70,6 +73,7 @@ class Job(object):
         self.occupation = ""
         self.education = ""
         self.title = ""
-        self.duty = ""
-        self.requirement = ""
+        #self.duty = ""
+        #self.requirement = ""
+        self.description = ""
 
