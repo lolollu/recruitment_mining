@@ -1,0 +1,1712 @@
+<body>
+
+<div id="top" style="height:300px;display:none;width:100%;overflow:hidden;"></div>
+<div id="zljsc"><script src="http://img00.zhaopin.cn/2012/js/searchjob_20121008-new.js" async=""></script><div class="sPopupDiv" style="width: 710px;"><div class="sPopupTitle240"><h1>选择职位</h1><div class="sButtonBlock"><a class="blueButton" href="#" onclick="return zlzp.PopupDiv.allIns['buttonSelJobType'].fnClickAll()">不限</a> <a class="blueButton" href="#" onclick="return zlzp.PopupDiv.allIns['buttonSelJobType'].fnClickClose()">关闭</a></div><div class="clear"></div></div><div class="clear"></div><div class="sPopupBlock"></div></div><div class="sPopupDiv" style="width: 710px; left: 228px; top: 208px; visibility: visible;"><div style="margin-left: 266px;" class="sPopupTitle240"><h1>选择行业</h1><div class="sButtonBlock"><a class="orgButton" href="#" onclick="return zlzp.PopupDiv.allIns['buttonSelIndustry'].fnClickOk()">确认</a> <a class="blueButton" href="#" onclick="return zlzp.PopupDiv.allIns['buttonSelIndustry'].fnClickClose()">取消</a></div><div class="clear"></div></div><div class="clear"></div><div class="sPopupBlock"><div class="paddingTB"><table class="chebox" width="100%" border="0" cellpadding="0" cellspacing="0"><tbody><tr class="zebraCol0"><td class="leftClass industryLCla" valign="middle" nowrap="nowrap">IT|通信|电子|互联网</td><td class="jobtypeItems"><table width="100%" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td class="mOutItem" onmouseover="zlzp.PopupDiv.fnMOver(this)" onmouseout="zlzp.PopupDiv.fnMOut(this)" width="50%"><label for="c_buttonSelIndustry_210500" class="noselItem"><input name="c_buttonSelIndustry" id="c_buttonSelIndustry_210500" value="210500" iname="互联网/电子商务" onclick="zlzp.PopupDiv.allIns['buttonSelIndustry'].fnClickChebox(this)" type="checkbox">互联网/电子商务</label></td><td class="mOutItem" onmouseover="zlzp.PopupDiv.fnMOver(this)" onmouseout="zlzp.PopupDiv.fnMOut(this)" width="50%"><label for="c_buttonSelIndustry_160400" class="noselItem"><input name="c_buttonSelIndustry" id="c_buttonSelIndustry_160400" value="160400" iname="计算机软件" onclick="zlzp.PopupDiv.allIns['buttonSelIndustry'].fnClickChebox(this)" type="checkbox">计算机软件</label></td></tr><tr><td class="mOutItem" onmouseover="zlzp.PopupDiv.fnMOver(this)" onmouseout="zlzp.PopupDiv.fnMOut(this)" width="50%"><label for="c_buttonSelIndustry_160000" class="noselItem"><input name="c_buttonSelIndustry" id="c_buttonSelIndustry_160000" value="160000" iname="IT服务(系统/数据/维护)" onclick="zlzp.PopupDiv.allIns['buttonSelIndustry'].fnClickChebox(this)" type="checkbox">IT服务(系统/数据/维护)</label></td><td class="mOutItem" onmouseover="zlzp.PopupDiv.fnMOver(this)" onmouseout="zlzp.PopupDiv.fnMOut(this)" width="50%"><label for="c_buttonSelIndustry_160500" class="noselItem"><input name="c_buttonSelIndustry" id="c_buttonSelIndustry_160500" value="160500" iname="电子技术/半导体/集成电路" onclick="zlzp.PopupDiv.allIns['buttonSelIndustry'].fnClickChebox(this)" type="checkbox">电子技术/半导体/集成电路</label></td></tr><tr><td class="mOutItem" onmouseover="zlzp.PopupDiv.fnMOver(this)" onmouseout="zlzp.PopupDiv.fnMOut(this)" width="50%"><label for="c_buttonSelIndustry_160200" class="noselItem"><input name="c_buttonSelIndustry" id="c_buttonSelIndustry_160200" value="160200" iname="计算机硬件" onclick="zlzp.PopupDiv.allIns['buttonSelIndustry'].fnClickChebox(this)" type="checkbox">计算机硬件</label></td><td class="mOutItem" onmouseover="zlzp.PopupDiv.fnMOver(this)" onmouseout="zlzp.PopupDiv.fnMOut(this)" width="50%"><label for="c_buttonSelIndustry_300100" class="noselItem"><input name="c_buttonSelIndustry" id="c_buttonSelIndustry_300100" value="300100" iname="通信/电信/网络设备" onclick="zlzp.PopupDiv.allIns['buttonSelIndustry'].fnClickChebox(this)" type="checkbox">通信/电信/网络设备</label></td></tr><tr><td class="mOutItem" onmouseover="zlzp.PopupDiv.fnMOver(this)" onmouseout="zlzp.PopupDiv.fnMOut(this)" width="50%"><label for="c_buttonSelIndustry_160100" class="noselItem"><input name="c_buttonSelIndustry" id="c_buttonSelIndustry_160100" value="160100" iname="通信/电信运营、增值服务" onclick="zlzp.PopupDiv.allIns['buttonSelIndustry'].fnClickChebox(this)" type="checkbox">通信/电信运营、增值服务</label></td><td class="mOutItem" onmouseover="zlzp.PopupDiv.fnMOver(this)" onmouseout="zlzp.PopupDiv.fnMOut(this)" width="50%"><label for="c_buttonSelIndustry_160600" class="noselItem"><input name="c_buttonSelIndustry" id="c_buttonSelIndustry_160600" value="160600" iname="网络游戏" onclick="zlzp.PopupDiv.allIns['buttonSelIndustry'].fnClickChebox(this)" type="checkbox">网络游戏</label></td></tr></tbody></table></td></tr><tr class="zebraCol1"><td class="leftClass industryLCla" valign="middle" nowrap="nowrap">金融业</td><td class="jobtypeItems"><table width="100%" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td class="mOutItem" onmouseover="zlzp.PopupDiv.fnMOver(this)" onmouseout="zlzp.PopupDiv.fnMOut(this)" width="50%"><label for="c_buttonSelIndustry_180000" class="noselItem"><input name="c_buttonSelIndustry" id="c_buttonSelIndustry_180000" value="180000" iname="基金/证券/期货/投资" onclick="zlzp.PopupDiv.allIns['buttonSelIndustry'].fnClickChebox(this)" type="checkbox">基金/证券/期货/投资</label></td><td class="mOutItem" onmouseover="zlzp.PopupDiv.fnMOver(this)" onmouseout="zlzp.PopupDiv.fnMOut(this)" width="50%"><label for="c_buttonSelIndustry_180100" class="noselItem"><input name="c_buttonSelIndustry" id="c_buttonSelIndustry_180100" value="180100" iname="保险" onclick="zlzp.PopupDiv.allIns['buttonSelIndustry'].fnClickChebox(this)" type="checkbox">保险</label></td></tr><tr><td class="mOutItem" onmouseover="zlzp.PopupDiv.fnMOver(this)" onmouseout="zlzp.PopupDiv.fnMOut(this)" width="50%"><label for="c_buttonSelIndustry_300500" class="noselItem"><input name="c_buttonSelIndustry" id="c_buttonSelIndustry_300500" value="300500" iname="银行" onclick="zlzp.PopupDiv.allIns['buttonSelIndustry'].fnClickChebox(this)" type="checkbox">银行</label></td><td class="mOutItem" onmouseover="zlzp.PopupDiv.fnMOver(this)" onmouseout="zlzp.PopupDiv.fnMOut(this)" width="50%"><label for="c_buttonSelIndustry_300900" class="noselItem"><input name="c_buttonSelIndustry" id="c_buttonSelIndustry_300900" value="300900" iname="信托/担保/拍卖/典当" onclick="zlzp.PopupDiv.allIns['buttonSelIndustry'].fnClickChebox(this)" type="checkbox">信托/担保/拍卖/典当</label></td></tr></tbody></table></td></tr><tr class="zebraCol0"><td class="leftClass industryLCla" valign="middle" nowrap="nowrap">房地产|建筑业</td><td class="jobtypeItems"><table width="100%" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td class="mOutItem" onmouseover="zlzp.PopupDiv.fnMOver(this)" onmouseout="zlzp.PopupDiv.fnMOut(this)" width="50%"><label for="c_buttonSelIndustry_140000" class="noselItem"><input name="c_buttonSelIndustry" id="c_buttonSelIndustry_140000" value="140000" iname="房地产/建筑/建材/工程" onclick="zlzp.PopupDiv.allIns['buttonSelIndustry'].fnClickChebox(this)" type="checkbox">房地产/建筑/建材/工程</label></td><td class="mOutItem" onmouseover="zlzp.PopupDiv.fnMOver(this)" onmouseout="zlzp.PopupDiv.fnMOut(this)" width="50%"><label for="c_buttonSelIndustry_140100" class="noselItem"><input name="c_buttonSelIndustry" id="c_buttonSelIndustry_140100" value="140100" iname="家居/室内设计/装饰装潢" onclick="zlzp.PopupDiv.allIns['buttonSelIndustry'].fnClickChebox(this)" type="checkbox">家居/室内设计/装饰装潢</label></td></tr><tr><td class="mOutItem" onmouseover="zlzp.PopupDiv.fnMOver(this)" onmouseout="zlzp.PopupDiv.fnMOut(this)" width="50%"><label for="c_buttonSelIndustry_140200" class="noselItem"><input name="c_buttonSelIndustry" id="c_buttonSelIndustry_140200" value="140200" iname="物业管理/商业中心" onclick="zlzp.PopupDiv.allIns['buttonSelIndustry'].fnClickChebox(this)" type="checkbox">物业管理/商业中心</label></td><td></td></tr></tbody></table></td></tr><tr class="zebraCol1"><td class="leftClass industryLCla" valign="middle" nowrap="nowrap">商业服务</td><td class="jobtypeItems"><table width="100%" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td class="mOutItem" onmouseover="zlzp.PopupDiv.fnMOver(this)" onmouseout="zlzp.PopupDiv.fnMOut(this)" width="50%"><label for="c_buttonSelIndustry_200300" class="noselItem"><input name="c_buttonSelIndustry" id="c_buttonSelIndustry_200300" value="200300" iname="专业服务/咨询(财会/法律/人力资源等)" onclick="zlzp.PopupDiv.allIns['buttonSelIndustry'].fnClickChebox(this)" type="checkbox">专业服务/咨询(财会/法律/人力资源等)</label></td><td class="mOutItem" onmouseover="zlzp.PopupDiv.fnMOver(this)" onmouseout="zlzp.PopupDiv.fnMOut(this)" width="50%"><label for="c_buttonSelIndustry_200302" class="noselItem"><input name="c_buttonSelIndustry" id="c_buttonSelIndustry_200302" value="200302" iname="广告/会展/公关" onclick="zlzp.PopupDiv.allIns['buttonSelIndustry'].fnClickChebox(this)" type="checkbox">广告/会展/公关</label></td></tr><tr><td class="mOutItem" onmouseover="zlzp.PopupDiv.fnMOver(this)" onmouseout="zlzp.PopupDiv.fnMOut(this)" width="50%"><label for="c_buttonSelIndustry_201400" class="noselItem"><input name="c_buttonSelIndustry" id="c_buttonSelIndustry_201400" value="201400" iname="中介服务" onclick="zlzp.PopupDiv.allIns['buttonSelIndustry'].fnClickChebox(this)" type="checkbox">中介服务</label></td><td class="mOutItem" onmouseover="zlzp.PopupDiv.fnMOver(this)" onmouseout="zlzp.PopupDiv.fnMOut(this)" width="50%"><label for="c_buttonSelIndustry_201300" class="noselItem"><input name="c_buttonSelIndustry" id="c_buttonSelIndustry_201300" value="201300" iname="检验/检测/认证" onclick="zlzp.PopupDiv.allIns['buttonSelIndustry'].fnClickChebox(this)" type="checkbox">检验/检测/认证</label></td></tr><tr><td class="mOutItem" onmouseover="zlzp.PopupDiv.fnMOver(this)" onmouseout="zlzp.PopupDiv.fnMOut(this)" width="50%"><label for="c_buttonSelIndustry_300300" class="noselItem"><input name="c_buttonSelIndustry" id="c_buttonSelIndustry_300300" value="300300" iname="外包服务" onclick="zlzp.PopupDiv.allIns['buttonSelIndustry'].fnClickChebox(this)" type="checkbox">外包服务</label></td><td></td></tr></tbody></table></td></tr><tr class="zebraCol0"><td class="leftClass industryLCla" valign="middle" nowrap="nowrap">贸易|批发|零售|租赁业</td><td class="jobtypeItems"><table width="100%" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td class="mOutItem" onmouseover="zlzp.PopupDiv.fnMOver(this)" onmouseout="zlzp.PopupDiv.fnMOut(this)" width="50%"><label for="c_buttonSelIndustry_120400" class="noselItem"><input name="c_buttonSelIndustry" id="c_buttonSelIndustry_120400" value="120400" iname="快速消费品（食品/饮料/烟酒/日化）" onclick="zlzp.PopupDiv.allIns['buttonSelIndustry'].fnClickChebox(this)" type="checkbox">快速消费品（食品/饮料/烟酒/日化）</label></td><td class="mOutItem" onmouseover="zlzp.PopupDiv.fnMOver(this)" onmouseout="zlzp.PopupDiv.fnMOut(this)" width="50%"><label for="c_buttonSelIndustry_120200" class="noselItem"><input name="c_buttonSelIndustry" id="c_buttonSelIndustry_120200" value="120200" iname="耐用消费品（服饰/纺织/皮革/家具/家电）" onclick="zlzp.PopupDiv.allIns['buttonSelIndustry'].fnClickChebox(this)" type="checkbox">耐用消费品（服饰/纺织/皮革/家具/家电）</label></td></tr><tr><td class="mOutItem" onmouseover="zlzp.PopupDiv.fnMOver(this)" onmouseout="zlzp.PopupDiv.fnMOut(this)" width="50%"><label for="c_buttonSelIndustry_170500" class="noselItem"><input name="c_buttonSelIndustry" id="c_buttonSelIndustry_170500" value="170500" iname="贸易/进出口" onclick="zlzp.PopupDiv.allIns['buttonSelIndustry'].fnClickChebox(this)" type="checkbox">贸易/进出口</label></td><td class="mOutItem" onmouseover="zlzp.PopupDiv.fnMOver(this)" onmouseout="zlzp.PopupDiv.fnMOut(this)" width="50%"><label for="c_buttonSelIndustry_170000" class="noselItem"><input name="c_buttonSelIndustry" id="c_buttonSelIndustry_170000" value="170000" iname="零售/批发" onclick="zlzp.PopupDiv.allIns['buttonSelIndustry'].fnClickChebox(this)" type="checkbox">零售/批发</label></td></tr><tr><td class="mOutItem" onmouseover="zlzp.PopupDiv.fnMOver(this)" onmouseout="zlzp.PopupDiv.fnMOut(this)" width="50%"><label for="c_buttonSelIndustry_300700" class="noselItem"><input name="c_buttonSelIndustry" id="c_buttonSelIndustry_300700" value="300700" iname="租赁服务" onclick="zlzp.PopupDiv.allIns['buttonSelIndustry'].fnClickChebox(this)" type="checkbox">租赁服务</label></td><td></td></tr></tbody></table></td></tr><tr class="zebraCol1"><td class="leftClass industryLCla" valign="middle" nowrap="nowrap">文体教育|工艺美术</td><td class="jobtypeItems"><table width="100%" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td class="mOutItem" onmouseover="zlzp.PopupDiv.fnMOver(this)" onmouseout="zlzp.PopupDiv.fnMOut(this)" width="50%"><label for="c_buttonSelIndustry_201100" class="noselItem"><input name="c_buttonSelIndustry" id="c_buttonSelIndustry_201100" value="201100" iname="教育/培训/院校" onclick="zlzp.PopupDiv.allIns['buttonSelIndustry'].fnClickChebox(this)" type="checkbox">教育/培训/院校</label></td><td class="mOutItem" onmouseover="zlzp.PopupDiv.fnMOver(this)" onmouseout="zlzp.PopupDiv.fnMOut(this)" width="50%"><label for="c_buttonSelIndustry_120800" class="noselItem"><input name="c_buttonSelIndustry" id="c_buttonSelIndustry_120800" value="120800" iname="礼品/玩具/工艺美术/收藏品/奢侈品" onclick="zlzp.PopupDiv.allIns['buttonSelIndustry'].fnClickChebox(this)" type="checkbox">礼品/玩具/工艺美术/收藏品/奢侈品</label></td></tr></tbody></table></td></tr><tr class="zebraCol0"><td class="leftClass industryLCla" valign="middle" nowrap="nowrap">生产|加工|制造</td><td class="jobtypeItems"><table width="100%" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td class="mOutItem" onmouseover="zlzp.PopupDiv.fnMOver(this)" onmouseout="zlzp.PopupDiv.fnMOut(this)" width="50%"><label for="c_buttonSelIndustry_121000" class="noselItem"><input name="c_buttonSelIndustry" id="c_buttonSelIndustry_121000" value="121000" iname="汽车/摩托车" onclick="zlzp.PopupDiv.allIns['buttonSelIndustry'].fnClickChebox(this)" type="checkbox">汽车/摩托车</label></td><td class="mOutItem" onmouseover="zlzp.PopupDiv.fnMOver(this)" onmouseout="zlzp.PopupDiv.fnMOut(this)" width="50%"><label for="c_buttonSelIndustry_129900" class="noselItem"><input name="c_buttonSelIndustry" id="c_buttonSelIndustry_129900" value="129900" iname="大型设备/机电设备/重工业" onclick="zlzp.PopupDiv.allIns['buttonSelIndustry'].fnClickChebox(this)" type="checkbox">大型设备/机电设备/重工业</label></td></tr><tr><td class="mOutItem" onmouseover="zlzp.PopupDiv.fnMOver(this)" onmouseout="zlzp.PopupDiv.fnMOut(this)" width="50%"><label for="c_buttonSelIndustry_121100" class="noselItem"><input name="c_buttonSelIndustry" id="c_buttonSelIndustry_121100" value="121100" iname="加工制造（原料加工/模具）" onclick="zlzp.PopupDiv.allIns['buttonSelIndustry'].fnClickChebox(this)" type="checkbox">加工制造（原料加工/模具）</label></td><td class="mOutItem" onmouseover="zlzp.PopupDiv.fnMOver(this)" onmouseout="zlzp.PopupDiv.fnMOut(this)" width="50%"><label for="c_buttonSelIndustry_121200" class="noselItem"><input name="c_buttonSelIndustry" id="c_buttonSelIndustry_121200" value="121200" iname="仪器仪表及工业自动化" onclick="zlzp.PopupDiv.allIns['buttonSelIndustry'].fnClickChebox(this)" type="checkbox">仪器仪表及工业自动化</label></td></tr><tr><td class="mOutItem" onmouseover="zlzp.PopupDiv.fnMOver(this)" onmouseout="zlzp.PopupDiv.fnMOut(this)" width="50%"><label for="c_buttonSelIndustry_210600" class="noselItem"><input name="c_buttonSelIndustry" id="c_buttonSelIndustry_210600" value="210600" iname="印刷/包装/造纸" onclick="zlzp.PopupDiv.allIns['buttonSelIndustry'].fnClickChebox(this)" type="checkbox">印刷/包装/造纸</label></td><td class="mOutItem" onmouseover="zlzp.PopupDiv.fnMOver(this)" onmouseout="zlzp.PopupDiv.fnMOut(this)" width="50%"><label for="c_buttonSelIndustry_120700" class="noselItem"><input name="c_buttonSelIndustry" id="c_buttonSelIndustry_120700" value="120700" iname="办公用品及设备" onclick="zlzp.PopupDiv.allIns['buttonSelIndustry'].fnClickChebox(this)" type="checkbox">办公用品及设备</label></td></tr><tr><td class="mOutItem" onmouseover="zlzp.PopupDiv.fnMOver(this)" onmouseout="zlzp.PopupDiv.fnMOut(this)" width="50%"><label for="c_buttonSelIndustry_121300" class="noselItem"><input name="c_buttonSelIndustry" id="c_buttonSelIndustry_121300" value="121300" iname="医药/生物工程" onclick="zlzp.PopupDiv.allIns['buttonSelIndustry'].fnClickChebox(this)" type="checkbox">医药/生物工程</label></td><td class="mOutItem" onmouseover="zlzp.PopupDiv.fnMOver(this)" onmouseout="zlzp.PopupDiv.fnMOut(this)" width="50%"><label for="c_buttonSelIndustry_121500" class="noselItem"><input name="c_buttonSelIndustry" id="c_buttonSelIndustry_121500" value="121500" iname="医疗设备/器械" onclick="zlzp.PopupDiv.allIns['buttonSelIndustry'].fnClickChebox(this)" type="checkbox">医疗设备/器械</label></td></tr><tr><td class="mOutItem" onmouseover="zlzp.PopupDiv.fnMOver(this)" onmouseout="zlzp.PopupDiv.fnMOut(this)" width="50%"><label for="c_buttonSelIndustry_300000" class="noselItem"><input name="c_buttonSelIndustry" id="c_buttonSelIndustry_300000" value="300000" iname="航空/航天研究与制造" onclick="zlzp.PopupDiv.allIns['buttonSelIndustry'].fnClickChebox(this)" type="checkbox">航空/航天研究与制造</label></td><td></td></tr></tbody></table></td></tr><tr class="zebraCol1"><td class="leftClass industryLCla" valign="middle" nowrap="nowrap">交通|运输|物流|仓储</td><td class="jobtypeItems"><table width="100%" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td class="mOutItem" onmouseover="zlzp.PopupDiv.fnMOver(this)" onmouseout="zlzp.PopupDiv.fnMOut(this)" width="50%"><label for="c_buttonSelIndustry_150000" class="noselItem"><input name="c_buttonSelIndustry" id="c_buttonSelIndustry_150000" value="150000" iname="交通/运输" onclick="zlzp.PopupDiv.allIns['buttonSelIndustry'].fnClickChebox(this)" type="checkbox">交通/运输</label></td><td class="mOutItem" onmouseover="zlzp.PopupDiv.fnMOver(this)" onmouseout="zlzp.PopupDiv.fnMOut(this)" width="50%"><label for="c_buttonSelIndustry_301100" class="noselItem"><input name="c_buttonSelIndustry" id="c_buttonSelIndustry_301100" value="301100" iname="物流/仓储" onclick="zlzp.PopupDiv.allIns['buttonSelIndustry'].fnClickChebox(this)" type="checkbox">物流/仓储</label></td></tr></tbody></table></td></tr><tr class="zebraCol0"><td class="leftClass industryLCla" valign="middle" nowrap="nowrap">服务业</td><td class="jobtypeItems"><table width="100%" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td class="mOutItem" onmouseover="zlzp.PopupDiv.fnMOver(this)" onmouseout="zlzp.PopupDiv.fnMOut(this)" width="50%"><label for="c_buttonSelIndustry_121400" class="noselItem"><input name="c_buttonSelIndustry" id="c_buttonSelIndustry_121400" value="121400" iname="医疗/护理/美容/保健/卫生服务" onclick="zlzp.PopupDiv.allIns['buttonSelIndustry'].fnClickChebox(this)" type="checkbox">医疗/护理/美容/保健/卫生服务</label></td><td class="mOutItem" onmouseover="zlzp.PopupDiv.fnMOver(this)" onmouseout="zlzp.PopupDiv.fnMOut(this)" width="50%"><label for="c_buttonSelIndustry_200600" class="noselItem"><input name="c_buttonSelIndustry" id="c_buttonSelIndustry_200600" value="200600" iname="酒店/餐饮" onclick="zlzp.PopupDiv.allIns['buttonSelIndustry'].fnClickChebox(this)" type="checkbox">酒店/餐饮</label></td></tr><tr><td class="mOutItem" onmouseover="zlzp.PopupDiv.fnMOver(this)" onmouseout="zlzp.PopupDiv.fnMOut(this)" width="50%"><label for="c_buttonSelIndustry_200800" class="noselItem"><input name="c_buttonSelIndustry" id="c_buttonSelIndustry_200800" value="200800" iname="旅游/度假" onclick="zlzp.PopupDiv.allIns['buttonSelIndustry'].fnClickChebox(this)" type="checkbox">旅游/度假</label></td><td></td></tr></tbody></table></td></tr><tr class="zebraCol1"><td class="leftClass industryLCla" valign="middle" nowrap="nowrap">文化|传媒|娱乐|体育</td><td class="jobtypeItems"><table width="100%" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td class="mOutItem" onmouseover="zlzp.PopupDiv.fnMOver(this)" onmouseout="zlzp.PopupDiv.fnMOut(this)" width="50%"><label for="c_buttonSelIndustry_210300" class="noselItem"><input name="c_buttonSelIndustry" id="c_buttonSelIndustry_210300" value="210300" iname="媒体/出版/影视/文化传播" onclick="zlzp.PopupDiv.allIns['buttonSelIndustry'].fnClickChebox(this)" type="checkbox">媒体/出版/影视/文化传播</label></td><td class="mOutItem" onmouseover="zlzp.PopupDiv.fnMOver(this)" onmouseout="zlzp.PopupDiv.fnMOut(this)" width="50%"><label for="c_buttonSelIndustry_200700" class="noselItem"><input name="c_buttonSelIndustry" id="c_buttonSelIndustry_200700" value="200700" iname="娱乐/体育/休闲" onclick="zlzp.PopupDiv.allIns['buttonSelIndustry'].fnClickChebox(this)" type="checkbox">娱乐/体育/休闲</label></td></tr></tbody></table></td></tr><tr class="zebraCol0"><td class="leftClass industryLCla" valign="middle" nowrap="nowrap">能源|矿产|环保</td><td class="jobtypeItems"><table width="100%" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td class="mOutItem" onmouseover="zlzp.PopupDiv.fnMOver(this)" onmouseout="zlzp.PopupDiv.fnMOut(this)" width="50%"><label for="c_buttonSelIndustry_130000" class="noselItem"><input name="c_buttonSelIndustry" id="c_buttonSelIndustry_130000" value="130000" iname="能源/矿产/采掘/冶炼" onclick="zlzp.PopupDiv.allIns['buttonSelIndustry'].fnClickChebox(this)" type="checkbox">能源/矿产/采掘/冶炼</label></td><td class="mOutItem" onmouseover="zlzp.PopupDiv.fnMOver(this)" onmouseout="zlzp.PopupDiv.fnMOut(this)" width="50%"><label for="c_buttonSelIndustry_120500" class="noselItem"><input name="c_buttonSelIndustry" id="c_buttonSelIndustry_120500" value="120500" iname="石油/石化/化工" onclick="zlzp.PopupDiv.allIns['buttonSelIndustry'].fnClickChebox(this)" type="checkbox">石油/石化/化工</label></td></tr><tr><td class="mOutItem" onmouseover="zlzp.PopupDiv.fnMOver(this)" onmouseout="zlzp.PopupDiv.fnMOut(this)" width="50%"><label for="c_buttonSelIndustry_130100" class="noselItem"><input name="c_buttonSelIndustry" id="c_buttonSelIndustry_130100" value="130100" iname="电气/电力/水利" onclick="zlzp.PopupDiv.allIns['buttonSelIndustry'].fnClickChebox(this)" type="checkbox">电气/电力/水利</label></td><td class="mOutItem" onmouseover="zlzp.PopupDiv.fnMOver(this)" onmouseout="zlzp.PopupDiv.fnMOut(this)" width="50%"><label for="c_buttonSelIndustry_201200" class="noselItem"><input name="c_buttonSelIndustry" id="c_buttonSelIndustry_201200" value="201200" iname="环保" onclick="zlzp.PopupDiv.allIns['buttonSelIndustry'].fnClickChebox(this)" type="checkbox">环保</label></td></tr></tbody></table></td></tr><tr class="zebraCol1"><td class="leftClass industryLCla" valign="middle" nowrap="nowrap">政府|非盈利机构</td><td class="jobtypeItems"><table width="100%" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td class="mOutItem" onmouseover="zlzp.PopupDiv.fnMOver(this)" onmouseout="zlzp.PopupDiv.fnMOut(this)" width="50%"><label for="c_buttonSelIndustry_200100" class="noselItem"><input name="c_buttonSelIndustry" id="c_buttonSelIndustry_200100" value="200100" iname="政府/公共事业/非盈利机构" onclick="zlzp.PopupDiv.allIns['buttonSelIndustry'].fnClickChebox(this)" type="checkbox">政府/公共事业/非盈利机构</label></td><td class="mOutItem" onmouseover="zlzp.PopupDiv.fnMOver(this)" onmouseout="zlzp.PopupDiv.fnMOut(this)" width="50%"><label for="c_buttonSelIndustry_120600" class="noselItem"><input name="c_buttonSelIndustry" id="c_buttonSelIndustry_120600" value="120600" iname="学术/科研" onclick="zlzp.PopupDiv.allIns['buttonSelIndustry'].fnClickChebox(this)" type="checkbox">学术/科研</label></td></tr></tbody></table></td></tr><tr class="zebraCol0"><td class="leftClass industryLCla" valign="middle" nowrap="nowrap">农|林|牧|渔|其他</td><td class="jobtypeItems"><table width="100%" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td class="mOutItem" onmouseover="zlzp.PopupDiv.fnMOver(this)" onmouseout="zlzp.PopupDiv.fnMOut(this)" width="50%"><label for="c_buttonSelIndustry_100000" class="noselItem"><input name="c_buttonSelIndustry" id="c_buttonSelIndustry_100000" value="100000" iname="农/林/牧/渔" onclick="zlzp.PopupDiv.allIns['buttonSelIndustry'].fnClickChebox(this)" type="checkbox">农/林/牧/渔</label></td><td class="mOutItem" onmouseover="zlzp.PopupDiv.fnMOver(this)" onmouseout="zlzp.PopupDiv.fnMOut(this)" width="50%"><label for="c_buttonSelIndustry_100100" class="noselItem"><input name="c_buttonSelIndustry" id="c_buttonSelIndustry_100100" value="100100" iname="跨领域经营" onclick="zlzp.PopupDiv.allIns['buttonSelIndustry'].fnClickChebox(this)" type="checkbox">跨领域经营</label></td></tr><tr><td class="mOutItem" onmouseover="zlzp.PopupDiv.fnMOver(this)" onmouseout="zlzp.PopupDiv.fnMOut(this)" width="50%"><label for="c_buttonSelIndustry_990000" class="noselItem"><input name="c_buttonSelIndustry" id="c_buttonSelIndustry_990000" value="990000" iname="其他" onclick="zlzp.PopupDiv.allIns['buttonSelIndustry'].fnClickChebox(this)" type="checkbox">其他</label></td></tr></tbody></table></td></tr></tbody></table></div></div></div><div class="sPopupDiv" style="width: 480px;"><div class="sPopupTitle250"><h1>选择城市</h1><div class="sButtonBlock"><a class="orgButton" href="javascript:void(0)" onclick="return zlzp.PopupDiv.allIns['buttonSelCity'].fnClickOk()">确定</a> <a class="blueButton" href="javascript:void(0)" onclick="return zlzp.PopupDiv.allIns['buttonSelCity'].fnClickClose()">取消</a> </div><div class="clear"></div></div><div class="clear"></div><div class="sPopupBlock"></div></div><table style="visibility: hidden; left: 741px; top: 236px; width: 230px;" class="autocomptab" cellpadding="0" cellspacing="0"></table><table style="visibility: hidden; left: 246px; top: 268px; width: 486px;" class="autocomptab" cellpadding="0" cellspacing="0"></table><div class="sPopupDiv" style="width: 710px;"><div class="sPopupBlock"></div><div class="sPopupTitle_down230"><h1>选择职位</h1><div class="sButtonBlock"><a class="blueButton" href="#" onclick="return zlzp.PopupDiv.allIns['buttonSelJobType_bottom'].fnClickAll()">不限</a> <a class="blueButton" href="#" onclick="return zlzp.PopupDiv.allIns['buttonSelJobType_bottom'].fnClickClose()">关闭</a></div><div class="clear"></div></div><div class="clear"></div></div><div class="sPopupDiv" style="width: 710px;"><div class="sPopupBlock"></div><div class="sPopupTitle_down230"><h1>选择行业</h1><div class="sButtonBlock"><a class="orgButton" href="#" onclick="return zlzp.PopupDiv.allIns['buttonSelIndustry_bottom'].fnClickOk()">确认</a> <a class="blueButton" href="#" onclick="return zlzp.PopupDiv.allIns['buttonSelIndustry_bottom'].fnClickClose()">取消</a></div><div class="clear"></div></div><div class="clear"></div></div><div class="sPopupDiv" style="width: 468px;"><div class="sPopupBlock"></div><div class="sPopupTitle_down250"><h1>选择城市</h1><div class="sButtonBlock"><a class="orgButton" href="javascript:void(0)" onclick="return zlzp.PopupDiv.allIns['buttonSelCity_bottom'].fnClickOk()">确定</a> <a class="blueButton" href="javascript:void(0)" onclick="return zlzp.PopupDiv.allIns['buttonSelCity_bottom'].fnClickClose()">取消</a> </div><div class="clear"></div></div><div class="clear"></div></div><div style="opacity: 0.3; z-index: 990; width: 990px; height: 1672px; left: 0px; top: 0px; visibility: visible;" class="divMask"></div></div>
+<div style="display: block;" id="tipSlider">
+  <div> <a class="closeme" href="#"></a> <a class="goreg" href="https://passport.zhaopin.com/account/register"></a> </div>
+</div>
+
+<div style="height:50px;margin:0 auto;width:990px;"><a href="http://www.highpin.cn/zhiwei/?utm_source=ad81&amp;utm_medium=cpc&amp;utm_campaign=ad81&amp;utm_term=ad81&amp;utm_content=ad81&amp;FromType=241" onmousedown="return AdsClick(9518,151407)" rel="nofollow" target="_blank"><img src="http://img00.zhaopin.cn/img_button/201607/06/gdsfasdfsa_115631245500.jpg" alt="Zhaopin.com(beijing)招聘信息" height="50" width="990"></a>
+</div><!--NY2011_ZHAOPININDEX_TONGLANHEADER Success end-->
+
+ 
+<!--头部修改20130929-->
+
+
+<div class="adbox_1209" style="margin:5px auto;display:none;">公告：尊敬的智联用户：网站计划4月29日23:00—4月30日7:00期间进行网络维护，届时可能会有部分用户访问站点或APP出现短暂延迟或卡顿。给您带来的不便敬请谅解。<img style="" src="http://img03.zhaopin.cn/2012/other/lmadjust/images/adlm_5.png" alt="关闭" onclick="this.parentNode.style.display='none'"></div>
+<link href="http://img00.zhaopin.cn/2012/css/headfoot/head_www.css?version=20151016" rel="stylesheet" type="text/css">
+<div id="globalHeader">
+  <div class="hd-wrapper">
+  <a href="http://www.zhaopin.com/" class="site-logo" title="智联招聘首页"></a>
+   <a href="http://rd2.zhaopin.com/portal/myrd/regnew.asp" class="companyregin backnone" rel="nofollow" target="_blank" onclick="dyweTrackEvent('addnewlink','compuser')">
+    <img src="http://img02.zhaopin.cn/2014/common/img/companuserbtn.png" onmouseover="this.src='http://img02.zhaopin.cn/2014/common/img/companuserbtnhover.png'" onmouseout="this.src='http://img02.zhaopin.cn/2014/common/img/companuserbtn.png'" border="0"> 
+    </a>
+  
+  <span class="hotline">服务热线&nbsp;400-885-9898</span><a href="http://www.zhaopin.com/citymap.html" target="_blank" class="choosecity" onclick="dyweTrackEvent('addnewlink','choosecity')">选择城市</a><a href="http://www.zhaopin.com/mobile/mobile.html" target="_blank" class="mobile-page" onclick="dyweTrackEvent('addnewlink','mobilejob')" rel="nofollow">手机求职</a>
+    <div class="nav-bar">
+    <img class="hotpng" src="http://img02.zhaopin.cn/new2011/images/hot.png">
+    <img src="http://img02.zhaopin.cn/2014/common/img/iconnews.png" class="newspng">
+    <img class="hotpng01" src="http://img02.zhaopin.cn/new2011/images/hot.png">
+      <div id="subNav">
+        <h5><a href="http://www.zhaopin.com/jobseeker/index_industry.html" style="color: #315AAA;">行业求职</a></h5>
+        <ul>
+          <li><a href="http://www.zhaopin.com/hydl01/">互联网</a></li>
+          <li><a href="http://www.zhaopin.com/hydl07/">制造行业</a></li>
+          <li><a href="http://www.zhaopin.com/hydl03/">房产建筑</a></li>
+          <li><a href="http://www.zhaopin.com/hydl02/">金融投资</a></li>
+          <li><a href="http://www.zhaopin.com/hydl10/">广告传媒</a></li>
+          <li><a href="http://www.zhaopin.com/hydl15/">医药行业</a></li>
+          <li><a href="http://www.zhaopin.com/hydl05/">消费零售</a></li>
+          <li><a href="http://www.zhaopin.com/hydl14/">外贸行业</a></li>         
+          <li><a href="http://yinhang.zhaopin.com/">银行招聘</a></li>
+          <li><a href="http://www.zhaopin.com/zph/">招聘会</a></li>
+          <li><a href="http://jobs.zhaopin.com/jiaoshi/">教师招聘</a></li>
+          
+        </ul>
+      </div>
+      <ul>
+        <li class="nav-first"></li>
+        <li class="minwidth mycurrent"><em><span class="l"></span><a href="http://www.zhaopin.com/">首页</a><span class="r"></span></em></li>
+        <li><em><span class="l"></span><a href="http://my.zhaopin.com/">简历中心</a><span class="r"></span></em></li>
+        <li><em><span class="l"></span><a href="http://sou.zhaopin.com/">职位搜索</a><span class="r"></span></em></li>
+        <li><em><span class="l"></span><a href="http://xiaoyuan.zhaopin.com/" target="_blank">校园招聘</a><span class="r"></span></em></li>
+         <li><em><span class="l"></span><a href="http://www.highpin.cn/zhiwei/?fromType=12&amp;utm_source=zpsygdad&amp;utm_medium=cpc&amp;utm_content=zpsygdadtextlink&amp;utm_campaign=zpsygdadanalytics&amp;utm_term=onlinepromo_201402">高端招聘</a><span class="r"></span></em></li>
+         
+       
+        <li><em><span class="l"></span><a href="http://edu.zhaopin.com/" target="_blank" onclick="dyweTrackEvent('addnewlink','educchannal')">智联教育</a><span class="r"></span></em></li>
+        <li><em><span class="l"></span><a href="#" id="popSubNav">行业求职</a><span class="r"></span></em></li>
+       
+        <li><em><span class="l"></span><a href="http://article.zhaopin.com/">求职指导</a><span class="r"></span></em></li>
+         <li><em><span class="l"></span><a href="http://ceping.zhaopin.com/" target="_blank">智联测评</a><span class="r"></span></em></li>
+       
+         <li class="blankwhite"></li>
+        <li class="nav-last"></li>
+      </ul>
+    </div>
+  </div>
+</div>
+<!--end-->
+<div id="funcWrapper">
+  <div id="loginBox">
+    <div class="loginBoxTitle">
+       <div class="loginbtnbox">
+        <!--数据采集 按键5-->
+        <span onclick="ZP.analysis.init_monitor_analy(this,'loginarea','persontag','001');;" class="__ga__loginarea_persontag_001"></span><!--数据采集 按键6--><span onclick="ZP.analysis.init_monitor_analy(this,'loginarea','businesstag','001');;" class="__ga__loginarea_businesstag_001 cursor_p"></span>
+      </div>
+      <button id="loginfnbtn"></button>
+    </div>
+    <div id="loginU">
+      <div id="loginUOK">
+        <div class="welTip">
+          <div>欢迎回来，<strong id="loun" title="test@zhaopin.com.cn">test@...</strong></div>
+          <a href="#" id="logout">[退出]</a></div>
+        <div class="dLine"></div>
+     <ul class="logInfoList clearfix">
+           <div class="logInfoList_left">
+              <a href="http://i.zhaopin.com/PositionRecord/jobpostrecord/Index">投递反馈（<span>97</span>）</a>
+              <a href="http://i.zhaopin.com/ResumeCenter/MyCenter/MsgCenter">消息中心<span class="feedback_com">99+</span>/<span>123</span></a>
+           </div>
+            <div class="logInfoList_rigth">
+           <a href="#" id="refresh">刷新简历</a>
+           <a href="http://i.zhaopin.com/PositionSearcher/Searcher/JobSearch">职位订阅</a>
+           <a href="http://i.zhaopin.com">简历管理</a>
+           </div>
+        </ul>
+        
+        <a href="http://my.zhaopin.com/myzhaopin/resume_index.asp" title="简历中心" class="goMyzp"></a> </div>
+      <form action="https://passport.zhaopin.com/account/login" id="loginForm" method="post" onsubmit="return zlzpUtils.RememberMe();">
+        <input name="int_count" value="999" type="hidden">
+        <input name="errUrl" value="https://passport.zhaopin.com/account/login" type="hidden">
+       <input name="RememberMe" id="RememberMe" value="true" type="hidden">
+        <input name="requestFrom" value="portal" type="hidden">
+        <div class="loginput" style="margin-top:6px">
+          <input name="loginname" placeholder="输入手机号/邮箱" id="loginname" tabindex="1" required="" type="text">
+        </div>
+        <div class="loginput" style="margin-top:6px">
+          <input name="Password" id="password" class="Password" maxlength="25" placeholder="输入密码" tabindex="2" required="" type="password">
+        </div>
+        <div class="logbtn" style="margin-top:6px">
+          <button type="submit"></button>
+          <a class="chkfrm chkdone">自动登录</a> <a rel="nofollow" href="https://passport.zhaopin.com/findpassword/email/step1" target="_blank">忘记密码</a></div>
+      </form>
+         <div class="otherLoginTxt" style="width:200px;height:19px;margin:0 auto;border-top:1px dotted #a5bbe9;margin-top:6px;padding-top:5px;">
+	<span style="display:inline-block;padding-left:4px;color:#a5bbe9;height:18px;float:left;line-height:18px;margin-left: 52px;cursor:pointer;">使用其他方式登录</span>
+</div>
+
+      <div class="otherLogin" style="width:200px;height:19px;margin:0 auto;border-top:1px dotted #a5bbe9;margin-top:6px;padding-top:5px;display:none;">
+                        <span style="display:inline-block;padding-left:4px;color:#a5bbe9;height:18px;float:left;line-height:18px">使用其他方式登录</span>
+                        <a onclick="ZP.analysis.init_monitor_analy(this,'PCoAuthLogin','wxLogin','001');;" rel="nofollow" class="__ga__PCoAuthLogin_wxLogin_001" href="http://passport.zhaopin.com/oauth/weixin/enter" style="display:inline-block;width:18px;height:18px;background:url(http://img02.zhaopin.cn/2012/img/index/icon_wx.png);float:left;margin:0 4px"></a>
+                        <a onclick="ZP.analysis.init_monitor_analy(this,'PCoAuthLogin','qqLogin','001');;" rel="nofollow" class="__ga__PCoAuthLogin_qqLogin_001 " href="http://passport.zhaopin.com/oauth/qq/enter" style="display:inline-block;width:18px;height:18px;background:url(http://img02.zhaopin.cn/2012/img/index/icon_qq.png);float:left;margin:0 4px"></a>
+                        <a onclick="ZP.analysis.init_monitor_analy(this,'PCoAuthLogin','weiboLogin','001');;" rel="nofollow" class="__ga__PCoAuthLogin_weiboLogin_001 " href="http://passport.zhaopin.com/oauth/weibo/enter" style="display:inline-block;width:18px;height:18px;background:url(http://img02.zhaopin.cn/2012/img/index/icon_xl.png);float:left;margin:0 4px"></a>
+                    </div>
+                    
+
+      
+      <div class="olink" style="margin-top:2px">
+      
+      <a rel="nofollow" href="https://passport.zhaopin.com/account/register" class="go_reg" onclick="recordOutboundLink(this,'newregister','writeresume')" title="注册找工作"></a>
+      </div>
+      <!--<div class="olink" style="margin-top:15px"><a href="http://my.zhaopin.com/loginmgr/regist_serviceitem.asp?t=n" onclick="recordOutboundLink(this,'newregister','writeresume')" class="goW" title="写简历"></a><a href="http://my.zhaopin.com/loginmgr/regist_serviceitem.asp?f=l" class="goR" title="注册"></a></div>-->
+    </div>
+    <div id="loginC"> 
+      <!--数据采集 按键2--> <a rel="nofollow" class="goEL" href="http://rd2.zhaopin.com/portal/myrd/regnew.asp?za=2" onclick="recordOutboundLink(this,'zphomeloginnav','rdloginbutton')" title="企业帐号登录">企业帐号登录</a> 
+      <!--数据采集 按键3 已加统计函数--> <a rel="nofollow" class="goER goER-new" href="http://rd2.zhaopin.com/portal/myrd/reg.asp?sid=121111768&amp;site=topregzhaopinindex&amp;za=2" onclick="recordOutboundLink2(this,'businessin','homepagein')" title="免费注册 发布职位">免费注册 发布职位</a>
+      <div>
+        <!--数据采集 按键4-->
+        <a onclick="ZP.analysis.init_monitor_analy(this,'loginarea','Bproducts','001');;" href="http://hr.zhaopin.com/hrclub/index.html" title="企业产品与服务" class="__ga__loginarea_Bproducts_001 proservice">企业产品与服务&gt;</a>
+      </div>
+    </div>
+  </div>
+  <div id="funcBox">
+    <div id="cityChannel">
+      <div id="cityList"><span>城市频道</span><ul><li><a href="http://www.zhaopin.com/beijing/" onmousedown="return AdsClick(121115223,'beijing')" class="hl">北京</a></li><li><a href="http://www.zhaopin.com/shanghai/" onmousedown="return AdsClick(121115223,'shanghai')">上海</a></li><li><a href="http://www.zhaopin.com/guangzhou/" onmousedown="return AdsClick(121115223,'guangzhou')">广州</a></li><li><a href="http://www.zhaopin.com/shenzhen/" onmousedown="return AdsClick(121115223,'shenzhen')">深圳</a></li><li><a href="http://www.zhaopin.com/tianjin/" onmousedown="return AdsClick(121115223,'tianjin')">天津</a></li><li><a href="http://www.zhaopin.com/dalian/" onmousedown="return AdsClick(121115223,'dalian')">大连</a></li><li><a href="http://www.zhaopin.com/shenyang/" onmousedown="return AdsClick(121115223,'shenyang')">沈阳</a></li><li><a href="http://www.zhaopin.com/jinan/" onmousedown="return AdsClick(121115223,'jinan')">济南</a></li><li><a href="http://www.zhaopin.com/shijiazhuang/" onmousedown="return AdsClick(121115223,'shijiazhuang')">石家庄</a></li><li><a href="http://www.zhaopin.com/handan/" onmousedown="return AdsClick(121115223,'handan')">邯郸</a></li><li><a href="http://www.zhaopin.com/tangshan/" onmousedown="return AdsClick(121115223,'tangshan')">唐山</a></li><li><a href="http://www.zhaopin.com/baoding/" onmousedown="return AdsClick(121115223,'baoding')">保定</a></li><li><a href="http://www.zhaopin.com/qinhuangdao/" onmousedown="return AdsClick(121115223,'qinhuangdao')">秦皇岛</a></li><li><a href="http://www.zhaopin.com/zibo/" onmousedown="return AdsClick(121115223,'zibo')">淄博</a></li><li><a href="http://www.zhaopin.com/weifang/" onmousedown="return AdsClick(121115223,'weifang')">潍坊</a></li><li><a href="http://www.zhaopin.com/yantai/" onmousedown="return AdsClick(121115223,'yantai')">烟台</a></li></ul></div>
+      <a id="cityMore" href="http://www.zhaopin.com/citymap.html" target="_blank" rel="nofollow">更多<b class="arrowD"></b></a> </div>
+    <div id="funSearch">
+      <div id="searchForm">
+        <form name="frmSearch" method="get" autocomplete="off" onsubmit="return zlzp.searchjob.gotoSearch_t()">
+          <input name="Location" value="" type="hidden">
+          <input name="xt_f" value="14" type="hidden">
+          <input name="page" value="" type="hidden">
+          <input name="SchJobType" value="" type="hidden">
+          <input name="subJobtype" value="" type="hidden">
+          <input name="industry" value="" type="hidden">
+          <input name="PublishDate" value="" type="hidden">
+          <input name="sortby" value="" type="hidden">
+          <input name="SearchModel" value="0" type="hidden">
+          <input name="ref" value="jobsearch" type="hidden">
+          <input name="f_kw" value="" type="hidden">
+          <div class="industry">
+            <input id="buttonSelJobType" name="buttonSelJobType" value="选择职位" title="选择职位" type="button">
+          </div>
+          <div class="job">
+            <input id="buttonSelIndustry" name="buttonSelIndustry" value="选择行业" title="选择行业" type="button">
+          </div>
+          <div class="city">
+            <span class="ui-helper-hidden-accessible" aria-live="polite" role="status"></span><input autocomplete="off" class="cityInput ui-autocomplete-input inputAction" id="JobLocation" name="JobLocation" maxlength="100" onfocus="zlzp.clearDefTxt(this,zlzp.searchjob.c_tips);" onblur="zlzp.setDefTxt(this,zlzp.searchjob.c_tips);" sjmodule="AutoComplete" xhrasp="http://sou.zhaopin.com/jobs/ajax/ajax_city.aspx" xhrstyle="c" submitform="0" sugwidth="230" value="输入/选择城市" type="text">
+            <input id="buttonSelCity" name="buttonSelCity" title="选择城市" class="cityButton" type="button">
+          </div>
+          <div class="keyword">
+            <span class="ui-helper-hidden-accessible" aria-live="polite" role="status"></span><input autocomplete="off" class="ui-autocomplete-input inputTips" name="KeyWord" id="KeyWord_kw2" onfocus="zlzp.clearDefTxt(this,zlzp.searchjob.k_tips);" onblur="zlzp.setDefTxt(this,zlzp.searchjob.k_tips);" maxlength="100" sjmodule="AutoComplete" xhrasp="http://smart.zhaopin.com/hotword/jsonp" xhrstyle="k" iskeyword="1" value="输入公司名称或职位名称" type="text">
+          </div>
+          <div class="btn">
+            <button class="doSearch" onclick="zlzp.searchjob.gotoSearch_t()"></button>
+            <div id="advSearch" style="text-align:center;"><a rel="nofollow" href="http://sou.zhaopin.com/index.ashx?isadv=1">高级搜索<span class="ss">&gt;</span></a></div>
+          </div>
+        <input value="北京" name="JobLocation_oq" type="hidden"><input value="f" name="JobLocation_aq" type="hidden"><input value="输入公司名称或职位名称" name="KeyWord_oq" type="hidden"><input value="f" name="KeyWord_aq" type="hidden"></form>
+      </div>
+    </div>
+    <div id="funcInfo">
+      <dl>
+        <dt>实用快讯</dt>
+        <dd class="zpService"> <a rel="nofollow" href="http://top.zhaopin.com/" class="rank" title="智联排行榜" target="_blank"></a> <a rel="nofollow" href="http://article.zhaopin.com/payquery/index.do" class="salary" title="薪酬查询" target="_blank"></a> <a href="http://company.zhaopin.com/" class="wendao" title="名企求职" target="_blank"></a> <a href="http://jobs.zhaopin.com/" class="test" title="最新职位" target="_blank"></a> </dd>
+        <dt class="iTitle2">职位排行</dt>
+        <dd>
+          <ul style="margin-top: 0px;" id="scroll2">
+            
+        
+        
+            
+        
+        
+            
+            
+        
+        
+        
+            
+            
+            
+            
+            
+        
+        
+        
+            
+        
+            
+
+          <li>
+            <a href="http://article.zhaopin.com/marketing/pub/view/detail-100033.html" title="学生党防骗全攻略" onmousedown="return adsclick(121111550,'new_zpindex_zhaopinservice4')" target="_blank">学生党防骗全攻略</a>
+        </li><li>
+            <a href="http://article.zhaopin.com/marketing/pub/view/detail-100032.html" title="83.9%受访者呼吁高校就业指导加“防骗”课程" onmousedown="return adsclick(121111550,'new_zpindex_zhaopinservice5')" target="_blank">83.9%受访者呼吁高校就业指导加</a>
+        </li><li>
+                <a href="http://jianli.zhaopin.com/" title="最新简历模板" onmousedown="return adsclick(121111550,'new_zpindex_zhaopinservice6')" target="_blank">最新简历模板</a>
+            </li><li>
+                <a href="http://cnt.zhaopin.com/Market/whole_counter.jsp?sid=121126033&amp;site=bdzc3&amp;url=http://cimg.zhaopin.cn/activity/future/xiaoming/" title="霸道总裁黄晓明寻找最美校花" onmousedown="return adsclick(121111550,'new_zpindex_zhaopinservice7')" target="_blank">霸道总裁黄晓明寻找最美校花</a>
+            </li><li>
+            <a href="http://article.zhaopin.com/marketing/pub/view/detail-100029.html" title="近半数95后对找工作不着急 网红成为最红新职业" onmousedown="return adsclick(121111550,'new_zpindex_zhaopinservice8')" target="_blank">近半数95后对找工作不着急 网红成</a>
+        </li><li>
+            <a href="http://article.zhaopin.com/marketing/pub/view/detail-100028.html" title="你的团队需要一个会讲故事的人" onmousedown="return adsclick(121111550,'new_zpindex_zhaopinservice9')" target="_blank">你的团队需要一个会讲故事的人</a>
+        </li><li>
+            <a href="http://article.zhaopin.com/marketing/pub/view/detail-100027.html" title="重磅! 社保将有这些新变化 与你息息相关" onmousedown="return adsclick(121111550,'new_zpindex_zhaopinservice10')" target="_blank">重磅! 社保将有这些新变化 与你息</a>
+        </li><li>
+                <a href="http://cnt.zhaopin.com/Market/whole_counter.jsp?sid=121126033&amp;site=sykx4&amp;url=http://cimg.zhaopin.cn/activity/future/gover/" title="稳定才是硬道理-国有企业最新出击" onmousedown="return adsclick(121111550,'new_zpindex_zhaopinservice11')" target="_blank">稳定才是硬道理-国有企业最新出击</a>
+            </li><li>
+                <a href="http://cnt.zhaopin.com/Market/whole_counter.jsp?sid=121126033&amp;site=sykx3&amp;url=http://cimg.zhaopin.cn/activity/future/optential/" title="人不创业枉少年-潜力企业专场" onmousedown="return adsclick(121111550,'new_zpindex_zhaopinservice12')" target="_blank">人不创业枉少年-潜力企业专场</a>
+            </li><li>
+                <a href="http://cnt.zhaopin.com/Market/whole_counter.jsp?sid=121126033&amp;site=sykx2&amp;url=http://xiaoyuan.zhaopin.com/first/Ability" title="应聘必读--决胜面试就是这么6666" onmousedown="return adsclick(121111550,'new_zpindex_zhaopinservice13')" target="_blank">应聘必读--决胜面试就是这么6666</a>
+            </li><li>
+                <a href="http://cnt.zhaopin.com/Market/whole_counter.jsp?sid=121126033&amp;site=sykx1&amp;url=http://xiaoyuan.zhaopin.com/first" title="就业有位来 找到你的第一份好工作" onmousedown="return adsclick(121111550,'new_zpindex_zhaopinservice14')" target="_blank">就业有位来 找到你的第一份好工作</a>
+            </li><li>
+                <a href="http://cimg.zhaopin.cn/activity/future/xiaoming/index_pc.html" title="如何让管理者拥有创新精神？" onmousedown="return adsclick(121111550,'new_zpindex_zhaopinservice15')" target="_blank">如何让管理者拥有创新精神？</a>
+            </li><li>
+            <a href="http://article.zhaopin.com/marketing/pub/view/detail-100021.html" title="全球银行大裁员，哪些岗位依然“高薪”？" onmousedown="return adsclick(121111550,'new_zpindex_zhaopinservice16')" target="_blank">全球银行大裁员，哪些岗位依然“高薪</a>
+        </li><li>
+            <a href="http://article.zhaopin.com/marketing/pub/view/detail-100020.html" title="互联网让招聘透明化  HR承诺有投必反馈" onmousedown="return adsclick(121111550,'new_zpindex_zhaopinservice17')" target="_blank">互联网让招聘透明化  HR承诺有投</a>
+        </li><li>
+            <a href="http://article.zhaopin.com/marketing/pub/view/detail-100019.html" title="关于工资的8个秘密，你不看就亏了！" onmousedown="return adsclick(121111550,'new_zpindex_zhaopinservice18')" target="_blank">关于工资的8个秘密，你不看就亏了！</a>
+        </li><li>
+                <a href="http://sydw.zhaopin.com/" title="事业单位招聘" onmousedown="return adsclick(121111550,'new_zpindex_zhaopinservice19')" target="_blank">事业单位招聘</a>
+            </li><li>
+            <a href="http://article.zhaopin.com/marketing/pub/view/detail-100017.html" title="我的老板离职了" onmousedown="return adsclick(121111550,'new_zpindex_zhaopinservice20')" target="_blank">我的老板离职了</a>
+        </li><li>
+                <a href="http://article.zhaopin.com/pub/ch/26943.html" title="共同打击网络诈骗 共建社会主义和谐社会" onmousedown="return adsclick(121111550,'new_zpindex_zhaopinservice21')" target="_blank">共同打击网络诈骗 共建社会主义和谐</a>
+            </li><li>
+            <a href="http://article.zhaopin.com/marketing/pub/view/detail-100067.html" title="洞见职场未来 智联招聘发布2016最佳雇主百强榜单" onmousedown="return adsclick(121111550,'new_zpindex_zhaopinservice1')" target="_blank">洞见职场未来 智联招聘发布2016</a>
+        </li><li>
+            <a href="http://article.zhaopin.com/marketing/pub/view/detail-100066.html" title="就业有位来金秋起航 智联招聘助力大学生“趣就业享未来”" onmousedown="return adsclick(121111550,'new_zpindex_zhaopinservice2')" target="_blank">就业有位来金秋起航 智联招聘助力大</a>
+        </li><li>
+                <a href="http://cbox.cctv.com/phone/video/index.shtml?guid=7ed968958b9246fd9657223ec553c943&amp;from=message&amp;isappinstalled=0" title="高宝来:平凡民警的不平凡" onmousedown="return adsclick(121111550,'new_zpindex_zhaopinservice3')" target="_blank">高宝来:平凡民警的不平凡</a>
+            </li></ul>
+        </dd>
+        <dt class="iTitle3">热点招聘</dt>
+        <dd>
+          <ul style="margin-top: -10.0196px;" id="scroll3">
+            
+             
+
+
+
+
+
+
+
+
+
+<!--ZHAOPININDEX_HOTZHAOPIN Success end-->
+
+
+          <li><a href="http://www.51testing.net/htm/zpwz/zhaopinsygdwz.htm" onmousedown="return AdsClick(913,6913)" rel="nofollow" target="_blank" class="linkss">51Testing急招 80、90后</a>
+</li><li><a href="http://www.yintechi.com/zl1.html" onmousedown="return AdsClick(913,346536)" rel="nofollow" target="_blank" class="linkss">因特驰 高薪急招专本科应届毕业生</a>
+</li><li><a href="http://www.yztcedu.com/zp?rd" onmousedown="return AdsClick(913,6919)" rel="nofollow" target="_blank" class="linkss">育知  高薪急招50名   专本科生</a>
+</li><li><a href="http://www.talentjava.com/zlt.html" onmousedown="return AdsClick(913,6935)" rel="nofollow" target="_blank" class="linkss">钛伦特 高薪 急招应往届毕业生</a>
+</li><li><a href="http://www.yintechi.com/zl1.html" onmousedown="return AdsClick(913,6915)" rel="nofollow" target="_blank" class="linkss">因特驰hot 急招150名应届生 高薪</a>
+</li><li><a href="http://www.test-edu.net/sygd/" onmousedown="return AdsClick(913,337643)" rel="nofollow" target="_blank" class="linkss">北测 急招 本科大专生</a>
+</li><li><a href="http://www.test-edu.net/about.asp?id=1038" onmousedown="return AdsClick(913,337642)" rel="nofollow" target="_blank" class="linkss">北测急招28人 高薪诚聘应届毕业生</a>
+</li><li><a href="http://www.51code.com/htm/android4/zhaopingdwz.htm" onmousedown="return AdsClick(913,6917)" rel="nofollow" target="_blank" class="linkss">博为峰51Code 招 本科大专生</a>
+</li><li><a href="http://www.vfast.com.cn/vfast098/#6d" onmousedown="return AdsClick(913,346532)" rel="nofollow" target="_blank" class="linkss">荣新 急招往届生 应届生 IT实习生</a>
+</li><li><a href="http://special.zhaopin.com/gz/2009/xcrs071728/jobs.htm" onmousedown="return AdsClick(913,6969)" target="_blank" class="linkss">信诚人寿保险有限公司</a>
+</li></ul>
+        </dd>
+      </dl>
+    </div>
+  </div>
+</div>
+<div id="wrapper">
+  <div class="adsBox sliderBox">
+    <div id="slider1">   	   	
+    	 
+    	<div style="display: none;" class="sliderItem"><a ref="nofollow" href="http://special.zhaopin.com/2016/bf/zsqw092110" onmousedown="return AdsClick(7738,108227)" target="_blank"><img style="" class="am bm ct210300" cid="28913178" bid="7738" lid="108227" src="http://img02.zhaopin.cn/img_button/201609/23/zhongshi-adalunbo-th2_165627252749.jpg" alt="中视前卫影视传媒有限公司招聘信息" height="173" width="322" border="0"></a></div> 
+<div style="display: block;" class="sliderItem"><a ref="nofollow" href="http://cnt.zhaopin.com/Market/whole_counter.jsp?sid=121126879&amp;site=zllb&amp;url=http://xiaoyuan.zhaopin.com/first" onmousedown="return AdsClick(7738,104355)" target="_blank"><img style="" class="bm" src="http://img00.zhaopin.cn/img_button/201609/07/jiuyeyouweilai-sydalunbo_175425447793.jpg" alt="Zhaopin.com招聘信息" height="173" width="322" border="0"></a></div> 
+<div style="display: none;" class="sliderItem"><a ref="nofollow" href="http://c.highpin.cn/active/AppPromotionIndex" onmousedown="return AdsClick(7738,97429)" rel="nofollow" target="_blank"><img style="" class="bm" src="http://img00.zhaopin.cn/img_button/201606/06/zhuopin-lunbo_150928955939.jpg" alt="Zhaopin.com招聘信息" height="173" width="322" border="0"></a></div> 
+<div style="display: none;" class="sliderItem"><a ref="nofollow" href="http://cnt.zhaopin.com/Market/whole_counter.jsp?sid=121124870&amp;site=leftbanner&amp;url=http://byd.xiaoyuan.zhaopin.com/" onmousedown="return AdsClick(7738,85460)" target="_blank"><img style="" class="bm" src="http://img00.zhaopin.cn/img_button/201506/02/web1-2.jpg" alt="Zhaopin.com招聘信息" height="173" width="322" border="0"></a></div> 
+<div style="display: none;" class="sliderItem"><a ref="nofollow" href="http://rpo.zhaopin.com/specialsubject/SpecialSubjectPage/SpecialSubject65.html" onmousedown="return AdsClick(7738,85465)" target="_blank"><img style="" class="bm" src="http://img00.zhaopin.cn/img_button/201608/19/rpo-dalunbo-th3_104708976851.jpg" alt="Zhaopin.com招聘信息" height="173" width="322" border="0"></a></div> 
+<!--ZHAOPININDEX_AQULUNBO Success end-->
+
+<div class="sliderFinger" style="width: 103px; left: 210px;"><a class="" href="javascript:;" title=""></a><a class="on" href="javascript:;" title=""></a><a class="" href="javascript:;" title=""></a><a class="" href="javascript:;" title=""></a><a class="" href="javascript:;" title=""></a></div></div>    
+      <li style="margin-top: 6px; _margin-top:4px;"><a href="http://tsingtao.zhiye.com/" onmousedown="return AdsClick(7697,112833)" rel="nofollow" target="_blank"><img style="" class=" bm ct120400 ct170000" cid="40898" bid="7697" lid="112833" src="http://img01.zhaopin.cn/img_button/201609/30/bdfggsdfsfsf_101906500515.gif" alt="青岛啤酒股份有限公司招聘信息" height="53" width="322" border="0"></a></li> 
+<!--ZHAOPININDEX_AQU8in1 Success end-->
+
+  
+  	  
+    	
+    
+    
+    
+    
+  </div>
+  
+  <div class="adsBox  ad16in1 ">
+    <ul>
+   	
+   	<li><a href="http://yango2017.zhaopin.com/" onmousedown="return AdsClick(9458,371809)" target="_blank"><img style="" class=" bm ct140000" cid="47362101" bid="9458" lid="371809" src="http://img00.zhaopin.cn/img_button/201609/28/zzzaaaasffghss_163856175753.gif" alt="阳光城集团股份有限公司招聘信息" height="53" width="655" border="0"></a></li> 
+<li><a href="http://career.cmbc.com.cn:8080/portal/notice/viewPortalNotice.action?model.id=1ecf8ddb-0930-4d90-bdbb-f0521e51718d&amp;recruitmentMethod=4" onmousedown="return AdsClick(9458,122767)" rel="nofollow" target="_blank"><img style="" class="am bm ct200300 ct300500" cid="6755" bid="9458" lid="122767" src="http://img02.zhaopin.cn/img_button/201609/12/dfgsdfdsfdsfsfsf_163045493799.gif" alt="中国民生银行股份有限公司招聘信息" height="53" width="655" border="0"></a></li> 
+<li><a href="http://spdb.zhaopin.com/" onmousedown="return AdsClick(9458,341093)" target="_blank"><img style="" class=" bm ct300500" cid="19508562" bid="9458" lid="341093" src="http://img01.zhaopin.cn/img_button/201609/26/zsssaa_100852931773.gif" alt="上海浦东发展银行股份有限公司招聘信息" height="53" width="655" border="0"></a></li> 
+<li><a href="http://nd.zhaopin.com/" onmousedown="return AdsClick(9458,341091)" target="_blank"><img style="" class="am bm ct160000 ct160400 ct160600 ct210500" cid="19120111" bid="9458" lid="341091" src="http://img00.zhaopin.cn/img_button/201609/05/wanglong-16_174748732962.gif" alt="福建网龙计算机网络信息技术有限公司招聘信息" height="53" width="655" border="0"></a></li> 
+<!--ZHAOPININDEX_AQU8in1 Success end-->
+
+
+    </ul>
+  </div>
+  
+  <div class="adsBox ad8in1">
+    <ul>
+      
+
+
+    </ul>
+    
+  </div>
+  
+  <div id="hot8in1" class="clearfix">
+    <div class="hidden"> A区下半八合一</div>
+    <div class="adsBox ad8in1 ad8in1No">
+      <ul>
+        <li><a href="https://campus.liepin.com/xinli2017" onmousedown="return AdsClick(7697,85430)" rel="nofollow" target="_blank"><img style="" class="am bm " cid="50261272" bid="7697" lid="85430" src="http://img02.zhaopin.cn/img_button/201609/29/sfhdfhdfh_155959894632.gif" alt="江西新力置地投资有限公司招聘信息" height="53" width="322" border="0"></a></li> 
+<li><a href="http://www.hotjob.cn/wt/xdf/web/templet1000/index/corpwebPosition1000xdf!getPostListByCondition?positionType=0&amp;brandCode=1&amp;useForm=0&amp;recruitType=12&amp;showComp=true" onmousedown="return AdsClick(7697,190807)" rel="nofollow" target="_blank"><img style="" class="am bm ct201100" cid="12000236" bid="7697" lid="190807" src="http://img01.zhaopin.cn/img_button/201609/01/xindongfang-322_175728168686.gif" alt="新东方教育科技集团\新东方学校招聘信息" height="53" width="322" border="0"></a></li> 
+<li><a href="http://www.retail-recruitment.bmw.zhaopin.com/" onmousedown="return AdsClick(7697,147946)" target="_blank"><img style="" class="am bm ct121000" cid="12038940" bid="7697" lid="147946" src="http://img01.zhaopin.cn/img_button/201606/17/sdfghfsdh_174814317386.gif" alt="宝马中国培训学院经销商人力资源发展招聘信息" height="53" width="322" border="0"></a></li> 
+<li><a href="http://special.zhaopin.com/2016/nc/6182092821/index.html" onmousedown="return AdsClick(7697,85429)" target="_blank"><img style="" class="am bm " cid="61826272" bid="7697" lid="85429" src="http://img01.zhaopin.cn/img_button/201609/29/youzhnegjiangxi-322_124419437444.gif" alt="中国邮政储蓄银行股份有限公司江西省分行招聘信息" height="53" width="322" border="0"></a></li> 
+<li><a href="http://special.zhaopin.com/2016/nj/jszj081292" onmousedown="return AdsClick(7697,85280)" target="_blank"><img style="" class="am bm ct300500" cid="30762151" bid="7697" lid="85280" src="http://img01.zhaopin.cn/img_button/201609/14/zijin-aqu_183640417126.gif" alt="江苏紫金农村商业银行股份有限公司招聘信息" height="53" width="322" border="0"></a></li> 
+<li><a href="http://hbydxy.zhaopin.com/" onmousedown="return AdsClick(7697,113428)" target="_blank"><img style="" class="am bm ct160100 ct300100" cid="15930461" bid="7697" lid="113428" src="http://img00.zhaopin.cn/img_button/201609/12/hubeiyd-sya_113041650520.gif" alt="中国移动通信集团湖北有限公司招聘信息" height="53" width="322" border="0"></a></li> 
+<li><a href="http://sgm.zhiye.com/" onmousedown="return AdsClick(7697,113131)" rel="nofollow" target="_blank"><img style="" class="am bm ct121000" cid="3063" bid="7697" lid="113131" src="http://img02.zhaopin.cn/img_button/201609/26/dfgsdfsdfsfs_174513122052.gif" alt="上汽通用汽车有限公司招聘信息" height="53" width="322" border="0"></a></li> 
+<li><a href="http://chinagreentown.zhaopin.com/" onmousedown="return AdsClick(7697,357787)" target="_blank"><img style="" class="am bm ct140000 ct180100 ct210500 ct990000" cid="12022220" bid="7697" lid="357787" src="http://img02.zhaopin.cn/img_button/201609/25/lvcheng-a8he1_135526141818.gif" alt="绿城房地产集团有限公司招聘信息" height="53" width="322" border="0"></a></li> 
+<li><a href="http://special.zhaopin.com/2016/bf/jzds092326w" onmousedown="return AdsClick(7697,113427)" target="_blank"><img style="" class="am bm ct100000 ct120400 ct120500 ct121100" cid="12052538" bid="7697" lid="113427" src="http://img01.zhaopin.cn/img_button/201609/23/button_180113394878.gif" alt="金正大生态工程集团股份有限公司招聘信息" height="53" width="322" border="0"></a></li> 
+<li><a href="http://job.kzbd.cn/#v" onmousedown="return AdsClick(7697,113587)" rel="nofollow" target="_blank"><img style="" class="am bm ct120200 ct121500" cid="15408241" bid="7697" lid="113587" src="http://img01.zhaopin.cn/img_button/201608/15/rshdfshfdhdh_153104966089.gif" alt="秦皇岛康姿百德高新技术开发有限公司招聘信息" height="53" width="322" border="0"></a></li> 
+<li><a href="http://phicomm.zhaopin.com/" onmousedown="return AdsClick(7697,151217)" target="_blank"><img style="" class="am bm ct160100 ct160200 ct300100" cid="24001151" bid="7697" lid="151217" src="http://img01.zhaopin.cn/img_button/201609/14/peixun-aqu322_174012940875.gif" alt="上海斐讯数据通信技术有限公司招聘信息" height="53" width="322" border="0"></a></li> 
+<li><a href="http://special.zhaopin.com/campus/2016/sh/zhwx083058/" onmousedown="return AdsClick(7697,85275)" target="_blank"><img style="" class=" bm ct300000" cid="51105" bid="7697" lid="85275" src="http://img01.zhaopin.cn/img_button/201609/01/zhgywx-322_093631323413.gif" alt="中国航空无线电电子研究所招聘信息" height="53" width="322" border="0"></a></li> 
+<li><a href="http://zhaopin.epicc.com.cn/zhaopin/" onmousedown="return AdsClick(7697,113410)" rel="nofollow" target="_blank"><img style="" class="am bm ct180000 ct180100" cid="12038424" bid="7697" lid="113410" src="http://img02.zhaopin.cn/img_button/201410/08/12038424j3.gif" alt="中国人民财产保险股份有限公司招聘信息" height="53" width="322" border="0"></a></li> 
+<li><a href="http://special.zhaopin.com/sy/2015/djt042852" onmousedown="return AdsClick(7697,85281)" target="_blank"><img style="" class="am bm ct170000" cid="15919161" bid="7697" lid="85281" src="http://img02.zhaopin.cn/img_button/201609/30/rehdfshdfsf_142917230581_185523475168.gif" alt="沈阳兴隆大家庭购物中心有限公司招聘信息" height="53" width="322" border="0"></a></li> 
+<li><a href="http://special.zhaopin.com/campus/2016/nj/hsyx092852/" onmousedown="return AdsClick(7697,357789)" target="_blank"><img style="" class="am bm ct300500" cid="13575883" bid="7697" lid="357789" src="http://img01.zhaopin.cn/img_button/201609/30/huisahng_170218742529.gif" alt="徽商银行股份有限公司招聘信息" height="53" width="322" border="0"></a></li> 
+<li><a href="http://www.cgbchina.com.cn/Info/20691086" onmousedown="return AdsClick(7697,85279)" rel="nofollow" target="_blank"><img style="" class=" bm ct300500 ct990000" cid="23283062" bid="7697" lid="85279" src="http://img01.zhaopin.cn/img_button/201608/16/guangfayinhang-syaq-th_110957225399.gif" alt="广发银行股份有限公司2招聘信息" height="53" width="322" border="0"></a></li> 
+<li><a href="http://special.zhaopin.com/campus/2016/sh/shns090892" onmousedown="return AdsClick(7697,113588)" target="_blank"><img style="" class="am bm ct180000 ct300500" cid="13364775" bid="7697" lid="113588" src="http://img00.zhaopin.cn/img_button/201609/30/shdfshhdff_111935278250.gif" alt="上海农村商业银行股份有限公司招聘信息" height="53" width="322" border="0"></a></li> 
+<li><a href="http://special.zhaopin.com/2016/cc/zccc090223" onmousedown="return AdsClick(7697,190808)" target="_blank"><img style="" class="am bm " cid="34181538" bid="7697" lid="190808" src="http://img00.zhaopin.cn/img_button/201609/14/zhongche-322_141826687135.gif" alt="中车长春轨道客车股份有限公司招聘信息" height="53" width="322" border="0"></a></li> 
+<li><a href="https://job.bankcomm.com/queryPosition.do" onmousedown="return AdsClick(7697,357781)" rel="nofollow" target="_blank"><img style="" class="am bm ct300500" cid="13376598" bid="7697" lid="357781" src="http://img01.zhaopin.cn/img_button/201609/18/dahdfhdfhfh_141746676558.gif" alt="交通银行股份有限公司太平洋信用卡中心招聘信息" height="53" width="322" border="0"></a></li> 
+<li><a href="http://psbc2017.zhaopin.com/" onmousedown="return AdsClick(7697,149370)" target="_blank"><img style="" class="am bm ct300500" cid="13422057" bid="7697" lid="149370" src="http://img00.zhaopin.cn/img_button/201609/23/youzheng-322aqu_092326889277.jpg" alt="中国邮政储蓄银行股份有限公司招聘信息" height="53" width="322" border="0"></a></li> 
+<li><a href="http://chinamobile2017.zhaopin.com" onmousedown="return AdsClick(7697,93377)" target="_blank"><img style="" class="am bm ct300100" cid="41368" bid="7697" lid="93377" src="http://img01.zhaopin.cn/img_button/201609/02/button-a_174807165738.gif" alt="中国移动通信集团公司招聘信息" height="53" width="322" border="0"></a></li> 
+<li><a href="http://special.zhaopin.com/campus/2016/bj/yx20091426/campus.html" onmousedown="return AdsClick(7697,357786)" target="_blank"><img style="" class="am bm ct180000" cid="37111151" bid="7697" lid="357786" src="http://img01.zhaopin.cn/img_button/201609/09/yixin322_174330648942.gif" alt="宜信公司招聘信息" height="53" width="322" border="0"></a></li> 
+<li><a href="http://special.zhaopin.com/pagepublish/24346/index.html" onmousedown="return AdsClick(7697,149369)" target="_blank"><img style="" class="am bm ct121000" cid="24346" bid="7697" lid="149369" src="http://img02.zhaopin.cn/img_button/201411/05/dz-s8bj.gif" alt="大众汽车(中国)投资有限公司招聘信息" height="53" width="322" border="0"></a></li> 
+<li><a href="http://www.51testing.net/htm/zpwc/zhaopinaq.htm" onmousedown="return AdsClick(7697,129537)" rel="nofollow" target="_blank"><img style="" class=" bm ct160400 ct201100" cid="14536272" bid="7697" lid="129537" src="http://img00.zhaopin.cn/img_button/201602/25/shouyeaqudaanniu041.gif" alt="博为峰(北京)信息技术有限公司招聘信息" height="53" width="322" border="0"></a></li> 
+<li><a href="http://cnt.zhaopin.com/Market/whole_counter.jsp?sid=121126879&amp;site=zlann&amp;url=http://xiaoyuan.zhaopin.com/first" onmousedown="return AdsClick(7697,93379)" target="_blank"><img style="" class="bm" src="http://img00.zhaopin.cn/img_button/201609/12/jiuyeyouweilai-a8he1_172735188661.gif" alt="Zhaopin.com招聘信息" height="53" width="322" border="0"></a></li> 
+<li><a href="http://cnt.zhaopin.com/Market/whole_counter.jsp?sid=121126401&amp;site=aqu&amp;url=http://best.zhaopin.com" onmousedown="return AdsClick(7697,109312)" target="_blank"><img style="" class="bm" src="http://img00.zhaopin.cn/img_button/201608/01/zuijiaguzhu-a8he1_095559369512.jpg" alt="Zhaopin.com招聘信息" height="53" width="322" border="0"></a></li> 
+<li><a href="http://www.zhaopin.com/mobile/" onmousedown="return AdsClick(7678,85146)" target="_blank"><img style="" class="bm" src="http://img00.zhaopin.cn/img_button/201512/03/index_guding_app-daanniu.jpg" alt="Zhaopin.com招聘信息" height="53" width="322" border="0"></a></li> 
+
+
+
+      </ul>
+    </div>
+  </div>
+  <div class="clearfix font0"></div>
+  
+<!--2015.7.7 职位导航 更改部分begin -->
+  <div id="cityNavBar" class="blockT">
+    <div class="ti"></div>
+    <ul>
+      <li>A</li><li>B</li><li>C</li><li>D</li><li>F</li><li>G</li><li>H</li><li>J</li><li>K</li><li>L</li><li>M</li><li>N</li><li>P</li><li>Q</li><li>R</li><li>S</li><li>T</li><li>V</li><li>W</li><li>X</li><li>Y</li><li>Z</li>
+    </ul>
+    <div class="cityNavBar_content">
+
+      <div class="cityNavBar_content_list">
+        <div class="cityNavPopIdx">A</div>
+        <div class="cityNavPopBd">
+        	<a href="http://jobs.zhaopin.com/sj633/">阿拉伯语翻译</a>
+<a href="http://jobs.zhaopin.com/sj4011/">安防</a>
+<a href="http://jobs.zhaopin.com/sj3021/">安全工程师</a>
+<a href="http://jobs.zhaopin.com/sj331/">安全管理</a>
+<a href="http://jobs.zhaopin.com/sj641/">按摩</a>
+<a href="http://jobs.zhaopin.com/sj234/">按摩师</a>
+   
+          <img style="" class="cityNavClose" src="http://img02.zhaopin.cn/2012/img/index/ico_close.png">
+        </div>
+        <div style="clear:both;"></div>
+      </div>
+
+        <div class="cityNavBar_content_list">
+          <div class="cityNavPopIdx">B</div>
+          <div class="cityNavPopBd">
+           <a href="http://jobs.zhaopin.com/sj491/">搬运工</a>
+<a href="http://jobs.zhaopin.com/sj104/">保安</a>
+<a href="http://jobs.zhaopin.com/sj651/">保洁</a>
+<a href="http://jobs.zhaopin.com/sj901/">保姆</a>
+<a href="http://jobs.zhaopin.com/sj196/">保险代理</a>
+<a href="http://jobs.zhaopin.com/sj239/">报关员</a>
+<a href="http://jobs.zhaopin.com/sj4019/">编剧</a>
+<a href="http://jobs.zhaopin.com/sj4009/">布线</a>
+            <img style="" class="cityNavClose" src="http://img02.zhaopin.cn/2012/img/index/ico_close.png">
+          </div>
+        </div>
+
+        <div class="cityNavBar_content_list">
+          <div class="cityNavPopIdx">C</div>
+          <div class="cityNavPopBd">
+           <a href="http://jobs.zhaopin.com/sj2001/">ceo</a>
+<a href="http://jobs.zhaopin.com/sj139/">cfo</a>
+<a href="http://jobs.zhaopin.com/sj2020/">cio</a>
+<a href="http://jobs.zhaopin.com/sj5118/">coo</a>
+<a href="http://jobs.zhaopin.com/sj137/">cto</a>
+<a href="http://jobs.zhaopin.com/sj714/">财务顾问</a>
+<a href="http://jobs.zhaopin.com/sj5056/">财务管理</a>
+<a href="http://jobs.zhaopin.com/sj5052/">财务会计</a>
+<a href="http://jobs.zhaopin.com/sj201/">财务经理</a>
+<a href="http://jobs.zhaopin.com/sj200/">财务总监</a>
+<a href="http://jobs.zhaopin.com/sj6082/">采购员</a>
+<a href="http://jobs.zhaopin.com/sj3069/">操作工</a>
+<a href="http://jobs.zhaopin.com/sj410/">测试工程师</a>
+<a href="http://jobs.zhaopin.com/sj2090/">茶艺师</a>
+<a href="http://jobs.zhaopin.com/sj8176/">产科医生</a>
+<a href="http://jobs.zhaopin.com/sj847/">产品经理</a>
+<a href="http://jobs.zhaopin.com/sj061/">厂长</a>
+<a href="http://jobs.zhaopin.com/sj6075/">车险</a>
+<a href="http://jobs.zhaopin.com/sj527/">成本会计</a>
+<a href="http://jobs.zhaopin.com/sj8213/">宠物美容</a>
+<a href="http://jobs.zhaopin.com/sj208/">出纳员</a>
+<a href="http://jobs.zhaopin.com/sj5061/">初级审计师</a>
+<a href="http://jobs.zhaopin.com/sj8033/">初中家教</a>
+<a href="http://jobs.zhaopin.com/sj275/">厨师</a>
+<a href="http://jobs.zhaopin.com/sj301/">储备干部</a>
+<a href="http://jobs.zhaopin.com/sj878/">船员</a>
+            <img style="" class="cityNavClose" src="http://img02.zhaopin.cn/2012/img/index/ico_close.png">
+          </div>
+        </div>
+
+        <div class="cityNavBar_content_list">
+          <div class="cityNavPopIdx">D</div>
+          <div class="cityNavPopBd">
+           <a href="http://jobs.zhaopin.com/sj276/">大堂经理</a>
+<a href="http://jobs.zhaopin.com/sj8271/">大学生兼职</a>
+<a href="http://jobs.zhaopin.com/sj490/">单证员</a>
+<a href="http://jobs.zhaopin.com/sj282/">导游</a>
+<a href="http://jobs.zhaopin.com/sj1112/">道具</a>
+<a href="http://jobs.zhaopin.com/sj270/">德语翻译</a>
+<a href="http://jobs.zhaopin.com/sj6080/">典当行</a>
+<a href="http://jobs.zhaopin.com/sj599/">电工</a>
+<a href="http://jobs.zhaopin.com/sj337/">电焊工</a>
+<a href="http://jobs.zhaopin.com/sj011/">电话销售</a>
+<a href="http://jobs.zhaopin.com/sj865/">电气工程师</a>
+<a href="http://jobs.zhaopin.com/sj078/">电子工程师</a>
+<a href="http://jobs.zhaopin.com/sj5170/">电子商务师</a>
+<a href="http://jobs.zhaopin.com/sj895/">店长</a>
+<a href="http://jobs.zhaopin.com/sj369/">调酒师</a>
+<a href="http://jobs.zhaopin.com/sj655/">动物交配</a>
+            <img style="" class="cityNavClose" src="http://img02.zhaopin.cn/2012/img/index/ico_close.png">
+          </div>
+        </div>
+
+        <div class="cityNavBar_content_list">
+          <div class="cityNavPopIdx">F</div>
+          <div class="cityNavPopBd">
+            <a href="http://jobs.zhaopin.com/sj271/">法语翻译</a>
+<a href="http://jobs.zhaopin.com/sj6027/">房地产策划</a>
+<a href="http://jobs.zhaopin.com/sj6026/">房地产经纪人</a>
+<a href="http://jobs.zhaopin.com/sj567/">房地产评估</a>
+<a href="http://jobs.zhaopin.com/sj708/">房地产销售</a>
+<a href="http://jobs.zhaopin.com/sj105/">房地产中介</a>
+<a href="http://jobs.zhaopin.com/sj190/">风险管理</a>
+<a href="http://jobs.zhaopin.com/sj724/">风险控制</a>
+<a href="http://jobs.zhaopin.com/sj279/">服务员</a>
+<a href="http://jobs.zhaopin.com/sj1037/">服装</a>
+<a href="http://jobs.zhaopin.com/sj155/">服装设计</a>
+<a href="http://jobs.zhaopin.com/sj525/">服装设计师</a>
+<a href="http://jobs.zhaopin.com/sj2052/">服装制版</a>
+<a href="http://jobs.zhaopin.com/sj8177/">妇产科医生</a>
+<a href="http://jobs.zhaopin.com/sj8178/">妇科医生</a>
+            <img style="" class="cityNavClose" src="http://img02.zhaopin.cn/2012/img/index/ico_close.png">
+          </div>
+        </div>
+
+        <div class="cityNavBar_content_list">
+          <div class="cityNavPopIdx">G</div>
+          <div class="cityNavPopBd">
+           <a href="http://jobs.zhaopin.com/sj8078/">钢琴培训</a>
+<a href="http://jobs.zhaopin.com/sj5080/">高级人力资源管理师</a>
+<a href="http://jobs.zhaopin.com/sj044/">高级软件工程师</a>
+<a href="http://jobs.zhaopin.com/sj106/">工程监理</a>
+<a href="http://jobs.zhaopin.com/sj102/">工程造价</a>
+<a href="http://jobs.zhaopin.com/sj4017/">工会</a>
+<a href="http://jobs.zhaopin.com/sj8190/">公共营养师</a>
+<a href="http://jobs.zhaopin.com/sj305/">公务员</a>
+<a href="http://jobs.zhaopin.com/sj488/">供应链管理</a>
+<a href="http://jobs.zhaopin.com/sj381/">管培生</a>
+<a href="http://jobs.zhaopin.com/sj5048/">广告创意</a>
+<a href="http://jobs.zhaopin.com/sj2064/">广告设计师</a>
+<a href="http://jobs.zhaopin.com/sj6084/">国际贸易</a>
+<a href="http://jobs.zhaopin.com/sj8239/">国家公务员</a>
+            <img style="" class="cityNavClose" src="http://img02.zhaopin.cn/2012/img/index/ico_close.png">
+          </div>
+        </div>
+
+        <div class="cityNavBar_content_list">
+          <div class="cityNavPopIdx">H</div>
+          <div class="cityNavPopBd">
+           <a href="http://jobs.zhaopin.com/sj273/">韩语翻译</a>
+<a href="http://jobs.zhaopin.com/sj143/">合伙人</a>
+<a href="http://jobs.zhaopin.com/sj497/">合同管理</a>
+<a href="http://jobs.zhaopin.com/sj185/">后期制作</a>
+<a href="http://jobs.zhaopin.com/sj397/">护士</a>
+<a href="http://jobs.zhaopin.com/sj640/">化妆师</a>
+<a href="http://jobs.zhaopin.com/sj8223/">环保工程师</a>
+<a href="http://jobs.zhaopin.com/sj529/">环境工程师</a>
+<a href="http://jobs.zhaopin.com/sj207/">会计</a>
+<a href="http://jobs.zhaopin.com/sj8273/">会计兼职</a>
+<a href="http://jobs.zhaopin.com/sj3063/">会计师</a>
+<a href="http://jobs.zhaopin.com/sj610/">会展策划</a>
+<a href="http://jobs.zhaopin.com/sj4007/">会展设计</a>
+<a href="http://jobs.zhaopin.com/sj8210/">婚礼策划师</a>
+<a href="http://jobs.zhaopin.com/sj8211/">婚礼司仪</a>
+<a href="http://jobs.zhaopin.com/sj749/">活动策划</a>
+<a href="http://jobs.zhaopin.com/sj759/">活动执行</a>
+<a href="http://jobs.zhaopin.com/sj740/">货运代理</a>
+            <img style="" class="cityNavClose" src="http://img02.zhaopin.cn/2012/img/index/ico_close.png">
+          </div>
+        </div>
+
+        <div class="cityNavBar_content_list">
+          <div class="cityNavPopIdx">J</div>
+        <div class="cityNavPopBd">
+         <a href="http://jobs.zhaopin.com/sj313/">it技术</a>
+<a href="http://jobs.zhaopin.com/sj029/">机械工程师</a>
+<a href="http://jobs.zhaopin.com/sj612/">记者</a>
+<a href="http://jobs.zhaopin.com/sj6013/">技术支持工程师</a>
+<a href="http://jobs.zhaopin.com/sj359/">家教</a>
+<a href="http://jobs.zhaopin.com/sj8218/">家庭保洁</a>
+<a href="http://jobs.zhaopin.com/sj8179/">家庭医生</a>
+<a href="http://jobs.zhaopin.com/sj6051/">家装</a>
+<a href="http://jobs.zhaopin.com/sj659/">兼职</a>
+<a href="http://jobs.zhaopin.com/sj096/">建筑工程师</a>
+<a href="http://jobs.zhaopin.com/sj884/">建筑设计师</a>
+<a href="http://jobs.zhaopin.com/sj6037/">建筑师</a>
+<a href="http://jobs.zhaopin.com/sj376/">健身教练</a>
+<a href="http://jobs.zhaopin.com/sj4080/">讲师</a>
+<a href="http://jobs.zhaopin.com/sj1029/">结构工程师</a>
+<a href="http://jobs.zhaopin.com/sj722/">进出口</a>
+<a href="http://jobs.zhaopin.com/sj178/">经纪人</a>
+<a href="http://jobs.zhaopin.com/sj4050/">景观设计</a>
+<a href="http://jobs.zhaopin.com/sj7073/">景观设计师</a>
+<a href="http://jobs.zhaopin.com/sj281/">酒店管理</a>
+          <img style="" class="cityNavClose" src="http://img02.zhaopin.cn/2012/img/index/ico_close.png">
+      </div>
+        </div>
+
+        <div class="cityNavBar_content_list">
+          <div class="cityNavPopIdx">K</div>
+        <div class="cityNavPopBd">
+         <a href="http://jobs.zhaopin.com/sj2091/">咖啡师</a>
+<a href="http://jobs.zhaopin.com/sj541/">客户服务</a>
+<a href="http://jobs.zhaopin.com/sj004/">客户经理</a>
+<a href="http://jobs.zhaopin.com/sj4105/">课程顾问</a>
+<a href="http://jobs.zhaopin.com/sj247/">快递员</a>
+          <img style="" class="cityNavClose" src="http://img02.zhaopin.cn/2012/img/index/ico_close.png">
+      </div>
+        </div>
+
+        <div class="cityNavBar_content_list">
+          <div class="cityNavPopIdx">L</div>
+        <div class="cityNavPopBd">
+         <a href="http://jobs.zhaopin.com/sj8160/">理发师</a>
+<a href="http://jobs.zhaopin.com/sj223/">律师</a>
+          <img style="" class="cityNavClose" src="http://img02.zhaopin.cn/2012/img/index/ico_close.png">
+      </div>
+        </div>
+
+        <div class="cityNavBar_content_list">
+          <div class="cityNavPopIdx">M</div>
+        <div class="cityNavPopBd">
+         <a href="http://jobs.zhaopin.com/sj664/">买手</a>
+<a href="http://jobs.zhaopin.com/sj377/">美发</a>
+<a href="http://jobs.zhaopin.com/sj4067/">美工</a>
+<a href="http://jobs.zhaopin.com/sj8153/">美容导师</a>
+<a href="http://jobs.zhaopin.com/sj639/">美容师</a>
+<a href="http://jobs.zhaopin.com/sj2004/">面点师</a>
+<a href="http://jobs.zhaopin.com/sj5128/">敏捷开发</a>
+<a href="http://jobs.zhaopin.com/sj588/">模具工程师</a>
+<a href="http://jobs.zhaopin.com/sj3008/">模特</a>
+<a href="http://jobs.zhaopin.com/sj1070/">母婴护理</a>
+<a href="http://jobs.zhaopin.com/sj1078/">木工</a>
+          <img style="" class="cityNavClose" src="http://img02.zhaopin.cn/2012/img/index/ico_close.png">
+      </div>
+        </div>
+
+        <div class="cityNavBar_content_list">
+          <div class="cityNavPopIdx">N</div>
+        <div class="cityNavPopBd">
+         <a href="http://jobs.zhaopin.com/sj534/">能源管理</a>
+<a href="http://jobs.zhaopin.com/sj8220/">暖通工程师</a>
+          <img style="" class="cityNavClose" src="http://img02.zhaopin.cn/2012/img/index/ico_close.png">
+      </div>
+        </div>
+
+        <div class="cityNavBar_content_list">
+          <div class="cityNavPopIdx">P</div>
+        <div class="cityNavPopBd">
+         <a href="http://jobs.zhaopin.com/sj8072/">ios培训</a>
+<a href="http://jobs.zhaopin.com/sj8075/">java培训</a>
+<a href="http://jobs.zhaopin.com/sj8071/">php培训</a>
+<a href="http://jobs.zhaopin.com/sj6079/">拍卖行</a>
+<a href="http://jobs.zhaopin.com/sj181/">排版设计</a>
+<a href="http://jobs.zhaopin.com/sj131/">培训师</a>
+<a href="http://jobs.zhaopin.com/sj2065/">票务</a>
+<a href="http://jobs.zhaopin.com/sj493/">品牌管理</a>
+<a href="http://jobs.zhaopin.com/sj632/">葡萄牙语翻译</a>
+          <img style="" class="cityNavClose" src="http://img02.zhaopin.cn/2012/img/index/ico_close.png">
+      </div>
+        </div>
+
+        <div class="cityNavBar_content_list">
+          <div class="cityNavPopIdx">Q</div>
+        <div class="cityNavPopBd">
+         <a href="http://jobs.zhaopin.com/sj249/">qa</a>
+<a href="http://jobs.zhaopin.com/sj864/">web前端开发</a>
+<a href="http://jobs.zhaopin.com/sj2030/">期货</a>
+<a href="http://jobs.zhaopin.com/sj304/">其他</a>
+<a href="http://jobs.zhaopin.com/sj858/">企业培训师</a>
+<a href="http://jobs.zhaopin.com/sj5077/">企业人力资源管理师</a>
+<a href="http://jobs.zhaopin.com/sj4016/">企业文化</a>
+<a href="http://jobs.zhaopin.com/sj3049/">汽车美容</a>
+<a href="http://jobs.zhaopin.com/sj336/">汽车修理</a>
+<a href="http://jobs.zhaopin.com/sj5156/">前端开发</a>
+<a href="http://jobs.zhaopin.com/sj338/">钳工</a>
+<a href="http://jobs.zhaopin.com/sj6001/">全面质量管理</a>
+          <img style="" class="cityNavClose" src="http://img02.zhaopin.cn/2012/img/index/ico_close.png">
+      </div>
+        </div>
+
+        <div class="cityNavBar_content_list">
+          <div class="cityNavPopIdx">R</div>
+        <div class="cityNavPopBd">
+         <a href="http://jobs.zhaopin.com/sj5076/">人力资源师</a>
+<a href="http://jobs.zhaopin.com/sj269/">日语翻译</a>
+<a href="http://jobs.zhaopin.com/sj695/">软件测试</a>
+<a href="http://jobs.zhaopin.com/sj6004/">软件测试工程师</a>
+<a href="http://jobs.zhaopin.com/sj045/">软件工程师</a>
+<a href="http://jobs.zhaopin.com/sj079/">软件开发工程师</a>
+<a href="http://jobs.zhaopin.com/sj4010/">弱电</a>
+          <img style="" class="cityNavClose" src="http://img02.zhaopin.cn/2012/img/index/ico_close.png">
+      </div>
+        </div>
+
+        <div class="cityNavBar_content_list">
+          <div class="cityNavPopIdx">S</div>
+        <div class="cityNavPopBd">
+         <a href="http://jobs.zhaopin.com/sj4123/">sem</a>
+<a href="http://jobs.zhaopin.com/sj866/">seo</a>
+<a href="http://jobs.zhaopin.com/sj669/">ui设计</a>
+<a href="http://jobs.zhaopin.com/sj7084/">设计总监</a>
+<a href="http://jobs.zhaopin.com/sj2035/">社工</a>
+<a href="http://jobs.zhaopin.com/sj839/">社会工作师</a>
+<a href="http://jobs.zhaopin.com/sj838/">社会工作者</a>
+<a href="http://jobs.zhaopin.com/sj5058/">审计师</a>
+<a href="http://jobs.zhaopin.com/sj487/">生产计划</a>
+<a href="http://jobs.zhaopin.com/sj292/">生物工程</a>
+<a href="http://jobs.zhaopin.com/sj3082/">生物制药</a>
+<a href="http://jobs.zhaopin.com/sj107/">施工员</a>
+<a href="http://jobs.zhaopin.com/sj299/">实习生</a>
+<a href="http://jobs.zhaopin.com/sj635/">食品加工</a>
+<a href="http://jobs.zhaopin.com/sj605/">市场策划专员</a>
+<a href="http://jobs.zhaopin.com/sj171/">市场专员</a>
+<a href="http://jobs.zhaopin.com/sj158/">市场总监</a>
+<a href="http://jobs.zhaopin.com/sj7069/">室内设计师</a>
+<a href="http://jobs.zhaopin.com/sj100/">室内装潢设计</a>
+<a href="http://jobs.zhaopin.com/sj5129/">手机软件开发</a>
+<a href="http://jobs.zhaopin.com/sj5148/">手机游戏开发</a>
+<a href="http://jobs.zhaopin.com/sj136/">首席执行官</a>
+<a href="http://jobs.zhaopin.com/sj894/">数据分析师</a>
+<a href="http://jobs.zhaopin.com/sj1003/">水电工程师</a>
+<a href="http://jobs.zhaopin.com/sj617/">水利工程师</a>
+<a href="http://jobs.zhaopin.com/sj3039/">水手</a>
+<a href="http://jobs.zhaopin.com/sj4097/">司仪</a>
+<a href="http://jobs.zhaopin.com/sj552/">搜索引擎优化</a>
+          <img style="" class="cityNavClose" src="http://img02.zhaopin.cn/2012/img/index/ico_close.png">
+      </div>
+        </div>
+
+        <div class="cityNavBar_content_list">
+          <div class="cityNavPopIdx">T</div>
+        <div class="cityNavPopBd">
+         <a href="http://jobs.zhaopin.com/sj8270/">淘宝兼职</a>
+<a href="http://jobs.zhaopin.com/sj6070/">投资银行</a>
+<a href="http://jobs.zhaopin.com/sj1028/">土建工程师</a>
+<a href="http://jobs.zhaopin.com/sj6033/">土木工程</a>
+<a href="http://jobs.zhaopin.com/sj097/">土木工程师</a>
+<a href="http://jobs.zhaopin.com/sj4087/">推拿</a>
+          <img style="" class="cityNavClose" src="http://img02.zhaopin.cn/2012/img/index/ico_close.png">
+      </div>
+        </div>
+
+        <div class="cityNavBar_content_list">
+          <div class="cityNavPopIdx">V</div>
+        <div class="cityNavPopBd">
+         <a href="http://jobs.zhaopin.com/sj3055/">vp</a>
+          <img style="" class="cityNavClose" src="http://img02.zhaopin.cn/2012/img/index/ico_close.png">
+      </div>
+        </div>
+
+        <div class="cityNavBar_content_list">
+          <div class="cityNavPopIdx">W</div>
+        <div class="cityNavPopBd">
+          <a href="http://jobs.zhaopin.com/sj717/">外汇交易</a>
+<a href="http://jobs.zhaopin.com/sj643/">外科医生</a>
+<a href="http://jobs.zhaopin.com/sj556/">网络编辑</a>
+<a href="http://jobs.zhaopin.com/sj055/">网络工程师</a>
+<a href="http://jobs.zhaopin.com/sj388/">网络管理员</a>
+<a href="http://jobs.zhaopin.com/sj8269/">网络兼职</a>
+<a href="http://jobs.zhaopin.com/sj924/">网络销售</a>
+<a href="http://jobs.zhaopin.com/sj3041/">网络营销</a>
+<a href="http://jobs.zhaopin.com/sj054/">网页设计</a>
+<a href="http://jobs.zhaopin.com/sj7070/">网页设计师</a>
+<a href="http://jobs.zhaopin.com/sj4066/">网页制作</a>
+<a href="http://jobs.zhaopin.com/sj056/">网站编辑</a>
+<a href="http://jobs.zhaopin.com/sj152/">文案策划</a>
+<a href="http://jobs.zhaopin.com/sj859/">文档管理</a>
+<a href="http://jobs.zhaopin.com/sj7001/">物流师</a>
+<a href="http://jobs.zhaopin.com/sj6057/">物业管理师</a>
+<a href="http://jobs.zhaopin.com/sj6058/">物业管理员</a>
+          <img style="" class="cityNavClose" src="http://img02.zhaopin.cn/2012/img/index/ico_close.png">
+      </div>
+        </div>
+
+        <div class="cityNavBar_content_list">
+          <div class="cityNavPopIdx">X</div>
+        <div class="cityNavPopBd">
+         <a href="http://jobs.zhaopin.com/sj630/">西班牙语翻译</a>
+<a href="http://jobs.zhaopin.com/sj8257/">西部志愿者</a>
+<a href="http://jobs.zhaopin.com/sj694/">系统测试</a>
+<a href="http://jobs.zhaopin.com/sj5164/">系统集成</a>
+<a href="http://jobs.zhaopin.com/sj5157/">系统集成项目管理工程师</a>
+<a href="http://jobs.zhaopin.com/sj8240/">乡镇公务员</a>
+<a href="http://jobs.zhaopin.com/sj816/">项目管理</a>
+<a href="http://jobs.zhaopin.com/sj5099/">项目管理师</a>
+<a href="http://jobs.zhaopin.com/sj814/">项目经理</a>
+<a href="http://jobs.zhaopin.com/sj384/">消防安全</a>
+<a href="http://jobs.zhaopin.com/sj006/">销售代表</a>
+<a href="http://jobs.zhaopin.com/sj001/">销售经理</a>
+<a href="http://jobs.zhaopin.com/sj8201/">小儿推拿</a>
+<a href="http://jobs.zhaopin.com/sj912/">校长</a>
+<a href="http://jobs.zhaopin.com/sj373/">心理医生</a>
+<a href="http://jobs.zhaopin.com/sj3071/">星探</a>
+<a href="http://jobs.zhaopin.com/sj1026/">行政文员</a>
+<a href="http://jobs.zhaopin.com/sj2063/">行政助理</a>
+<a href="http://jobs.zhaopin.com/sj115/">行政专员</a>
+<a href="http://jobs.zhaopin.com/sj182/">形象设计师</a>
+<a href="http://jobs.zhaopin.com/sj8274/">学生兼职</a>
+          <img style="" class="cityNavClose" src="http://img02.zhaopin.cn/2012/img/index/ico_close.png">
+      </div>
+        </div>
+
+        <div class="cityNavBar_content_list">
+          <div class="cityNavPopIdx">Y</div>
+        <div class="cityNavPopBd">
+          <a href="http://jobs.zhaopin.com/sj6010/">it运维管理</a>
+<a href="http://jobs.zhaopin.com/sj893/">演员</a>
+<a href="http://jobs.zhaopin.com/sj4033/">药剂师</a>
+<a href="http://jobs.zhaopin.com/sj296/">医药代表</a>
+<a href="http://jobs.zhaopin.com/sj2013/">义工</a>
+<a href="http://jobs.zhaopin.com/sj631/">意大利语翻译</a>
+<a href="http://jobs.zhaopin.com/sj268/">英文翻译</a>
+<a href="http://jobs.zhaopin.com/sj8091/">英语笔译</a>
+<a href="http://jobs.zhaopin.com/sj8085/">英语口译</a>
+<a href="http://jobs.zhaopin.com/sj8077/">英语培训</a>
+<a href="http://jobs.zhaopin.com/sj649/">营养师</a>
+<a href="http://jobs.zhaopin.com/sj043/">硬件工程师</a>
+<a href="http://jobs.zhaopin.com/sj861/">用户体验</a>
+<a href="http://jobs.zhaopin.com/sj6005/">游戏测试员</a>
+<a href="http://jobs.zhaopin.com/sj671/">游戏策划</a>
+<a href="http://jobs.zhaopin.com/sj4083/">游戏开发</a>
+<a href="http://jobs.zhaopin.com/sj057/">游戏设计</a>
+<a href="http://jobs.zhaopin.com/sj8003/">幼儿早教</a>
+<a href="http://jobs.zhaopin.com/sj361/">幼师</a>
+<a href="http://jobs.zhaopin.com/sj310/">育婴师</a>
+<a href="http://jobs.zhaopin.com/sj8225/">园林绿化</a>
+<a href="http://jobs.zhaopin.com/sj563/">园林设计</a>
+<a href="http://jobs.zhaopin.com/sj8214/">月嫂</a>
+<a href="http://jobs.zhaopin.com/sj5174/">运营管理</a>
+          <img style="" class="cityNavClose" src="http://img02.zhaopin.cn/2012/img/index/ico_close.png">
+      </div>
+        </div>
+
+        <div class="cityNavBar_content_list">
+          <div class="cityNavPopIdx">Z</div>
+        <div class="cityNavPopBd">
+          <a href="http://jobs.zhaopin.com/sj3014/">在线客服</a>
+<a href="http://jobs.zhaopin.com/sj8000/">早教</a>
+<a href="http://jobs.zhaopin.com/sj375/">针灸</a>
+<a href="http://jobs.zhaopin.com/sj8152/">砧板</a>
+<a href="http://jobs.zhaopin.com/sj187/">证券</a>
+<a href="http://jobs.zhaopin.com/sj575/">证券分析</a>
+<a href="http://jobs.zhaopin.com/sj226/">知识产权</a>
+<a href="http://jobs.zhaopin.com/sj8069/">职业培训</a>
+<a href="http://jobs.zhaopin.com/sj658/">志愿者</a>
+<a href="http://jobs.zhaopin.com/sj8147/">质检员</a>
+<a href="http://jobs.zhaopin.com/sj8202/">中医推拿</a>
+<a href="http://jobs.zhaopin.com/sj811/">珠宝鉴定</a>
+<a href="http://jobs.zhaopin.com/sj637/">主持人</a>
+<a href="http://jobs.zhaopin.com/sj8064/">主持人培训</a>
+<a href="http://jobs.zhaopin.com/sj116/">助理</a>
+<a href="http://jobs.zhaopin.com/sj7002/">助理物流师</a>
+<a href="http://jobs.zhaopin.com/sj5115/">注册安全工程师</a>
+<a href="http://jobs.zhaopin.com/sj8222/">注册电气工程师</a>
+<a href="http://jobs.zhaopin.com/sj8224/">注册环保工程师</a>
+<a href="http://jobs.zhaopin.com/sj214/">注册税务师</a>
+<a href="http://jobs.zhaopin.com/sj6032/">注册土木工程师</a>
+<a href="http://jobs.zhaopin.com/sj6059/">注册物业管理师</a>
+<a href="http://jobs.zhaopin.com/sj6052/">装修设计</a>
+<a href="http://jobs.zhaopin.com/sj219/">咨询顾问</a>
+<a href="http://jobs.zhaopin.com/sj570/">资产管理</a>
+<a href="http://jobs.zhaopin.com/sj579/">资产评估</a>
+<a href="http://jobs.zhaopin.com/sj5117/">总裁</a>
+<a href="http://jobs.zhaopin.com/sj2002/">总经理</a>
+<a href="http://jobs.zhaopin.com/sj3036/">总经理助理</a>
+<a href="http://jobs.zhaopin.com/sj1058/">足疗</a>
+<a href="http://jobs.zhaopin.com/sj762/">作家</a>
+          <img style="" class="cityNavClose" src="http://img02.zhaopin.cn/2012/img/index/ico_close.png">
+      </div>
+        </div>
+        
+      </div>
+    <script type="text/javascript" src="http://img00.zhaopin.cn/2014/common/js/jquery-1.9.1.min.js"></script>
+    <script type="text/javascript">
+    //2015.7.6 职位导航js部分
+    $(function(){
+      for (var i = $("#cityNavBar ul li").length - 1; i >= 0; i--) {
+        //给每个li添加index索引值
+        $("#cityNavBar ul li").eq(i)[0].index=i;
+        //给每个li添加点击事件
+        $("#cityNavBar ul li").eq(i).click(function(){
+          //先隐藏所有的content   div
+          $(".cityNavBar_content > div").hide();
+          //计算content框的出现位置
+          var e = $(this).offset().top;
+          var g = $(this).offset().left;
+          var g1 = $("#cityNavBar li:first").offset().left;
+          var g2 = $("#cityNavBar ul").width()-21;
+          //显示content div
+          var nowClick=$(".cityNavBar_content > div").eq($(this)[0].index);
+          nowClick.children(".cityNavPopIdx").css("left",g).css("top",e);
+          nowClick.children(".cityNavPopBd").css("left",g1).css("top",e+20).css("width",g2);
+          nowClick.show();
+        });
+      };
+      //给关闭按钮添加点击事件
+      $(".cityNavClose").click(function(){
+          $(".cityNavBar_content > div").hide();
+      });
+    });
+      
+    </script>
+  </div>
+  <!--2015.7.7 职位导航 更改部分end -->
+  
+  <!-- 通栏广告 -->
+  <div class="adsBox adbanner">
+    <ul>
+      <li><a href="http://edu.zhaopin.com/education.html" onmousedown="return AdsClick(2548,30125)" target="_blank"><img src="http://img00.zhaopin.cn/img_button/201609/30/hrtp-b-tonglan930_152400629786.gif" style="display: inline;" class="bm" lazy_src="http://img00.zhaopin.cn/img_button/201609/30/hrtp-b-tonglan930_152400629786.gif" title="Zhaopin.com" alt="Zhaopin.com招聘信息" height="53" width="988"></a></li>
+<li><a href="http://cnt.zhaopin.com/Market/whole_counter.jsp?sid=121126499&amp;site=cooljob&amp;url=http://ts.zhaopin.com/special/cooljobs.aspx" onmousedown="return AdsClick(2548,85797)" target="_blank"><img src="http://img00.zhaopin.cn/img_button/201609/13/ql-988_160102929629.jpg" style="display: inline;" class="bm" lazy_src="http://img00.zhaopin.cn/img_button/201609/13/ql-988_160102929629.jpg" title="Zhaopin.com" alt="Zhaopin.com招聘信息" height="53" width="988"></a></li>
+<li><a href="http://cnt.zhaopin.com/Market/whole_counter.jsp?sid=121126879&amp;site=bqtl&amp;url=http://xiaoyuan.zhaopin.com/first" onmousedown="return AdsClick(2548,85793)" target="_blank"><img src="http://img00.zhaopin.cn/img_button/201609/09/jiuyeyouweilai-btonglan_112020682334.gif" style="display: inline;" class="bm" lazy_src="http://img00.zhaopin.cn/img_button/201609/09/jiuyeyouweilai-btonglan_112020682334.gif" title="Zhaopin.com" alt="Zhaopin.com招聘信息" height="53" width="988"></a></li>
+<li><a href="http://cnt.zhaopin.com/Market/whole_counter.jsp?sid=121126401&amp;site=bqu&amp;url=http://best.zhaopin.com" onmousedown="return AdsClick(2548,85674)" target="_blank"><img src="http://img00.zhaopin.cn/img_button/201609/14/dfgdfgdsdssdf_142113941730.jpg" style="display: inline;" class="bm" lazy_src="http://img00.zhaopin.cn/img_button/201609/14/dfgdfgdsdssdf_142113941730.jpg" title="Zhaopin.com" alt="Zhaopin.com招聘信息" height="53" width="988"></a></li>
+<!--ZHAOPININDEX_BQUTONGLAN Success end-->
+
+
+    </ul>
+  </div>
+  
+  <!-- 16合一 -->
+  <div class="adsBox ad24in1">
+    <ul>
+      <li><a href="http://special.zhaopin.com/campus/2016/heb/wydr092285/" onmousedown="return AdsClick(2899,34109)" target="_blank"><img src="http://img02.zhaopin.cn/img_button/201609/26/dongruan_322_113_101806556496.gif" style="display: inline;" class="am bm " cid="13191611" bid="2899" lid="34109" lazy_src="http://img02.zhaopin.cn/img_button/201609/26/dongruan_322_113_101806556496.gif" alt="沈阳东软数字医疗系统股份有限公司人力资源部招聘信息" height="113" width="322" border="0"></a></li> 
+<!--ZHAOPINDEX_16in1 Success end-->
+
+
+    </ul>
+  </div>
+  
+  <!-- 16合一右侧的8合一 -->
+  <div class="adsBox ad8in1">
+    <ul>
+      <li><a href="http://campus.51job.com/cebbank/index1.htm" onmousedown="return AdsClick(955,33151)" rel="nofollow" target="_blank"><img src="http://img00.zhaopin.cn/img_button/201609/26/guangda-bqu-8he1_112348771732.gif" style="display: inline;" class="am bm " cid="12283" bid="955" lid="33151" lazy_src="http://img00.zhaopin.cn/img_button/201609/26/guangda-bqu-8he1_112348771732.gif" alt="中国光大银行招聘信息" height="53" width="322" border="0"></a></li> 
+<li><a href="http://dongguanbank.zhiye.com/" onmousedown="return AdsClick(955,63039)" rel="nofollow" target="_blank"><img src="http://img01.zhaopin.cn/img_button/201609/27/arfdgdfs_145218347066.gif" style="display: inline;" class="am bm ct300500" cid="24659261" bid="955" lid="63039" lazy_src="http://img01.zhaopin.cn/img_button/201609/27/arfdgdfs_145218347066.gif" alt="东莞银行股份有限公司招聘信息" height="53" width="322" border="0"></a></li> 
+<li><a href="http://special.zhaopin.com/campus/2016/gz/yjl2092621/index.html" onmousedown="return AdsClick(955,32065)" target="_blank"><img src="http://img01.zhaopin.cn/img_button/201609/27/button2_013101309305.gif" style="display: inline;" class="am bm ct140000" cid="16355051" bid="955" lid="32065" lazy_src="http://img01.zhaopin.cn/img_button/201609/27/button2_013101309305.gif" alt="雅居乐地产置业有限公司招聘信息" height="53" width="322" border="0"></a></li> 
+<li><a href="http://special.zhaopin.com/campus/2016/nhzx/hhhy091826" onmousedown="return AdsClick(955,71678)" target="_blank"><img src="http://img01.zhaopin.cn/img_button/201609/20/esfhdfshshf_104251826997.gif" style="display: inline;" class="bm" lazy_src="http://img01.zhaopin.cn/img_button/201609/20/esfhdfshshf_104251826997.gif" alt="海航货运有限公司招聘信息" height="53" width="322" border="0"></a></li> 
+<!--ZHAOPINDEX_8in1 Success end-->
+
+
+    </ul>
+    
+
+ </div>
+  
+  <!-- 纯8合一 -->
+  <div id="ad8in1" class="clearfix">
+    <div class="hidden">八合一</div>
+    <div class="adsBox ad8in1 ad8in1No">
+      <ul>
+        <li><a href="http://www.51testing.net/htm/zpwa/zhaopinbq2.htm" onmousedown="return AdsClick(955,63044)" rel="nofollow" target="_blank"><img src="http://img00.zhaopin.cn/img_button/201602/29/250b1-.gif" style="display: inline;" class=" bm ct160400 ct201100" cid="14536272" bid="955" lid="63044" lazy_src="http://img00.zhaopin.cn/img_button/201602/29/250b1-.gif" alt="博为峰(北京)信息技术有限公司招聘信息" height="53" width="322" border="0"></a></li> 
+<li><a href="http://special.zhaopin.com/2015/gz/11102/gzbj122106" onmousedown="return AdsClick(955,71682)" target="_blank"><img src="http://img00.zhaopin.cn/img_button/201609/23/dfgsfaasffsfas_172511543944.gif" style="display: inline;" class="am bm ct120400" cid="3335" bid="955" lid="71682" lazy_src="http://img00.zhaopin.cn/img_button/201609/23/dfgsfaasffsfas_172511543944.gif" alt="广州宝洁有限公司招聘信息" height="53" width="322" border="0"></a></li> 
+<li><a href="http://special.zhaopin.com/campus/2016/shz/szkl090221/" onmousedown="return AdsClick(955,71620)" target="_blank"><img src="http://img02.zhaopin.cn/img_button/201609/05/kaili-322_100650115719.jpg" style="display: inline;" class=" bm ct121500" cid="19953281" bid="955" lid="71620" lazy_src="http://img02.zhaopin.cn/img_button/201609/05/kaili-322_100650115719.jpg" alt="深圳开立生物医疗科技股份有限公司招聘信息" height="53" width="322" border="0"></a></li> 
+<li><a href="http://special.zhaopin.com/2016/cs/csnc093055/" onmousedown="return AdsClick(955,63031)" target="_blank"><img src="http://img02.zhaopin.cn/img_button/201610/01/changshanongshanghang322_063331921133.gif" style="display: inline;" class="bm" lazy_src="http://img02.zhaopin.cn/img_button/201610/01/changshanongshanghang322_063331921133.gif" alt="长沙农村商业银行股份有限公司招聘信息" height="53" width="322" border="0"></a></li> 
+<li><a href="http://shandongair.zhaopin.com/" onmousedown="return AdsClick(955,62570)" target="_blank"><img src="http://img00.zhaopin.cn/img_button/201609/02/shanhang322_173811936402.gif" style="display: inline;" class="am bm ct150000 ct300000" cid="12077513" bid="955" lid="62570" lazy_src="http://img00.zhaopin.cn/img_button/201609/02/shanhang322_173811936402.gif" alt="山东航空股份有限公司招聘信息" height="53" width="322" border="0"></a></li> 
+<li><a href="http://bankofshanghai.zhaopin.com" onmousedown="return AdsClick(955,78470)" target="_blank"><img src="http://img02.zhaopin.cn/img_button/201609/30/shanghaiyinhuang-33b_190427617452.gif" style="display: inline;" class=" bm ct160000 ct200100 ct200300 ct300500" cid="36229" bid="955" lid="78470" lazy_src="http://img02.zhaopin.cn/img_button/201609/30/shanghaiyinhuang-33b_190427617452.gif" alt="上海银行招聘信息" height="53" width="322" border="0"></a></li> 
+<li><a href="http://special.zhaopin.com/2016/ty/11156/dtyx070662" onmousedown="return AdsClick(955,78476)" target="_blank"><img src="http://img02.zhaopin.cn/img_button/201609/30/sdfdsfsdfdsf_114411610663.gif" style="display: inline;" class="am bm ct300500" cid="19192561" bid="955" lid="78476" lazy_src="http://img02.zhaopin.cn/img_button/201609/30/sdfdsfsdfdsf_114411610663.gif" alt="大同银行股份有限公司招聘信息" height="53" width="322" border="0"></a></li> 
+<li><a href="http://special.zhaopin.com/campus/2016/hz/hzyx092258/" onmousedown="return AdsClick(955,55689)" target="_blank"><img src="http://img00.zhaopin.cn/img_button/201609/23/sybqu8in1_181241735391.gif" style="display: inline;" class="am bm " cid="18958081" bid="955" lid="55689" lazy_src="http://img00.zhaopin.cn/img_button/201609/23/sybqu8in1_181241735391.gif" alt="杭州银行股份有限公司招聘信息" height="53" width="322" border="0"></a></li> 
+<li><a href="http://job.icbc.com.cn" onmousedown="return AdsClick(955,71622)" rel="nofollow" target="_blank"><img src="http://img02.zhaopin.cn/img_button/201609/26/aweggsgdd_175839800049.gif" style="display: inline;" class="am bm ct180000" cid="13208044" bid="955" lid="71622" lazy_src="http://img02.zhaopin.cn/img_button/201609/26/aweggsgdd_175839800049.gif" alt="中国工商银行股份有限公司招聘信息" height="53" width="322" border="0"></a></li> 
+<li><a href="http://special.zhaopin.com/campus/2016/bj/hbyd090250" onmousedown="return AdsClick(955,56499)" target="_blank"><img src="http://img00.zhaopin.cn/img_button/201609/09/dffbfsdsfdsf_143400347496.gif" style="display: inline;" class="am bm ct160100 ct300100" cid="15930131" bid="955" lid="56499" lazy_src="http://img00.zhaopin.cn/img_button/201609/09/dffbfsdsfdsf_143400347496.gif" alt="中国移动通信集团河北有限公司招聘信息" height="53" width="322" border="0"></a></li> 
+<li><a href="http://zhaopin.midea.com.cn/mideaweb/hrZhaopin/" onmousedown="return AdsClick(955,46295)" rel="nofollow" target="_blank"><img src="http://img02.zhaopin.cn/img_button/201609/02/meidiaqu_174913325881.gif" style="display: inline;" class=" bm ct120200" cid="27021941" bid="955" lid="46295" lazy_src="http://img02.zhaopin.cn/img_button/201609/02/meidiaqu_174913325881.gif" alt="广东美的制冷设备有限公司招聘信息" height="53" width="322" border="0"></a></li> 
+<li><a href="http://infiniti.zhaopin.com/" onmousedown="return AdsClick(955,46294)" target="_blank"><img src="http://img02.zhaopin.cn/img_button/201501/15/rc-8bj.gif" style="display: inline;" class=" bm ct121000 ct129900 ct170500" cid="62067" bid="955" lid="46294" lazy_src="http://img02.zhaopin.cn/img_button/201501/15/rc-8bj.gif" alt="东风英菲尼迪汽车有限公司北京分公司招聘信息" height="53" width="322" border="0"></a></li> 
+<li><a href="http://www.51code.com/htm/android8/zhaopinbq.htm" onmousedown="return AdsClick(955,56701)" rel="nofollow" target="_blank"><img src="http://img00.zhaopin.cn/img_button/201605/27/boweif-th_140358293811.jpg" style="display: inline;" class=" bm ct160400 ct201100" cid="14536272" bid="955" lid="56701" lazy_src="http://img00.zhaopin.cn/img_button/201605/27/boweif-th_140358293811.jpg" alt="博为峰(北京)信息技术有限公司招聘信息" height="53" width="322" border="0"></a></li> 
+<li><a href="http://www.51testing.net/htm/zpwi/zhaopinbq.htm" onmousedown="return AdsClick(955,55498)" rel="nofollow" target="_blank"><img src="http://img00.zhaopin.cn/img_button/201609/21/rfhdshdfssh_164521464836.gif" style="display: inline;" class=" bm ct160400 ct201100" cid="14536272" bid="955" lid="55498" lazy_src="http://img00.zhaopin.cn/img_button/201609/21/rfhdshdfssh_164521464836.gif" alt="博为峰(北京)信息技术有限公司招聘信息" height="53" width="322" border="0"></a></li> 
+<li><a href="http://special.zhaopin.com/campus/2016/xm/11011/xmyx092655/index.html" onmousedown="return AdsClick(955,71629)" target="_blank"><img src="http://img01.zhaopin.cn/img_button/201609/29/reshdfshs_153412340761.gif" style="display: inline;" class="am bm ct300500" cid="13849358" bid="955" lid="71629" lazy_src="http://img01.zhaopin.cn/img_button/201609/29/reshdfshs_153412340761.gif" alt="厦门银行股份有限公司招聘信息" height="53" width="322" border="0"></a></li> 
+<li><a href="http://special.zhaopin.com/campus/2016/hz/wczd082523/" onmousedown="return AdsClick(955,71787)" target="_blank"><img src="http://img01.zhaopin.cn/img_button/201609/28/shfdhdsfh_175734637544.gif" style="display: inline;" class="bm" lazy_src="http://img01.zhaopin.cn/img_button/201609/28/shfdhdsfh_175734637544.gif" alt="浙江物产环保能源股份有限公司招聘信息" height="53" width="322" border="0"></a></li> 
+<li><a href="http://company.zhaopin.com/CC132639426.htm" onmousedown="return AdsClick(955,71725)" target="_blank"><img src="http://img01.zhaopin.cn/img_button/201609/28/dfsdsfdsfsf_151954710864.gif" style="display: inline;" class="am bm " cid="13263942" bid="955" lid="71725" lazy_src="http://img01.zhaopin.cn/img_button/201609/28/dfsdsfdsfsf_151954710864.gif" alt="上海建中医疗器械包装股份有限公司招聘信息" height="53" width="322" border="0"></a></li> 
+<li><a href="http://special.zhaopin.com/2016/km/11054/ynlh091985/" onmousedown="return AdsClick(955,71623)" target="_blank"><img src="http://img01.zhaopin.cn/img_button/201609/27/sdfhhdshf_133821196904.gif" style="display: inline;" class="am bm ct130000" cid="18077382" bid="955" lid="71623" lazy_src="http://img01.zhaopin.cn/img_button/201609/27/sdfhhdshf_133821196904.gif" alt="云南磷化集团有限公司招聘信息" height="53" width="322" border="0"></a></li> 
+<li><a href="http://special.zhaopin.com/campus/2016/nj/qrqc092558/" onmousedown="return AdsClick(955,63032)" target="_blank"><img src="http://img02.zhaopin.cn/img_button/201609/28/qiruibqu_171156477697.gif" style="display: inline;" class="am bm ct121000" cid="12092222" bid="955" lid="63032" lazy_src="http://img02.zhaopin.cn/img_button/201609/28/qiruibqu_171156477697.gif" alt="奇瑞汽车招聘信息" height="53" width="322" border="0"></a></li> 
+<li><a href="http://www.cmcrcw.com/" onmousedown="return AdsClick(955,62779)" rel="nofollow" target="_blank"><img src="http://img00.zhaopin.cn/img_button/201609/28/yiyaochengbqu_164946583855.gif" style="display: inline;" class="am bm ct121300 ct121400 ct121500" cid="28858968" bid="955" lid="62779" lazy_src="http://img00.zhaopin.cn/img_button/201609/28/yiyaochengbqu_164946583855.gif" alt="中国医药城人力资本配置中心招聘信息" height="53" width="322" border="0"></a></li> 
+<li><a href="http://special.zhaopin.com/2016/xm/11011/zgyz092721/" onmousedown="return AdsClick(955,61976)" target="_blank"><img src="http://img00.zhaopin.cn/img_button/201609/28/zgyz8322_144706581354.gif" style="display: inline;" class="am bm ct300500" cid="20718061" bid="955" lid="61976" lazy_src="http://img00.zhaopin.cn/img_button/201609/28/zgyz8322_144706581354.gif" alt="中国邮政储蓄银行股份有限公司厦门分行招聘信息" height="53" width="322" border="0"></a></li> 
+<li><a href="http://special.zhaopin.com/campus/2016/gz/gzdc092621" onmousedown="return AdsClick(955,63036)" target="_blank"><img src="http://img01.zhaopin.cn/img_button/201609/28/shdfshshf_104955517224.gif" style="display: inline;" class="am bm ct120400" cid="12095048" bid="955" lid="63036" lazy_src="http://img01.zhaopin.cn/img_button/201609/28/shdfshshf_104955517224.gif" alt="广州市迪彩化妆品有限公司招聘信息" height="53" width="322" border="0"></a></li> 
+<li><a href="http://special.zhaopin.com/2010/bj/ydth042704/" onmousedown="return AdsClick(955,7279)" target="_blank"><img src="http://img01.zhaopin.cn/img_button/201609/27/gfhjgfj_175950996633.gif" style="display: inline;" class="am bm ct180000" cid="14133056" bid="955" lid="7279" lazy_src="http://img01.zhaopin.cn/img_button/201609/27/gfhjgfj_175950996633.gif" alt="英大泰和财产保险股份有限公司招聘信息" height="53" width="322" border="0"></a></li> 
+<li><a href="http://special.zhaopin.com/campus/2016/sh/hmgg092058" onmousedown="return AdsClick(955,63040)" target="_blank"><img src="http://img01.zhaopin.cn/img_button/201609/21/sdhffdshdfh_115049867381.gif" style="display: inline;" class="am bm ct200302 ct210300" cid="6515" bid="955" lid="63040" lazy_src="http://img01.zhaopin.cn/img_button/201609/21/sdhffdshdfh_115049867381.gif" alt="恒美广告国际有限公司(上海办事处)招聘信息" height="53" width="322" border="0"></a></li> 
+<li><a href="http://cnt.zhaopin.com/Market/whole_counter.jsp?sid=121126678&amp;site=b8in1&amp;url=http://liaoliao.zhaopin.com" onmousedown="return AdsClick(7679,33152)" target="_blank"><img src="http://img00.zhaopin.cn/img_button/201609/29/tsrfhdfs_165925955285.jpg" style="display: inline;" class="bm" lazy_src="http://img00.zhaopin.cn/img_button/201609/29/tsrfhdfs_165925955285.jpg" alt="Zhaopin.com招聘信息" height="53" width="322" border="0"></a></li> 
+<li><a href="http://weibo.com/zhilianzhaopin" onmousedown="return AdsClick(7679,85147)" rel="nofollow" target="_blank"><img src="http://img00.zhaopin.cn/img_button/201401/24/weibo.jpg" style="display: inline;" class="bm" lazy_src="http://img00.zhaopin.cn/img_button/201401/24/weibo.jpg" alt="Zhaopin.com招聘信息" height="53" width="322" border="0"></a></li> 
+<!--ZHAOPINDEX_8in1 Success end-->
+
+
+      </ul>
+    </div>
+  </div>
+  <div class="infoBoxGroup">
+    
+    
+    
+<dl class="infoBox">
+    <dt class="blockT">
+        <a class="ti ti1 fl" title="职场聚焦" onmousedown="return AdsClick(121111550,'new_zpindex_zcjj')"></a>
+        <a title="新浪微博-简历控" class="fl"><img src="http://img09.zhaopin.cn/2012/img/index/weibobtn1.png" height="31" width="71">
+    </a></dt><a title="新浪微博-简历控" class="fl">
+    </a><dd><a title="新浪微博-简历控" class="fl">
+                </a><div><a title="新浪微博-简历控" class="fl">
+
+                    </a><a href="http://article.zhaopin.com/marketing/pub/view/detail-100006.html" onmousedown=" return AdsClick(121111550, 'new_zpindex_zcjj1') " target="_blank">
+                        <img src="http://article.zhaopin.com/marketing/upload/c08e3562-540e-40bd-8f8a-90f2db283df3.jpg" style="display: inline;" lazy_src="http://article.zhaopin.com/marketing/upload/c08e3562-540e-40bd-8f8a-90f2db283df3.jpg" class="infoBoxPic" height="74" width="94">
+                    </a>
+                    <br>
+                    <a href="http://article.zhaopin.com/marketing/pub/view/detail-100006.html" onmousedown=" return AdsClick(121111550, 'new_zpindex_zcjj1') " target="_blank">加薪一定是好事吗...</a>
+
+                </div>
+                <ul>
+                            <li>
+                                <a href="http://article.zhaopin.com/marketing/pub/view/detail-100005.html" onmousedown="return AdsClick(121111550,'new_zpindex_zcjj2')" target="_blank">所有看不到成果的努力，都是耍...</a>
+                            </li>
+                            <li>
+                                <a href="http://article.zhaopin.com/marketing/pub/view/detail-100004.html" onmousedown="return AdsClick(121111550,'new_zpindex_zcjj3')" target="_blank">单位里的8个禁忌，你犯过吗？</a>
+                            </li>
+                            <li>
+                                <a href="http://article.zhaopin.com/marketing/pub/view/detail-100003.html" onmousedown="return AdsClick(121111550,'new_zpindex_zcjj4')" target="_blank">80后招聘90后：问星座看颜...</a>
+                            </li>
+                            <li>
+                                <a href="http://article.zhaopin.com/marketing/pub/view/detail-100002.html" onmousedown="return AdsClick(121111550,'new_zpindex_zcjj5')" target="_blank">职场10种幼稚心态,千万不能...</a>
+                            </li>
+                            <li>
+                                <a href="http://article.zhaopin.com/marketing/pub/view/detail-100001.html" onmousedown="return AdsClick(121111550,'new_zpindex_zcjj6')" target="_blank">职场上的安全八卦守则</a>
+                            </li>
+                </ul>
+
+    </dd>
+</dl>
+
+
+<dl class="infoBox">
+    <dt class="blockT">
+        <a class="ti ti2 fl" title="应届生求职" onmousedown="return AdsClick(121111550, 'new_zpindex_yjjqz')"></a>
+        <a title="人生的第一份工作" class="fl">
+            <img src="http://img09.zhaopin.cn/2012/img/index/weibobtn0428.png" height="31" width="71">
+        </a>
+
+    </dt>
+    <dd>
+                <div>
+
+                    <a href="http://article.zhaopin.com/marketing/pub/view/detail-100064.html" onmousedown=" return AdsClick(121111550, 'new_zpindex_yjjqz1') " target="_blank">
+                        <img src="http://article.zhaopin.com/marketing/upload/76c5fdd4-4d15-44c5-9d11-b9be51353f43.jpg" style="display: inline;" lazy_src="http://article.zhaopin.com/marketing/upload/76c5fdd4-4d15-44c5-9d11-b9be51353f43.jpg" class="infoBoxPic" height="74" width="94">
+                    </a>
+                    <br>
+                    <a href="http://article.zhaopin.com/marketing/pub/view/detail-100064.html" onmousedown=" return AdsClick(121111550, 'new_zpindex_yjjqz1') " target="_blank">走出校门干点儿啥</a>
+
+                </div>
+                <ul>
+                            <li><a href="http://article.zhaopin.com/marketing/pub/view/detail-100063.html" onmousedown="return AdsClick(121111550, 'new_zpindex_yjjqz2')" target="_blank">如何做你的职业规划</a></li>
+                            <li><a href="http://article.zhaopin.com/marketing/pub/view/detail-100062.html" onmousedown="return AdsClick(121111550, 'new_zpindex_yjjqz3')" target="_blank">面试心经 这几种求职者最容易...</a></li>
+                            <li><a href="http://article.zhaopin.com/marketing/pub/view/detail-100061.html" onmousedown="return AdsClick(121111550, 'new_zpindex_yjjqz4')" target="_blank">面试前应该了解公司的哪些信息...</a></li>
+                            <li><a href="http://article.zhaopin.com/marketing/pub/view/detail-100060.html" onmousedown="return AdsClick(121111550, 'new_zpindex_yjjqz5')" target="_blank">简历中的致命魔鬼细节</a></li>
+                            <li><a href="http://article.zhaopin.com/marketing/pub/view/detail-100059.html" onmousedown="return AdsClick(121111550, 'new_zpindex_yjjqz6')" target="_blank">国企和外企简历的区别及其写法</a></li>
+                </ul>
+
+    </dd>
+</dl>
+
+
+<dl class="infoBox adsFix">
+    <dt class="blockT">
+        <a class="ti ti3 fl" title="社区精华" onmousedown="return AdsClick(121111550,'new_zpindex_sqjh')"></a>
+        <a title="新浪微博-求职无小事" class="fl"><img src="http://img09.zhaopin.cn/2012/img/index/weibobtn3.png" height="31" width="71">
+    </a></dt><a title="新浪微博-求职无小事" class="fl">
+    </a><dd><a title="新浪微博-求职无小事" class="fl">
+                </a><div><a title="新浪微博-求职无小事" class="fl">
+
+                    </a><a href="http://article.zhaopin.com/marketing/pub/view/detail-100058.html" onmousedown="return AdsClick(121111550, 'new_zpindex_sqjh1')" target="_blank">
+                        <img src="http://article.zhaopin.com/marketing/upload/1aa02ea6-25c8-4669-bcda-7a28981d3e87.jpg" style="display: inline;" lazy_src="http://article.zhaopin.com/marketing/upload/1aa02ea6-25c8-4669-bcda-7a28981d3e87.jpg" class="infoBoxPic" height="74" width="94">
+                    </a>
+                    <br>
+                    <a href="http://article.zhaopin.com/marketing/pub/view/detail-100058.html" onmousedown="return AdsClick(121111550, 'new_zpindex_sqjh1')" target="_blank">员工咄咄投诉绩效...</a>
+                </div>
+                <ul>
+                            <li><a href="http://article.zhaopin.com/marketing/pub/view/detail-100057.html" onmousedown="return adsclick(121111550, 'new_zpindex_sqjh2' ) " target=" _blank">轻领导力 | 什么是高级主管...</a></li>
+                            <li><a href="http://article.zhaopin.com/marketing/pub/view/detail-100056.html" onmousedown="return adsclick(121111550, 'new_zpindex_sqjh3' ) " target=" _blank">怪现状！公司给交社保，员工却...</a></li>
+                            <li><a href="http://article.zhaopin.com/marketing/pub/view/detail-100055.html" onmousedown="return adsclick(121111550, 'new_zpindex_sqjh4' ) " target=" _blank">中小企业招聘的尴尬与机遇</a></li>
+                            <li><a href="http://article.zhaopin.com/marketing/pub/view/detail-100054.html" onmousedown="return adsclick(121111550, 'new_zpindex_sqjh5' ) " target=" _blank">“互联网思维”大潮泛滥中，招...</a></li>
+                            <li><a href="http://article.zhaopin.com/pub/hrclub/view/214708.html?DYWE=1397526133228.150495.1402302117.1403057036.43" onmousedown="return adsclick(121111550, 'new_zpindex_sqjh6' ) " target=" _blank">HR自己的圈子</a></li>
+                </ul>
+
+    </dd>
+</dl>
+ </div>
+  <!-- 四合一 -->
+  <div id="ad4in1" class="clearfix">
+    <div class="hidden">四合一</div>
+    <div class="adsBox ad4in1">
+      <ul>
+        <li><a href="http://special.zhaopin.com/bj/2014/yms120337/" onmousedown="return AdsClick(947,25426)" target="_blank"><img src="http://img02.zhaopin.cn/img_button/201512/11/yamaxun.gif" style="display: inline;" class="am bm ct100100 ct160000 ct170000 ct210500" cid="12100438" bid="947" lid="25426" lazy_src="http://img02.zhaopin.cn/img_button/201512/11/yamaxun.gif" title="亚马逊信息服务（北京）有限公司" alt="亚马逊信息服务（北京）有限公司招聘信息" height="53" width="155"></a></li>
+<li><a href="http://www.51code.com/htm/android4/zhaopincq.htm" onmousedown="return AdsClick(947,28126)" rel="nofollow" target="_blank"><img src="http://img00.zhaopin.cn/img_button/201602/25/shouyecqu4he11111111.gif" style="display: inline;" class=" bm ct160400 ct201100" cid="14536272" bid="947" lid="28126" lazy_src="http://img00.zhaopin.cn/img_button/201602/25/shouyecqu4he11111111.gif" title="博为峰(北京)信息技术有限公司" alt="博为峰(北京)信息技术有限公司招聘信息" height="53" width="155"></a></li>
+<li><a href="http://www.51testing.net/htm/zpwc/zhaopincq.htm" onmousedown="return AdsClick(947,7271)" rel="nofollow" target="_blank"><img src="http://img00.zhaopin.cn/img_button/201602/25/shouyecqu4he1weizhi0666666.gif" style="display: inline;" class=" bm ct160400 ct201100" cid="14536272" bid="947" lid="7271" lazy_src="http://img00.zhaopin.cn/img_button/201602/25/shouyecqu4he1weizhi0666666.gif" title="博为峰(北京)信息技术有限公司" alt="博为峰(北京)信息技术有限公司招聘信息" height="53" width="155"></a></li>
+<li><a href="http://special.zhaopin.com/2016/hjzx/11143/qhyh093052" onmousedown="return AdsClick(947,55383)" target="_blank"><img src="http://img02.zhaopin.cn/img_button/201609/30/sfhdhfssh_152654946967.gif" style="display: inline;" class="am bm " cid="19222961" bid="947" lid="55383" lazy_src="http://img02.zhaopin.cn/img_button/201609/30/sfhdhfssh_152654946967.gif" title="青海盐湖工业股份有限公司" alt="青海盐湖工业股份有限公司招聘信息" height="53" width="155"></a></li>
+<!--ZHAOPININDEX_BRAND4in1 Success end-->
+
+ <li><a href="http://student.zhaopin.com/" target="_blank"><img src="http://img05.zhaopin.cn/img_button/201109/26/xiaoyuanzhaopin155-53.jpg" style="display: inline;" class="bm" lazy_src="http://img05.zhaopin.cn/img_button/201109/26/xiaoyuanzhaopin155-53.jpg" height="53" width="155" border="0"></a></li>
+<li><a href="http://ceping.zhaopin.com/" target="_blank"><img src="http://img05.zhaopin.cn/img_button/201109/14/155-53-rccep.jpg" style="display: inline;" class="bm" lazy_src="http://img05.zhaopin.cn/img_button/201109/14/155-53-rccep.jpg" height="53" width="155" border="0"></a></li>
+
+
+      </ul>
+    </div>
+  </div>
+  <!-- 名企招聘 -->
+  <div id="mqzp" class="clearfix">
+    <div class="blockT">
+      <div class="ti">名企招聘</div>
+    </div>
+    <div class="adsBox ad3in1">
+      <ul>
+        <li><a href="http://company.zhaopin.com/CC280397910.htm" onmousedown="return AdsClick(1047,7309)" target="_blank"><img src="http://img01.zhaopin.cn/img_button/201609/28/38_180725878628.gif" style="display: inline;" class="am bm ct120600 ct160100 ct160500 ct300000" cid="28039791" bid="1047" lid="7309" lazy_src="http://img01.zhaopin.cn/img_button/201609/28/38_180725878628.gif" title="中国电子科技集团公司第三十八研究所" alt="中国电子科技集团公司第三十八研究所招聘信息" height="50" width="113"></a></li>
+<li><a href="http://www.51code.com/htm/android8/zhaopinmq.htm" onmousedown="return AdsClick(1047,7389)" rel="nofollow" target="_blank"><img src="http://img00.zhaopin.cn/img_button/201602/25/boweifeng113x501111.gif" style="display: inline;" class=" bm ct160400 ct201100" cid="14536272" bid="1047" lid="7389" lazy_src="http://img00.zhaopin.cn/img_button/201602/25/boweifeng113x501111.gif" title="博为峰(北京)信息技术有限公司" alt="博为峰(北京)信息技术有限公司招聘信息" height="50" width="113"></a></li>
+<li><a href="http://jiuhuashan.cc/article/10853.htm" onmousedown="return AdsClick(1047,7439)" rel="nofollow" target="_blank"><img src="http://img00.zhaopin.cn/img_button/201609/30/aegdgsgsg_171859186952.gif" style="display: inline;" class="am bm ct150000 ct200600 ct200800" cid="18229141" bid="1047" lid="7439" lazy_src="http://img00.zhaopin.cn/img_button/201609/30/aegdgsgsg_171859186952.gif" title="安徽九华山旅游发展股份有限公司" alt="安徽九华山旅游发展股份有限公司招聘信息" height="50" width="113"></a></li>
+<li><a href="http://special.zhaopin.com/2016/fz/xyyh041921/" onmousedown="return AdsClick(1047,7329)" target="_blank"><img src="http://img02.zhaopin.cn/img_button/201604/22/xingye-mingqi.gif" style="display: inline;" class="am bm ct180000" cid="20123431" bid="1047" lid="7329" lazy_src="http://img02.zhaopin.cn/img_button/201604/22/xingye-mingqi.gif" title="兴业银行股份有限公司" alt="兴业银行股份有限公司招聘信息" height="50" width="113"></a></li>
+<li><a href="http://special.zhaopin.com/hf/2013/faf033141" onmousedown="return AdsClick(1047,7303)" target="_blank"><img src="http://img00.zhaopin.cn/img_button/201303/20/rf-mq-hf0320.gif" style="display: inline;" class="am bm ct121000 ct180000 ct300500" cid="53615372" bid="1047" lid="7303" lazy_src="http://img00.zhaopin.cn/img_button/201303/20/rf-mq-hf0320.gif" title="瑞福德汽车金融有限公司" alt="瑞福德汽车金融有限公司招聘信息" height="50" width="113"></a></li>
+<li><a href="http://www.51testing.net/htm/zpwb/zhaopinmq.htm" onmousedown="return AdsClick(1047,7395)" rel="nofollow" target="_blank"><img src="http://img00.zhaopin.cn/img_button/201602/25/boweifeng113x50222222.gif" style="display: inline;" class=" bm ct160400 ct201100" cid="14536272" bid="1047" lid="7395" lazy_src="http://img00.zhaopin.cn/img_button/201602/25/boweifeng113x50222222.gif" title="博为峰(北京)信息技术有限公司" alt="博为峰(北京)信息技术有限公司招聘信息" height="50" width="113"></a></li>
+<!--ZHAOPININDEX_MQZP Success end--><!--ZHAOPININDEX_MQZP Success end-->
+
+ <li><a href="http://edu.zhaopin.com/" target="_blank"><img src="http://img05.zhaopin.cn/img_button/201401/26/ming-jiaoyu.jpg" style="display: inline;" class="bm" lazy_src="http://img05.zhaopin.cn/img_button/201401/26/ming-jiaoyu.jpg" height="50" width="113" border="0"></a></li>
+<li><a href="http://article.zhaopin.com/zt/2012/1017/index.html" target="_blank"><img src="http://img05.zhaopin.cn/img_button/201210/23/ms113-50.jpg" style="display: inline;" class="bm" lazy_src="http://img05.zhaopin.cn/img_button/201210/23/ms113-50.jpg" height="50" width="113" border="0"></a></li>
+
+
+      </ul>
+    </div>
+  </div>
+  <!-- 品牌活动 -->
+  <div id="pphd" class="clearfix">
+    <div class="blockT">
+      <div class="ti">品牌活动</div>
+    </div>
+    <div class="pphdBox">
+      <ul>
+        
+         <li><span><a href="http://cnt.zhaopin.com/Market/whole_counter.jsp?sid=121126879&amp;site=zlpphd&amp;url=http://xiaoyuan.zhaopin.com/first" onmousedown="return AdsClick(7818,87177)" target="_blank"><img src="http://img00.zhaopin.cn/img_button/201609/07/jiuyeyouweilai-pinpai_173930337745.jpg" style="display: inline;" class="bm" lazy_src="http://img00.zhaopin.cn/img_button/201609/07/jiuyeyouweilai-pinpai_173930337745.jpg" alt="Zhaopin.com招聘信息" txt="" height="108" width="188" border="0"></a></span> <a href="http://cnt.zhaopin.com/Market/whole_counter.jsp?sid=121126879&amp;site=zlpphd&amp;url=http://xiaoyuan.zhaopin.com/first" onmousedown="return AdsClick(7818,87177)" target="_blank">就业有位来</a></li>
+<li><span><a href="http://cnt.zhaopin.com/Market/whole_counter.jsp?sid=121126401&amp;site=pinpai&amp;url=http://best.zhaopin.com" onmousedown="return AdsClick(7818,87176)" target="_blank"><img src="http://img00.zhaopin.cn/img_button/201608/01/zuijiaguzhu-pinpai_095505696331.jpg" style="display: inline;" class="bm" lazy_src="http://img00.zhaopin.cn/img_button/201608/01/zuijiaguzhu-pinpai_095505696331.jpg" alt="Zhaopin.com招聘信息" txt="" height="108" width="188" border="0"></a></span> <a href="http://cnt.zhaopin.com/Market/whole_counter.jsp?sid=121126401&amp;site=pinpai&amp;url=http://best.zhaopin.com" onmousedown="return AdsClick(7818,87176)" target="_blank">2016最佳雇主</a></li>
+<li><span><a href="http://article.zhaopin.com/pub/view/214916.html?utm_source=other&amp;utm_medium=cnt&amp;utm_term=&amp;utm_campaign=121113803&amp;utm_provider=zp&amp;sid=121113803&amp;site=pz_bg_zhilianweixin" onmousedown="return AdsClick(7819,341101)" target="_blank"><img src="http://img00.zhaopin.cn/img_button/201601/27/weixin188x108-01.jpg" style="display: inline;" class="bm" lazy_src="http://img00.zhaopin.cn/img_button/201601/27/weixin188x108-01.jpg" alt="Zhaopin.com招聘信息" txt="" height="108" width="188" border="0"></a></span> <a href="http://article.zhaopin.com/pub/view/214916.html?utm_source=other&amp;utm_medium=cnt&amp;utm_term=&amp;utm_campaign=121113803&amp;utm_provider=zp&amp;sid=121113803&amp;site=pz_bg_zhilianweixin" onmousedown="return AdsClick(7819,341101)" target="_blank">智联官微 升职加薪全靠它</a></li>
+<li><span><a href="http://article.zhaopin.com/pub/hrclub/view/214708.html" onmousedown="return AdsClick(7819,341103)" target="_blank"><img src="http://img00.zhaopin.cn/img_button/201503/23/4392a.gif" style="display: inline;" class="bm" lazy_src="http://img00.zhaopin.cn/img_button/201503/23/4392a.gif" alt="Zhaopin.com招聘信息" txt="" height="108" width="188" border="0"></a></span> <a href="http://article.zhaopin.com/pub/hrclub/view/214708.html" onmousedown="return AdsClick(7819,341103)" target="_blank">欢迎加入HR自己人的圈子</a></li>
+<!--ZHAOPININDEX_PPHD Success end-->
+
+
+      </ul>
+    </div>
+  </div>
+  
+  <!-- 紧急招聘 -->
+  <div id="jjzp" class="clearfix">
+    <div class="blockT">
+      <div class="ti">紧急招聘</div>
+    </div>
+    <div class="adsBox ad2in1">
+      <ul>
+         <li><a href="http://special.zhaopin.com/pagepublish/44045818/index.html" onmousedown="return AdsClick(1051,7491)" target="_blank"><img src="http://img02.zhaopin.cn/img_button/201609/29/huaining_132123739569.gif" style="display: inline;" class="bm" lazy_src="http://img02.zhaopin.cn/img_button/201609/29/huaining_132123739569.gif" alt="安徽怀宁江淮村镇银行股份有限公司招聘信息" height="45" width="109" border="0"></a><br><a href="http://special.zhaopin.com/pagepublish/44045818/index.html" onmousedown="return AdsClick(1051,7491)" target="_blank">怀宁江淮村镇银行</a></li>
+<li><a href="http://www.vfast.com.cn/vfast0/#6d" onmousedown="return AdsClick(1051,7479)" rel="nofollow" target="_blank"><img src="http://img00.zhaopin.cn/img_button/201603/10/zdfhzfdhfdhfdffff.gif" style="display: inline;" class=" bm ct160000 ct160200 ct160400 ct210500" cid="20973221" bid="1051" lid="7479" lazy_src="http://img00.zhaopin.cn/img_button/201603/10/zdfhzfdhfdhfdffff.gif" alt="荣新中关村IT人才服务中心招聘信息" height="45" width="109" border="0"></a><br><a href="http://www.vfast.com.cn/vfast0/#6d" onmousedown="return AdsClick(1051,7479)" rel="nofollow" target="_blank">荣新科技</a></li>
+<li><a href="http://www.51testing.net/htm/zpwb/zhaopinjjzp.htm" onmousedown="return AdsClick(1051,7489)" rel="nofollow" target="_blank"><img src="http://img00.zhaopin.cn/img_button/201607/26/regyreyhrr_175701757212.jpg" style="display: inline;" class=" bm ct160400 ct201100" cid="14536272" bid="1051" lid="7489" lazy_src="http://img00.zhaopin.cn/img_button/201607/26/regyreyhrr_175701757212.jpg" alt="博为峰(北京)信息技术有限公司招聘信息" height="45" width="109" border="0"></a><br><a href="http://www.51testing.net/htm/zpwb/zhaopinjjzp.htm" onmousedown="return AdsClick(1051,7489)" rel="nofollow" target="_blank">51Testing</a></li>
+<li><a href="https://jobs.avisbudgetgroupcareers.com/vacancy/6841/Zhaopin/detail" onmousedown="return AdsClick(1051,7483)" rel="nofollow" target="_blank"><img src="http://img00.zhaopin.cn/img_button/201609/28/avis_130837647281.jpg" style="display: inline;" class="bm" lazy_src="http://img00.zhaopin.cn/img_button/201609/28/avis_130837647281.jpg" alt="Avis Budget Group招聘信息" height="45" width="109" border="0"></a><br><a href="https://jobs.avisbudgetgroupcareers.com/vacancy/6841/Zhaopin/detail" onmousedown="return AdsClick(1051,7483)" rel="nofollow" target="_blank">Avis Budget Gr.</a></li>
+<li><a href="http://magna.zhaopin.com/" onmousedown="return AdsClick(1051,7495)" target="_blank"><img src="http://img02.zhaopin.cn/img_button/201407/10/13510958syjj140710.gif" style="display: inline;" class=" bm ct121000 ct121100" cid="13510958" bid="1051" lid="7495" lazy_src="http://img02.zhaopin.cn/img_button/201407/10/13510958syjj140710.gif" alt="麦格纳汽车技术(上海)有限公司招聘信息" height="45" width="109" border="0"></a><br><a href="http://magna.zhaopin.com/" onmousedown="return AdsClick(1051,7495)" target="_blank">麦格纳汽车技术</a></li>
+<li><a href="http://special.zhaopin.com/tj/2008/otis040207/" onmousedown="return AdsClick(1051,7475)" target="_blank"><img src="http://img01.zhaopin.cn/img_button/201606/28/thrfshsdfhdhf_161632686336.gif" style="display: inline;" class=" bm ct129900" cid="12038520" bid="1051" lid="7475" lazy_src="http://img01.zhaopin.cn/img_button/201606/28/thrfshsdfhdhf_161632686336.gif" alt="中国天津奥的斯电梯招聘信息" height="45" width="109" border="0"></a><br><a href="http://special.zhaopin.com/tj/2008/otis040207/" onmousedown="return AdsClick(1051,7475)" target="_blank">OTIS</a></li>
+<li><a href="http://special.zhaopin.com/shz/2014/gdhb102758/" onmousedown="return AdsClick(1051,7511)" target="_blank"><img src="http://img02.zhaopin.cn/img_button/201511/10/guangda-jinji.jpg" style="display: inline;" class=" bm ct100100 ct120500 ct130100 ct201200" cid="12103469" bid="1051" lid="7511" lazy_src="http://img02.zhaopin.cn/img_button/201511/10/guangda-jinji.jpg" alt="光大环保(中国)有限公司招聘信息" height="45" width="109" border="0"></a><br><a href="http://special.zhaopin.com/shz/2014/gdhb102758/" onmousedown="return AdsClick(1051,7511)" target="_blank">光大环保</a></li>
+<li><a href="http://www.51code.com/htm/android4/zhaopinjj.htm" onmousedown="return AdsClick(1051,7497)" rel="nofollow" target="_blank"><img src="http://img00.zhaopin.cn/img_button/201607/26/tyhtwryht_175723546669.jpg" style="display: inline;" class=" bm ct160400 ct201100" cid="14536272" bid="1051" lid="7497" lazy_src="http://img00.zhaopin.cn/img_button/201607/26/tyhtwryht_175723546669.jpg" alt="博为峰(北京)信息技术有限公司招聘信息" height="45" width="109" border="0"></a><br><a href="http://www.51code.com/htm/android4/zhaopinjj.htm" onmousedown="return AdsClick(1051,7497)" rel="nofollow" target="_blank">博为峰51Code</a></li>
+<!--ZHAOPININDEX_JJZP Success end-->
+
+ 
+
+      </ul>
+    </div>
+  </div>
+  <!-- 热门职位 -->
+  <script type="text/javascript" src="http://img01.zhaopin.cn/2014/seo/js/addHrefParams.js"></script>
+  <div id="rmzw" class="clearfix">
+    <div class="blockT">
+      <div class="ti">热门职位</div>
+    </div>
+    <div class="colsBg clearfix">
+      <ul>
+        
+										  	
+          <li><a href="http://www.51testing.net/htm/zpwk/zhaopinrmzwwz.htm" onmousedown="return AdsClick(1055,7705)" rel="nofollow" target="_blank">51Testing</a>  <span><a href="http://www.51testing.net/htm/zpwk/zhaopinrmzwwz.htm" onmousedown="return AdsClick(1055,7705)" rel="nofollow" target="_blank">往 应届毕业生</a></span></li> 
+ <li><a href="http://special.zhaopin.com/pagepublish/70635772/index.html" onmousedown="return AdsClick(1055,7695)" target="_blank">丹阳瑞倍爱冷热疗产品有限公司</a>  <span><a href="http://jobs.zhaopin.com/706357724250042.htm" par="ssidkey=y&amp;ff=14&amp;ss=403'" onmousedown="return AdsClick(1055,7695)" target="_blank">采购主管</a></span></li> 
+ <li><a href="http://special.zhaopin.com/pagepublish/65961702/index.html" onmousedown="return AdsClick(1055,7703)" target="_blank">连云港金辰实业有限公司</a>  <span><a href="http://jobs.zhaopin.com/659617022250210.htm" par="ssidkey=y&amp;ff=14&amp;ss=403'" onmousedown="return AdsClick(1055,7703)" target="_blank">电气安装管理</a></span></li> 
+ <li><a href="http://www.51code.com/htm/android8/zhaopinrmzwwz.htm" onmousedown="return AdsClick(1055,7699)" rel="nofollow" target="_blank">51Code</a>  <span><a href="http://www.51code.com/htm/android8/zhaopinrmzwwz.htm" onmousedown="return AdsClick(1055,7699)" rel="nofollow" target="_blank">本科大专生</a></span></li> 
+ <li><a href="http://special.zhaopin.com/pagepublish/20834881/index.html" onmousedown="return AdsClick(1055,7697)" target="_blank">杭州励骏置业有限公司</a>  <span><a href="http://jobs.zhaopin.com/208348811250998.htm" par="ssidkey=y&amp;ff=14&amp;ss=403'" onmousedown="return AdsClick(1055,7697)" target="_blank">房产会计</a></span></li> 
+ <li><a href="http://www.51testing.net/htm/zpwa/zhaopinrmzwwz.htm" onmousedown="return AdsClick(1055,7711)" rel="nofollow" target="_blank">博为峰</a>  <span><a href="http://www.51testing.net/htm/zpwc/zhaopinrmzwwz.htm" onmousedown="return AdsClick(1055,7711)" rel="nofollow" target="_blank">诚招 实训生</a></span></li> 
+<!--ZHAOPININDEX_HOTJOBS Success end-->
+
+
+      </ul>
+    </div>
+  </div>
+  <div class="infoBoxGroup">
+    
+    
+    
+<dl class="infoBox">
+    <dt class="blockT"><span class="ti ti4"></span></dt>
+    <dd>
+                <div>
+
+                    <a href="http://article.zhaopin.com/marketing/pub/view/detail-100052.html" onmousedown="return AdsClick(121111550,'new_zpindex_jlzz1')" target="_blank">
+                        <img lazy_src="http://article.zhaopin.com/marketing/upload/5c58ed3d-1411-47c5-a8b9-e36072fc632a.jpg" class="infoBoxPic" height="74" width="94">
+                    </a><br>
+                    <a href="http://article.zhaopin.com/marketing/pub/view/detail-100052.html" onmousedown="return AdsClick(121111550,'new_zpindex_jlzz1')" target="_blank">
+                        为什么简历不要超...
+                    </a>
+                </div>
+                <ul>
+                            <li><a href="http://article.zhaopin.com/marketing/pub/view/detail-100051.html" onmousedown="return AdsClick(121111550, 'new_zpindex_jlzz2') " target="_blank">简历指导！解析为什么个人简历...</a></li>
+                            <li><a href="http://article.zhaopin.com/marketing/pub/view/detail-100050.html" onmousedown="return AdsClick(121111550, 'new_zpindex_jlzz3') " target="_blank">选好简历模板的四大诀窍</a></li>
+                            <li><a href="http://article.zhaopin.com/marketing/pub/view/detail-100049.html" onmousedown="return AdsClick(121111550, 'new_zpindex_jlzz4') " target="_blank">2016年应该这样写简历才能...</a></li>
+                            <li><a href="http://article.zhaopin.com/marketing/pub/view/detail-100048.html" onmousedown="return AdsClick(121111550, 'new_zpindex_jlzz5') " target="_blank">这么写简历，你也能去苹果工作...</a></li>
+                            <li><a href="http://article.zhaopin.com/marketing/pub/view/detail-100047.html" onmousedown="return AdsClick(121111550, 'new_zpindex_jlzz6') " target="_blank">个人简历的九大注意事项</a></li>
+                </ul>
+
+    </dd>
+</dl>
+
+
+<dl class="infoBox">
+    <dt class="blockT"><span class="ti ti5"></span></dt>
+    <dd>
+
+                <div>
+
+                    <a href="http://article.zhaopin.com/marketing/pub/view/detail-100046.html" onmousedown="return AdsClick(121111550,'new_zpindex_msjq1')" target="_blank">
+                        <img lazy_src="http://article.zhaopin.com/marketing/upload/bf78116c-e416-43fd-ab2a-e8a429c06dbe.jpg" class="infoBoxPic" height="74" width="94">
+                    </a><br>
+                    <a href="http://article.zhaopin.com/marketing/pub/view/detail-100046.html" onmousedown="return AdsClick(121111550,'new_zpindex_msjq1')" target="_blank">准备个性化面试为...</a>
+                </div>
+                <ul>
+                            <li><a href="http://article.zhaopin.com/marketing/pub/view/detail-100045.html" onmousedown="return AdsClick(121111550, 'new_zpindex_msjq2') " target="_blank">面试中最可怕的四个问题是啥，...</a></li>
+                            <li><a href="http://article.zhaopin.com/marketing/pub/view/detail-100044.html" onmousedown="return AdsClick(121111550, 'new_zpindex_msjq3') " target="_blank">铲除考场中的紧张与不自信</a></li>
+                            <li><a href="http://article.zhaopin.com/marketing/pub/view/detail-100042.html" onmousedown="return AdsClick(121111550, 'new_zpindex_msjq4') " target="_blank">面试不通过的9大原因 不修边...</a></li>
+                            <li><a href="http://article.zhaopin.com/marketing/pub/view/detail-100041.html" onmousedown="return AdsClick(121111550, 'new_zpindex_msjq5') " target="_blank">揭秘：招聘面试技巧陷阱</a></li>
+                            <li><a href="http://article.zhaopin.com/marketing/pub/view/detail-100040.html" onmousedown="return AdsClick(121111550, 'new_zpindex_msjq6') " target="_blank">面试官的四大“坑人情结”</a></li>
+                </ul>
+
+
+    </dd>
+</dl>
+
+<dl class="infoBox adsFix">
+    <dt class="blockT"><span class="ti ti6"></span></dt>
+    <dd>
+                <div>
+
+                    <a href="http://article.zhaopin.com/marketing/pub/view/detail-100039.html" onmousedown="return AdsClick(121111550,'new_zpindex_zldy1')" target="_blank">
+                        <img lazy_src="http://article.zhaopin.com/marketing/upload/a285b008-7353-4d5b-8581-5314f996dc6b.jpg" class="infoBoxPic" height="74" width="94">
+                    </a>
+                    <br><a href="http://article.zhaopin.com/marketing/pub/view/detail-100039.html" onmousedown="return AdsClick(121111550,'new_zpindex_zldy1')" target="_blank">2016年第二季...</a>
+                </div>
+            <ul>
+                        <li><a href="http://article.zhaopin.com/marketing/pub/view/detail-100038.html" onmousedown="return AdsClick(121111550, 'new_zpindex_zldy2') " target="_blank">2016年职场妈妈生存状况调...</a></li>
+                        <li><a href="http://article.zhaopin.com/marketing/pub/view/detail-100037.html" onmousedown="return AdsClick(121111550, 'new_zpindex_zldy3') " target="_blank">2016年夏季职场竞争趋缓，...</a></li>
+                        <li><a href="http://article.zhaopin.com/marketing/pub/view/detail-100036.html" onmousedown="return AdsClick(121111550, 'new_zpindex_zldy4') " target="_blank">薪水越多对事业越有信心？白领...</a></li>
+                        <li><a href="http://article.zhaopin.com/marketing/pub/view/detail-100035.html" onmousedown="return AdsClick(121111550, 'new_zpindex_zldy5') " target="_blank">毕业生的自我反思</a></li>
+                        <li><a href="http://article.zhaopin.com/marketing/pub/view/detail-100034.html" onmousedown="return AdsClick(121111550, 'new_zpindex_zldy6') " target="_blank">买房仍是刚需，中国白领为房子...</a></li>
+            </ul>
+
+    </dd>
+</dl>
+
+     </div>
+</div>
+<div id="footer">
+  <div class="footerFuncCity clearfix">
+    <ul>
+      <li class="char">A</li>
+      <li><strong><a href="http://www.zhaopin.com/anshan/">鞍山</a></strong>|</li>
+      <li><strong><a href="http://www.zhaopin.com/anshun/">安顺</a></strong>|</li>
+      <li><strong><a href="http://www.zhaopin.com/anyang/">安阳</a></strong>|</li>
+      <li><strong><a href="http://www.zhaopin.com/anqing/">安庆</a></strong>|</li>
+      
+      <li><strong><a href="http://www.zhaopin.com/ankang/">安康</a></strong></li>
+      <li class="char">B</li>
+      <li><strong><a href="http://www.zhaopin.com/beijing/">北京</a></strong>|</li>
+      <li><strong><a href="http://www.zhaopin.com/baoding/">保定</a></strong>|</li>
+      <li><strong><a href="http://www.zhaopin.com/baotou/">包头</a></strong>|</li>
+      <li><strong><a href="http://www.zhaopin.com/binzhou/">滨州</a></strong>|</li>
+      <li><strong><a href="http://www.zhaopin.com/baoji/">宝鸡</a></strong>|</li>
+      <li><strong><a href="http://www.zhaopin.com/bozhou/">亳州</a></strong>|</li>
+       <li><strong><a href="http://www.zhaopin.com/beihai/">北海</a></strong>|</li>
+      <li><strong><a href="http://www.zhaopin.com/bengbu/">蚌埠</a></strong></li>
+      <li class="char">C</li>
+      <li><strong><a href="http://www.zhaopin.com/changchun/">长春</a></strong>|</li>
+      <li><strong><a href="http://www.zhaopin.com/changzhutan/">长株潭</a></strong>|</li>
+      <li><strong><a href="http://www.zhaopin.com/chengdu/">成都</a></strong>|</li>
+      <li><strong><a href="http://www.zhaopin.com/chongqing/">重庆</a></strong>|</li>
+      <li><strong><a href="http://www.zhaopin.com/changzhou/">常州</a></strong>|</li>
+      <li><strong><a href="http://www.zhaopin.com/cangzhou/">沧州</a></strong>|</li>
+      <li><strong><a href="http://www.zhaopin.com/changde/">常德</a></strong>|</li>
+      <li><strong><a href="http://www.zhaopin.com/changshu/ ">常熟</a></strong>|</li>
+      <li><strong><a href="http://www.zhaopin.com/chuzhou/">滁州</a></strong>|</li>
+      <li><strong><a href="http://www.zhaopin.com/chengde/">承德</a></strong>|</li>
+      <li><strong><a href="http://www.zhaopin.com/chenzhou/">郴州</a></strong>|</li>
+      <li><strong><a href="http://www.zhaopin.com/chaozhou/">潮州</a></strong>|</li>
+      <li><strong><a href="http://www.zhaopin.com/changzhi/">长治</a></strong>|</li>
+      <li><strong><a href="http://www.zhaopin.com/chizhou/">池州</a></strong>|</li>
+            <li><a href="http://www.zhaopin.com/chifeng/">赤峰</a></li>
+
+      <li class="char">D</li>
+      <li><strong><a href="http://www.zhaopin.com/dalian/">大连</a></strong>|</li>
+      <li><strong><a href="http://www.zhaopin.com/dongguan/">东莞</a></strong>|</li>
+      <li><strong><a href="http://www.zhaopin.com/daqing/">大庆</a></strong>|</li>
+      <li><strong><a href="http://www.zhaopin.com/dandong/">丹东</a></strong>|</li>
+      <li><strong><a href="http://www.zhaopin.com/dongying/">东营</a></strong>|</li>
+      <li><strong><a href="http://www.zhaopin.com/dezhou/">德州</a></strong>|</li>
+      <li><strong><a href="http://www.zhaopin.com/deyang/">德阳</a></strong>|</li>
+      <li><strong><a href="http://www.zhaopin.com/datong/">大同</a></strong></li>
+      <li class="char">E</li>
+      <li><strong><a href="http://www.zhaopin.com/eerduosi/">鄂尔多斯</a></strong>|</li>
+      <li><strong><a href="http://www.zhaopin.com/ezhou/">鄂州</a></strong>|</li>
+      <li><strong><a href="http://www.zhaopin.com/enshi/">恩施</a></strong></li>
+      <li class="char">F</li>
+      <li><strong><a href="http://www.zhaopin.com/fuzhou/">福州</a></strong>|</li>
+      <li><strong><a href="http://www.zhaopin.com/foshan/">佛山</a></strong>|</li>
+      <li><strong><a href="http://www.zhaopin.com/fushun/">抚顺</a></strong>|</li>
+      <li><strong><a href="http://www.zhaopin.com/fu3zhou/">抚州</a></strong>|</li>
+      <li><strong><a href="http://www.zhaopin.com/fuyang/">阜阳</a></strong></li>
+      <li class="char">G</li>
+      <li><strong><a href="http://www.zhaopin.com/guangzhou/">广州</a></strong>|</li>
+      <li><strong><a href="http://www.zhaopin.com/guiyang/">贵阳</a></strong>|</li>
+      <li><strong><a href="http://www.zhaopin.com/ganzhou/">赣州</a></strong>|</li>
+            <li><strong><a href="http://www.zhaopin.com/guilin/">桂林</a></strong>|</li>
+      
+       <li><strong><a href="http://www.zhaopin.com/gansu/">甘肃</a></strong></li>
+      
+      <li class="char">H</li>
+      <li><strong><a href="http://www.zhaopin.com/haerbin/">哈尔滨</a></strong>|</li>
+      <li><strong><a href="http://www.zhaopin.com/hangzhou/">杭州</a></strong>|</li>
+      <li><strong><a href="http://www.zhaopin.com/hefei/">合肥</a></strong>|</li>
+      <li><strong><a href="http://www.zhaopin.com/hengyang/">衡阳</a></strong>|</li>
+      <li><strong><a href="http://www.zhaopin.com/hengshui/">衡水</a></strong>|</li>
+      <li><strong><a href="http://www.zhaopin.com/handan/">邯郸</a></strong>|</li>
+      <li><strong><a href="http://www.zhaopin.com/haikou/">海口</a></strong>|</li>
+      <li><strong><a href="http://www.zhaopin.com/huhehaote/">呼和浩特</a></strong>|</li>
+      <li><strong><a href="http://www.zhaopin.com/huzhou/">湖州</a></strong>|</li>
+      <li><strong><a href="http://www.zhaopin.com/huaian/">淮安</a></strong>|</li>
+      <li><strong><a href="http://www.zhaopin.com/heze/">菏泽</a></strong>|</li>
+      <li><strong><a href="http://www.zhaopin.com/huaibei/">淮北</a></strong>|</li>
+      <li><strong><a href="http://www.zhaopin.com/hanzhong/">汉中</a></strong>|</li>
+      <li><strong><a href="http://www.zhaopin.com/hulunbeier/">呼伦贝尔</a></strong>|</li>
+      <li><strong><a href="http://www.zhaopin.com/huludao/">葫芦岛</a></strong>|</li>
+       <li><strong><a href="http://www.zhaopin.com/huizhou/">惠州</a></strong>|</li>
+       <li><strong><a href="http://www.zhaopin.com/hebi/">鹤壁</a></strong>|</li>
+       <li><strong><a href="http://www.zhaopin.com/huainan/">淮南</a></strong>|</li>
+       <li><strong><a href="http://www.zhaopin.com/hunchun/">珲春</a></strong>|</li>  
+           <li><strong><a href="http://www.zhaopin.com/huanggang/">黄冈</a></strong>|</li>
+            <li><strong><a href="http://www.zhaopin.com/huangshi/">黄石</a></strong></li>
+      <li class="char">J</li>
+      <li><strong><a href="http://www.zhaopin.com/jinan/">济南</a></strong>|</li>
+      <li><strong><a href="http://www.zhaopin.com/jilin/">吉林</a></strong>|</li>
+      <li><strong><a href="http://www.zhaopin.com/jiaxing/">嘉兴</a></strong>|</li>
+      <li><strong><a href="http://www.zhaopin.com/jiangmen/">江门</a></strong>|</li>
+      <li><strong><a href="http://www.zhaopin.com/jiangyin/">江阴</a></strong>|</li>
+      <li><strong><a href=" http://www.zhaopin.com/jiujiang/">九江</a></strong>|</li>
+      <li><strong><a href="http://www.zhaopin.com/jining/">济宁</a></strong>|</li>
+      <li><strong><a href="http://www.zhaopin.com/jinhua/">金华</a></strong>|</li>
+      <li><strong><a href="http://www.zhaopin.com/jingzhou/">荆州</a></strong>|</li>
+      <li><strong><a href="http://www.zhaopin.com/jiaozuo/">焦作</a></strong>|</li>
+      <li><strong><a href="http://www.zhaopin.com/jieyang/">揭阳</a></strong>|</li>  
+      <li><strong><a href="http://www.zhaopin.com/jiamusi/">佳木斯</a></strong>|</li>
+      <li><strong><a href="http://www.zhaopin.com/jinzhou/">锦州</a></strong></li>
+      <li><strong><a href="http://www.zhaopin.com/jinzhong/">晋中</a></strong>|</li>
+      <li><strong><a href="http://www.zhaopin.com/jian/">吉安</a></strong>|</li>
+      <li><strong><a href="http://www.zhaopin.com/jingdezhen/">景德镇</a></strong>|</li>
+      <li><strong><a href="http://www.zhaopin.com/jincheng/">晋城</a></strong></li>
+            
+      <li class="char">K</li>
+      <li><strong><a href="http://www.zhaopin.com/kaifeng/">开封</a></strong>|</li>
+      <li><strong><a href="http://www.zhaopin.com/kunming/">昆明</a></strong>|</li>
+      <li><strong><a href="http://www.zhaopin.com/kunshan/">昆山</a></strong>|</li>
+      <li><strong><a href="http://www.zhaopin.com/kaiping/">开平</a></strong></li>
+      
+      <li class="char">L</li>
+      <li><strong><a href="http://www.zhaopin.com/linyi/">临沂</a></strong>|</li>
+      <li><strong><a href="http://www.zhaopin.com/lanzhou/">兰州</a></strong>|</li>
+      <li><strong><a href="http://www.zhaopin.com/luoyang/">洛阳</a></strong>|</li>
+      <li><strong><a href="http://www.zhaopin.com/lianyungang/">连云港</a></strong>|</li>
+      <li><strong><a href="http://www.zhaopin.com/liaocheng/">聊城</a></strong>|</li>
+      <li><strong><a href="http://www.zhaopin.com/liuzhou/">柳州</a></strong>|</li>
+      <li><strong><a href="http://www.zhaopin.com/langfang/">廊坊</a></strong>|</li>
+      <li><strong><a href="http://www.zhaopin.com/liupanshui/">六盘水</a></strong>|</li>
+      <li><strong><a href="http://www.zhaopin.com/luohe/">漯河</a></strong>|</li>
+      <li><strong><a href="http://www.zhaopin.com/laiwu/">莱芜</a></strong>|</li>
+      <li><strong><a href="http://www.zhaopin.com/leshan/">乐山</a></strong>|</li>
+<li><strong><a href="http://www.zhaopin.com/liaoyang/">辽阳</a></strong>|</li>
+<li><strong><a href="http://www.zhaopin.com/longyan/">龙岩</a></strong>|</li>
+<li><strong><a href="http://www.zhaopin.com/lishui/">丽水</a></strong>|</li>
+<li><strong><a href="http://www.zhaopin.com/liuan/">六安</a></strong>|</li>
+<li><strong><a href="http://www.zhaopin.com/linfen/">临汾</a></strong></li>
+
+
+      <li class="char">M</li>
+      <li><strong><a href="http://www.zhaopin.com/maanshan/">马鞍山</a></strong>|</li>
+      <li><strong><a href="http://www.zhaopin.com/mianyang/">绵阳</a></strong>|</li>
+       <li><strong><a href="http://www.zhaopin.com/meizhou/">梅州</a></strong>|</li>
+        <li><strong><a href="http://www.zhaopin.com/maoming/">茂名</a></strong>|</li>
+       <li><strong><a href="http://www.zhaopin.com/mudanjiang/">牡丹江</a></strong></li>
+      
+      <li class="char">N</li>
+      <li><strong><a href="http://www.zhaopin.com/nanchong/">南充</a></strong>|</li>
+      <li><strong><a href="http://www.zhaopin.com/nanjing/">南京</a></strong>|</li>
+      <li><strong><a href="http://www.zhaopin.com/nanyang/">南阳</a></strong>|</li>
+      <li><strong><a href="http://www.zhaopin.com/ningbo/">宁波</a></strong>|</li>
+      <li><strong><a href="http://www.zhaopin.com/nanchang/">南昌</a></strong>|</li>
+      <li><strong><a href="http://www.zhaopin.com/nantong/">南通</a></strong>|</li>
+      <li><strong><a href="http://www.zhaopin.com/nanning/">南宁</a></strong>|</li>
+      <li><strong><a href="http://www.zhaopin.com/nanping/">南平</a></strong>|</li>
+      <li><strong><a href="http://www.zhaopin.com/ningde/">宁德</a></strong>|</li>
+      <li><strong><a href="http://www.zhaopin.com/ningxia/">宁夏</a></strong></li>
+      <li class="char">P</li>
+      <li><strong><a href="http://www.zhaopin.com/pingdingshan/">平顶山</a></strong>|</li>
+      <li><strong><a href="http://www.zhaopin.com/putian/">莆田</a></strong>|</li>
+      <li><strong><a href="http://www.zhaopin.com/puyang/">濮阳</a></strong>|</li>
+      <li><strong><a href="http://www.zhaopin.com/puning/">普宁</a></strong>|</li>
+      <li><strong><a href="http://www.zhaopin.com/panjin/">盘锦</a></strong></li>
+      
+      <li class="char">Q</li>
+      <li><strong><a href="http://www.zhaopin.com/qingdao/">青岛</a></strong>|</li>
+      <li><strong><a href="http://www.zhaopin.com/qinhuangdao/">秦皇岛</a></strong>|</li>
+      <li><strong><a href="http://www.zhaopin.com/quanzhou/">泉州</a></strong>|</li>
+      <li><strong><a href="http://www.zhaopin.com/qingyuan/">清远</a></strong>|</li>
+      <li><strong><a href="http://www.zhaopin.com/qinghai/">青海</a></strong>|</li>
+      <li><strong><a href="http://www.zhaopin.com/qujing/">曲靖</a></strong>|</li>   
+      <li><strong><a href="http://www.zhaopin.com/qiqihaer/">齐齐哈尔</a></strong></li>
+
+      
+      <li class="char">R</li>
+      <li><strong><a href="http://www.zhaopin.com/rizhao/">日照</a></strong></li>
+      <li class="char">S</li>
+      <li><strong><a href="http://www.zhaopin.com/shanghai/">上海</a></strong>|</li>
+      <li><strong><a href="http://www.zhaopin.com/shangqiu/">商丘</a></strong>|</li>
+      <li><strong><a href="http://www.zhaopin.com/shenzhen/">深圳</a></strong>|</li>
+      <li><strong><a href="http://www.zhaopin.com/shenyang/">沈阳</a></strong>|</li>
+      <li><strong><a href="http://www.zhaopin.com/shijiazhuang/">石家庄</a></strong>|</li>
+      <li><strong><a href="http://www.zhaopin.com/suqian/">宿迁</a></strong>|</li>
+      <li><strong><a href="http://www.zhaopin.com/suzhou/">苏州</a></strong>|</li>
+      <li><strong><a href="http://www.zhaopin.com/su4zhou/">宿州</a></strong>|</li>
+      <li><strong><a href=" http://www.zhaopin.com/suizhou/">随州</a></strong>|</li>
+      <li><strong><a href="http://www.zhaopin.com/shaoxing/">绍兴</a></strong>|</li>
+      <li><strong><a href="http://www.zhaopin.com/sanya/">三亚</a></strong>|</li>
+      <li><strong><a href="http://www.zhaopin.com/shantou/">汕头</a></strong>|</li>
+      <li><strong><a href="http://www.zhaopin.com/siping/">四平</a></strong>|</li>
+      <li><strong><a href="http://www.zhaopin.com/shangrao/">上饶</a></strong>|</li>
+      <li><strong><a href="http://www.zhaopin.com/shaoyang/">邵阳</a></strong>|</li>
+      <li><strong><a href="http://www.zhaopin.com/shiyan/">十堰</a></strong>|</li>
+      <li><strong><a href="http://www.zhaopin.com/sanmenxia/">三门峡</a></strong>|</li>
+      <li><strong><a href="http://www.zhaopin.com/shangluo/">商洛</a></strong>|</li>
+      <li><strong><a href="http://www.zhaopin.com/suining/">遂宁</a></strong>|</li>
+            <li><strong><a href="http://www.zhaopin.com/sanming/">三明</a></strong>|</li>
+            <li><strong><a href="http://www.zhaopin.com/shaoguan/">韶关</a></strong>|</li>
+       <li><strong><a href="http://www.zhaopin.com/songyuan/">松原</a></strong></li>
+       
+       
+      <li class="char">T</li>
+      <li><strong><a href="http://www.zhaopin.com/tianjin/">天津</a></strong>|</li>
+      <li><strong><a href="http://www.zhaopin.com/taiyuan/">太原</a></strong>|</li>
+      <li><strong><a href="http://www.zhaopin.com/tangshan/">唐山</a></strong>|</li>
+      <li><strong><a href="http://www.zhaopin.com/taizhou/">台州</a></strong>|</li>
+      <li><strong><a href="http://www.zhaopin.com/tieling/">铁岭</a></strong>|</li>
+      <li><strong><a href="http://www.zhaopin.com/taian/">泰安</a></strong>|</li>
+      <li><strong><a href="http://www.zhaopin.com/tzhou/">泰州</a></strong>|</li>
+      <li><strong><a href="http://www.zhaopin.com/tongchuan/">铜川</a></strong>|</li>
+       <li><strong><a href="http://www.zhaopin.com/tongliao/">通辽</a></strong>|</li>
+       <li><strong><a href="http://www.zhaopin.com/tongling/">铜陵</a></strong>|</li>
+        <li><strong><a href="http://www.zhaopin.com/tonghua/">通化</a></strong></li>
+        
+      <li class="char">W</li>
+      <li><strong><a href="http://www.zhaopin.com/wuhan/">武汉</a></strong>|</li>
+      <li><strong><a href="http://www.zhaopin.com/wuxi/">无锡</a></strong>|</li>
+      <li><strong><a href="http://www.zhaopin.com/wenzhou/">温州</a></strong>|</li>
+      <li><strong><a href="http://www.zhaopin.com/weihai/">威海</a></strong>|</li>
+      <li><strong><a href="http://www.zhaopin.com/wulumuqi/">乌鲁木齐</a></strong>|</li>
+      <li><strong><a href="http://www.zhaopin.com/wuhu/">芜湖</a></strong>|</li>
+      <li><strong><a href="http://www.zhaopin.com/weifang/">潍坊</a></strong>|</li>
+      <li><strong><a href="http://www.zhaopin.com/weinan/">渭南</a></strong></li>
+        
+      <li class="char">X</li>
+      <li><strong><a href="http://www.zhaopin.com/xian/">西安</a></strong>|</li>
+      <li><strong><a href="http://www.zhaopin.com/xiamen/">厦门</a></strong>|</li>
+      <li><strong><a href="http://www.zhaopin.com/xinxiang/">新乡</a></strong>|</li>
+      <li><strong><a href="http://www.zhaopin.com/xuchang/">许昌</a></strong>|</li>
+      <li><strong><a href="http://www.zhaopin.com/xuzhou/">徐州</a></strong>|</li>
+      <li><strong><a href="http://www.zhaopin.com/xiangyang/">襄阳</a></strong>|</li>
+      <li><strong><a href="http://www.zhaopin.com/xizang/">西藏</a></strong>|</li>
+      <li><strong><a href="http://www.zhaopin.com/xianyang/">咸阳</a></strong>|</li>
+      <li><strong><a href="http://www.zhaopin.com/xinyang/">信阳</a></strong>|</li>
+      <li><strong><a href="http://www.zhaopin.com/xingtai/">邢台</a></strong>|</li>
+      <li><strong><a href="http://www.zhaopin.com/xinjiang/">新疆</a></strong>|</li>
+      <li><strong><a href="http://www.zhaopin.com/xinyu/">新余</a></strong>|</li>
+      <li><strong><a href="http://www.zhaopin.com/xiaogan/">孝感</a></strong></li>
+      <li class="char">Y</li>
+      <li><strong><a href="http://www.zhaopin.com/yangzhou/"><strong>扬州</strong></a></strong>|</li>
+      <li><strong><a href="http://www.zhaopin.com/yantai/">烟台</a></strong>|</li>
+      <li><strong><a href="http://www.zhaopin.com/yiwu/">义乌</a></strong>|</li>
+      <li><strong><a href="http://www.zhaopin.com/yingkou/">营口</a></strong>|</li>
+      <li><strong><a href="http://www.zhaopin.com/yancheng/">盐城</a></strong>|</li>
+      <li><strong><a href="http://www.zhaopin.com/yulin/">榆林</a></strong>|</li>
+      <li><strong><a href=" http://www.zhaopin.com/yuncheng/">运城</a></strong>|</li>
+      <li><strong><a href="http://www.zhaopin.com/yichang/">宜昌</a></strong>|</li>
+      <li><strong><a href="http://www.zhaopin.com/yixing/">宜兴</a></strong>|</li>
+      <li><strong><a href="http://www.zhaopin.com/yu4lin/">玉林</a></strong>|</li>
+      <li><strong><a href="http://www.zhaopin.com/yueyang/">岳阳</a></strong>|</li>
+      <li><strong><a href="http://www.zhaopin.com/yibin/">宜宾</a></strong>|</li>
+      <li><strong><a href="http://www.zhaopin.com/yanan/">延安</a></strong>|</li>
+      <li><strong><a href="http://www.zhaopin.com/yanbian/">延边</a></strong>|</li>
+      <li><strong><a href="http://www.zhaopin.com/yinchuan/">银川</a></strong>|</li>
+           <li><strong><a href="http://www.zhaopin.com/yangquan/">阳泉</a></strong>|</li>
+           <li><strong><a href="http://www.zhaopin.com/yongzhou/">永州</a></strong>|</li>
+            <li><strong><a href="http://www.zhaopin.com/yangjiang/">阳江</a></strong>|</li>
+            <li><strong><a href="http://www.zhaopin.com/yiyang/">益阳</a></strong>|</li>
+            <li><strong><a href="http://www.zhaopin.com/yichun/">宜春</a></strong>|</li>
+       <li><strong><a href="http://www.zhaopin.com/yuxi/">玉溪</a></strong>|</li>
+      <li class="char">Z</li>
+      <li><strong><a href=" http://www.zhaopin.com/zhangjiagang/">张家港</a></strong>|</li>
+      <li><strong><a href="http://www.zhaopin.com/zhangjiakou/">张家口</a></strong>|</li>
+      <li><strong><a href="http://www.zhaopin.com/zhengzhou/">郑州</a></strong>|</li>
+      <li><strong><a href="http://www.zhaopin.com/zhongshan/">中山</a></strong>|</li>
+      <li><strong><a href="http://www.zhaopin.com/zhuhai/">珠海</a></strong>|</li>
+      <li><strong><a href="http://www.zhaopin.com/zibo/">淄博</a></strong>|</li>
+      <!-- <li><strong><a href="http://www.zhaopin.com/zhusanjiao/">珠三角</a></strong>|</li> -->
+      <li><strong><a href="http://www.zhaopin.com/zhangzhou/">漳州</a></strong>|</li>
+      <li><strong><a href="http://www.zhaopin.com/zhenjiang/">镇江</a></strong>|</li>
+      <li><strong><a href="http://www.zhaopin.com/zhanjiang/">湛江</a></strong>|</li>
+      <li><strong><a href="http://www.zhaopin.com/zhaoqing/">肇庆</a></strong>|</li>
+      <li><strong><a href="http://www.zhaopin.com/zaozhuang/">枣庄</a></strong>|</li>
+      <li><strong><a href="http://www.zhaopin.com/zunyi/">遵义</a></strong>|</li>
+      <li><strong><a href="http://www.zhaopin.com/zhumadian/">驻马店</a></strong>|</li>
+      <li><strong><a href="http://www.zhaopin.com/zhoukou/">周口</a></strong>|</li>
+      <li><strong><a href="http://www.zhaopin.com/zigong/">自贡</a></strong></li>
+    </ul>
+  </div>
+  <div class="footerFuncSearch">
+    <div class="sbf"></div>
+    <div class="sbc">
+      <form name="frmSearch_bottom" method="get" onsubmit="return zlzp.searchjob.gotoSearch_t(document.frmSearch_bottom)">
+        <input name="page" value="" type="hidden">
+        <input name="SchJobType" value="" type="hidden">
+        <input name="subJobtype" value="" type="hidden">
+        <input name="industry" value="" type="hidden">
+        <input name="PublishDate" value="" type="hidden">
+        <input name="sortby" value="" type="hidden">
+        <input name="SearchModel" value="0" type="hidden">
+        <input name="ref" value="jobsearch" type="hidden">
+        <input name="f_kw" value="" type="hidden">
+        <ul>
+          <li class="inputBg" style="display:inline">
+            <input id="buttonSelJobType_bottom" name="buttonSelJobType" value="选择职位" title="选择职位" type="button">
+          </li>
+          <li class="inputBg">
+            <input id="buttonSelIndustry_bottom" name="buttonSelIndustry" value="选择行业" title="选择行业" type="button">
+          </li>
+          <li class="inputBg city">
+            <input class="cityInput inputTips" id="JobLocation_bottom" name="JobLocation" value="" onfocus="zlzp.clearDefTxt(this,zlzp.searchjob.c_tips);" onblur="zlzp.setDefTxt(this,zlzp.searchjob.c_tips);" type="text">
+            <input id="buttonSelCity_bottom" name="buttonSelCity" title="选择城市" class="cityButton" type="button">
+          </li>
+          <li class="inputBg keyword">
+            <input class="keyword inputTips" name="KeyWord" id="KeyWord_kw2_bottom" value="" onfocus="zlzp.clearDefTxt(this,zlzp.searchjob.k_tips);" onblur="zlzp.setDefTxt(this,zlzp.searchjob.k_tips);" maxlength="100" title="输入公司名称或职位名称" type="text">
+          </li>
+          <li class="btn">
+            <button class="doSearch" onclick="zlzp.searchjob.gotoSearch_t(document.frmSearch_bottom)"></button>
+          </li>
+        </ul>
+      </form>
+    </div>
+    <div class="sbl"></div>
+  </div>
+
+
+
+<div style="width:990px;margin:0 auto">
+
+</div>
+
+
+<div style="position:relative; text-align:center;"> <a onmousedown="return AdsClick(121115223,'zhilianjieshao')" target="_blank" href="http://special.zhaopin.com/sh/2009/aboutus/about.html" rel="nofollow">智联介绍</a> | <a href="http://jobs.zhaopin.com/" target="_blank" onmousedown="return AdsClick(121115223,'zhiweisuoyin')">人才招聘</a> | <a onmousedown="return AdsClick(121115223,'wangzhanditu')" target="_blank" href="http://www.zhaopin.com/sitemap.html">网站地图</a> | <a onmousedown="return AdsClick(121115223,'jiaruzhilian')" target="_blank" href="http://special.zhaopin.com/sh/2009/aboutus/join.html" rel="nofollow">加入智联</a> | <a onmousedown="return AdsClick(121115223,'falvshengming')" target="_blank" href="http://special.zhaopin.com/sh/2009/aboutus/law.html" rel="nofollow">法律声明</a> | <a onmousedown="return AdsClick(121115223,'baomichengnuo')" target="_blank" href="http://special.zhaopin.com/sh/2009/aboutus/secrecy.html" rel="nofollow">保密承诺</a> <!--| <a href="http://my.zhaopin.com/loginmgr/regist_serviceitem.asp?f=b" target="_blank" onMouseDown="return AdsClick(121115223,'gerenzhuce')">个人注册</a>--> | <a onmousedown="return AdsClick(121115223,'lianxifangshi')" target="_blank" href="http://special.zhaopin.com/sh/2009/aboutus/contact.html" rel="nofollow">联系方式</a> | <a onmousedown="return AdsClick(121115223,'changjianwenti')" target="_blank" href="http://jobseeker.zhaopin.com/zhaopin/faq/question.html" rel="nofollow">常见问题</a> | <div id="foot-friend"><a rel="nofollow"> 国际伙伴</a>
+  <div id="sub-friend">
+      <ul>
+          <li class="sfFirst">Core:</li>
+          <li><a target="_blank" href="http://www.babajob.com">BabaJob</a>-India</li>
+          <li><a target="_blank" href="http://www.bdjobs.com">BDJobs</a>-Bangladesh</li>
+          <li><a target="_blank" href="http://www.brightermonday.com" rel="nofollow">BrighterMonday</a>-East Africa</li>
+          <li><a target="_blank" href="http://www.catho.com.br">Catho</a>-Brazil</li>
+          <li class="sfFirst"></li>
+          <li><a target="_blank" href="http://www.jobberman.com">Jobberman</a>-West Africa</li>
+          <li><a target="_blank" href="http://www.jobsdb.com">JobsDB</a>-S.E. Asia</li>
+          <li><a target="_blank" href="http://www.jobstreet.com">JobStreet</a>-S.E. Asia</li>
+          <li><a target="_blank" href="https://www.jora.com">Jora</a>-Worldwide</li>
+          <li class="sfFirst"></li>
+          <li><a target="_blank" href="http://www.manager.com.br">Manager</a>-Brazil</li>
+          <li><a target="_blank" href="https://www.occ.com.mx " rel="nofollow">OCC Mundial</a>-Mexico</li>
+          <li><a target="_blank" href="http://www.seek.com.au">SEEK</a>-Australia</li>
+          <li></li>
+          <li class="sfFirst">Regional:</li>
+          <li><a target="_blank" href="http://www.cjol.com " rel="nofollow">CJOL</a></li>
+      </ul>
+    </div>
+  </div>
+
+  | <a target="_blank" href="http://ir.zhaopin.com" rel="nofollow">Investor Relations</a>
+    <!--<a href="http://article.zhaopin.com/pub/ch.jsp?cid=1237" target="_blank" onMouseDown="return AdsClick(121115223,'meitibaodao')">媒体报道</a> -->
+    您对 Zhaopin.com 有任何建议或意见请 <a onclick="openFeedback('http://interact.zhaopin.com/feedback/feedback.asp');return false;" onmousedown="return AdsClick(121115223,' contactus')" href="#" rel="nofollow">联系我们</a><br>
+    未经 Zhaopin.com 同意，不得转载本网站之所有招聘信息及作品 智联招聘网版权所有© 1997-2016<br>
+    京ICP备12025925号 电信业务审批[2001]字第233号函 <a target="_blank" style="display:inline-block;text-decoration:none;height:20px;line-height:20px;color:#939393;" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010502002133">京公网安备 11010502002133号</a> </div>
+    <!--110105000322-->
+    <div class="footerLicense">
+    <div><img src="http://img02.zhaopin.cn/2012/img/badge1.png"><a target="_blank" href="http://www.hd315.gov.cn/beian/view.asp?bianhao=0102000103000045">经营性网站备案信息</a></div>
+    <div><img src="http://img02.zhaopin.cn/2012/img/badge2.png"><a target="_blank" href="http://www.bj.cyberpolice.cn/index.jsp">网络110报警服务</a></div>
+    <div><img src="http://img02.zhaopin.cn/2012/img/badge1.png"><a target="_blank" href="http://img00.zhaopin.cn/new2011/bottom/license.html">电子营业执照</a></div>
+    <div><a target="_blank" href="https://search.szfw.org/cert/l/CX20111222001262001306" id="___szfw_logo___"><img style="margin-top:2px;" src="http://img00.zhaopin.cn/2012/img/cert.png" height="40" width="112"></a></div>
+    <div><a target="_blank" id="urlknet" tabindex="-1" href="https://ss.knet.cn/verifyseal.dll?sn=e14032711010547573rieg000000&amp;ct=df&amp;a=1&amp;pa=500267"> <img style="margin-top:2px;" onclick="CNNIC_change('urlknet')" oncontextmenu="return false;" src="http://img02.zhaopin.cn/2012/img/knetSealLogo.png" name="CNNIC_seal" alt="可信网站" border="true"> </a> </div>
+  </div>
+
+</div>
+<input id="smpfrom" value="14" type="hidden">
+<!-- 这里包含广告筛选器include adfilter.html -->
+<div id="adFilter">
+	<ul> 
+		<li onclick="ZP.analysis.init_monitor_analy(this,'HomeFilter','clickquanxuan','001');;" ctype="ct0" class="current __ga__HomeFilter_clickquanxuan_001">全部</li>
+		<li onclick="ZP.analysis.init_monitor_analy(this,'HomeFilter','clickjinrong','001');;" ctype="ct180000" class="__ga__HomeFilter_clickjinrong_001">金融</li>
+		<li onclick="ZP.analysis.init_monitor_analy(this,'HomeFilter','clickqiche','001');;" ctype="ct121000" class="__ga__HomeFilter_clickqiche_001">汽车</li>
+		<li onclick="ZP.analysis.init_monitor_analy(this,'searchresultTab','clickfangdichan','001');;" ctype="ct140000" class="__ga__searchresultTab_clickfangdichan_001">房地产</li>
+		<li onclick="ZP.analysis.init_monitor_analy(this,'HomeFilter','clickITfuwu','001');;" ctype="ct160000" class="__ga__HomeFilter_clickITfuwu_001">IT服务</li>
+		<li onclick="ZP.analysis.init_monitor_analy(this,'HomeFilter','clicksoft','001');;" ctype="ct160400" class="__ga__HomeFilter_clicksoft_001">软件</li>
+		<li onclick="ZP.analysis.init_monitor_analy(this,'HomeFilter','clickeducation','001');;" ctype="ct201100" class="__ga__HomeFilter_clickeducation_001">教育</li>
+		<li onclick="ZP.analysis.init_monitor_analy(this,'HomeFilter','clickoil','001');;" ctype="ct120500" class="__ga__HomeFilter_clickoil_001">石油</li>
+		<li onclick="ZP.analysis.init_monitor_analy(this,'HomeFilter','clickmedicine','001');;" ctype="ct121300" class="__ga__HomeFilter_clickmedicine_001">医药</li>
+		<li onclick="ZP.analysis.init_monitor_analy(this,'HomeFilter','clickxiaofeipin','001');;" ctype="ct120400" class="__ga__HomeFilter_clickxiaofeipin_001">消费品</li>
+		<li onclick="ZP.analysis.init_monitor_analy(this,'HomeFilter','clickhulianwang','001');;" ctype="ct210500" class="__ga__HomeFilter_clickhulianwang_001">互联网</li>
+		<li onclick="ZP.analysis.init_monitor_analy(this,'HomeFilter','clicktongxun','001');;" ctype="ct160100" class="__ga__HomeFilter_clicktongxun_001">通讯</li>
+		<li onclick="ZP.analysis.init_monitor_analy(this,'HomeFilter','clickzhizao','001');;" ctype="ct121100" class="__ga__HomeFilter_clickzhizao_001">制造</li>
+		<li onclick="ZP.analysis.init_monitor_analy(this,'HomeFilter','clicknengyuan','001');;" ctype="ct130000" class="__ga__HomeFilter_clicknengyuan_001">能源</li>
+	</ul>
+</div>
+<script type="text/javascript" src="http://img01.zhaopin.cn/2012/js/index/jq.min.js"></script> 
+<script type="text/javascript" src="http://img01.zhaopin.cn/2012/js/basedata.js"></script> 
+<script type="text/javascript" src="http://img01.zhaopin.cn/2012/js/index/index.min-new.js?version=20150714"></script> 
+<script type="text/javascript" src="http://bms.zhaopin.com/Publish/ZPAD/pic-moving.js"></script> 
+<script type="text/javascript" src="http://www.zhaopin.com/static/analytics.js"></script> 
+<script type="text/javascript" src="http://bms.zhaopin.com/Publish/ZPAD/poppup.js"></script>
+<script type="text/javascript" src="http://img05.zhaopin.cn/2014/common/js/za/ga.js"></script>
+<script type="text/JavaScript"> 
+    function CNNIC_change(eleId) 
+    { 
+    var str= document.getElementById(eleId).href; 
+    var str1 =str.substring(0,(str.length-6)); 
+    str1+=CNNIC_RndNum(6); 
+    document.getElementById(eleId).href=str1; 
+    } 
+    function CNNIC_RndNum(k) 
+    { 
+    var rnd=""; 
+    for (var i=0;i < k;i++) 
+    rnd+=Math.floor(Math.random()*10); 
+    return rnd; 
+    } 
+    </script> 
+<link href="http://img00.zhaopin.cn/2012/css/jquery.autocomplete.css" type="text/css" rel="stylesheet">
+<script type="text/javascript" src="http://img01.zhaopin.cn/2012/js/jquery.ui.autocomplete.js"></script> 
+<script type="text/javascript" src="http://img01.zhaopin.cn/2012/js/zpautocomplete.js"></script> 
+<script type="text/javascript">
+	$(document).ready(function () {
+	    //引用相应的样式与js文件然后调用即可
+		//obj:绑定的对像
+		//ktype:1:全文，2：公司名，3：职位名，5：城市
+		//position:up:向上显示，down:向下显示
+		zpAutocomplete($("#KeyWord_kw2"),"1","down");
+		zpAutocomplete($("#JobLocation"),"6","down");
+	});
+	function recordOutboundLink2(link, category, action) {
+        function ed(d, a) {
+            var c = encodeURIComponent;
+            return c instanceof Function ? (a ? encodeURI(d) : c(d)) : escape(d);
+        }
+        try {
+            _dywet._getTrackerByName()._trackEvent(category, action);
+            try {
+                _gat._getTrackerByName()._trackEvent(category, action);
+            } catch (err) { }
+            if (link.target != "_blank") setTimeout('document.location = "' + link.href + '"', 100);
+        } catch (err) {
+            var i = new Image(1, 1);
+            var e = document.location;
+            i.src = "http://l.zhaopin.com/track_err.gif?dywee=5(" + category + "*" + action + ")&dywehn=" + ed(e.hostname) + "&dywep=" + ed(e.pathname + e.search, true);
+        }
+    }
+	</script>
+    <script>
+ $(function(){
+	 var sto ;
+	 $('#foot-friend').hover(function(){
+		if(sto){clearTimeout(sto);}
+		$('#sub-friend').show();
+		},function(){
+			sto = setTimeout(function(){$('#sub-friend').hide();},200);			 
+		})
+	 
+	 })
+ //个人/企业切换
+$(function(){
+  $('.loginbtnbox>span').click(function(){
+    if($(this).hasClass('cursor_p')){
+      $(this).removeClass('cursor_p').siblings().addClass('cursor_p');
+      $('#loginfnbtn').trigger('click');
+    }
+  });
+});
+</script>
+<!--left float--> 
+
+<div style="top: 115px; position: fixed; _position:absolute;_top:expression(eval(document.documentElement.scrollTop)+115+'px'); left: 50%; margin-left: -568px; width: auto; height: auto; display: block;"><a ref="nofollow" style="display:block;" href="http://www.highpin.cn/zhiwei/?utm_source=zpggw&amp;utm_medium=pc&amp;utm_campaign=zpggw&amp;utm_term=zpggw&amp;utm_content=zpggw&amp;fromtype=450" onmousedown="return AdsClick(9718,163621)" rel="nofollow" target="_blank"><img style="border:1px solid #8c8481;" src="http://img00.zhaopin.cn/img_button/201607/22/zhuopin-zuoce-th1_155438740728.gif" alt="智联卓聘招聘信息" height="185" width="65"></a>
+<a ref="nofollow" style="display:block;margin-top:3px;" href="http://cnt.zhaopin.com/Market/whole_counter.jsp?sid=121124951&amp;site=zlsy&amp;url=http://xiaoyuan.zhaopin.com/" onmousedown="return AdsClick(9718,163620)" target="_blank"><img style="border:1px solid #8c8481;" src="http://img00.zhaopin.cn/img_button/201609/09/xiaoyuan-syzuoce_165304679914.gif" alt="校园招聘招聘信息" height="185" width="65"></a>
+</div><!--NY2011_ZHAOPININDEX_TONGLANHEADER Success end-->
+
+
+<script type="text/javascript" src="http://img09.zhaopin.cn/2014/common/js/clickheat-original.js"></script><noscript><p>noscript</p></noscript>
+<script type="text/javascript">
+<!--
+clickHeatSite = '1';clickHeatGroup = encodeURIComponent(window.location.pathname+window.location.search);clickHeatServer = 'http://l.zhaopin.com/track.gif';initClickHeat(); 
+//-->
+</script>
+
+<script type="text/javascript">
+var _mvq = _mvq || [];
+_mvq.push(['$setAccount', 'm-196569-0']);
+
+_mvq.push(['$logConversion']);
+(function() {
+var mvl = document.createElement('script');
+mvl.type = 'text/javascript'; mvl.async = true;
+mvl.src = ('https:' == document.location.protocol ? 'https://static-ssl.mediav.com/mvl.js' : 'http://static.mediav.com/mvl.js');
+var s = document.getElementsByTagName('script')[0];
+s.parentNode.insertBefore(mvl, s);
+})();
+
+</script>  
+
+<script type="text/javascript">
+<!-- 
+(function (d) {
+(window.bd_cpro_rtid = window.bd_cpro_rtid || []).push({id:"nW0kn10v"});
+var s = d.createElement("script");s.type = "text/javascript";s.async = true;s.src = location.protocol + "//cpro.baidu.com/cpro/ui/rt.js";
+var s0 = d.getElementsByTagName("script")[0];s0.parentNode.insertBefore(s, s0);
+})(document);
+//-->
+</script>
+
+<script type="text/javascript" src="http://image.highpin.cn/js/link/zp_link_hp.js"></script>
+<!-- 百度统计代码 -->
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "//hm.baidu.com/hm.js?38ba284938d5eddca645bb5e02a02006";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
+
+<ul style="display: none;" tabindex="0" id="ui-id-1" class="ui-autocomplete ui-front ui-menu ui-widget ui-widget-content ui-corner-all"></ul><ul style="display: none;" tabindex="0" id="ui-id-2" class="ui-autocomplete ui-front ui-menu ui-widget ui-widget-content ui-corner-all"></ul></body>

@@ -57,17 +57,48 @@ def city_url(city_key):
             return city['href']
     return None
 
-def city_list():
+def json_parse(file_name):
     """
-    TODO: get the city_list and level from city_level.json
-    :returns: a list which contains city level and list of cities of this level.
-
+    TODO: read the json file and return the parsed context
     """
-    f = r'city_level.json'
-    fr = open(f,'r+')
+    fr = open(file_name,'r+')
     city_level_json = json.loads(fr.read())
     fr.close()
     return city_level_json
+
+def save_json(json_content,file_name):
+    fw = open(file_name,'w+')
+    fw.write(json.dumps(json_content,skipkeys = True, encoding = 'utf-8'))
+    fw.close()
+
+
+def lat_lng(address):
+    """TODO: using baidu api to get the latitude and longitude number from verbal location
+    :returns: a tuple of (lat,lng)
+
+    """
+    ak = r'yGm5sw8czxvx0e2idl1UbouoyD9bj0q3'
+    api_url = r'http://api.map.baidu.com/geocoder/v2/?address={address}&output=json&ak={ak}&callback=showLocation'
+    api_url = api_url.format(address = address, ak = ak)
+
+    post_content = get_html_content(api_url)
+    post_content = post_content.replace(r'showLocation&&showLocation(','')
+    post_content = post_content[:-1]
+    json_parse = json.loads(post_content)
+
+    try:
+        confidence = int(json_parse['result']['confidence'])
+    except:
+        confidence = 0
+
+    if confidence >= 50:
+        lng = json_parse['result']['location']['lng']
+        lat = json_parse['result']['location']['lat']
+    else:
+        lng = None
+        lat = None
+    return (lat,lng)
+
 
 if __name__ is "__main__":
     web_url = r'http://www.pythonscraping.com/pages/page1.html'
