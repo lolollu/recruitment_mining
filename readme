@@ -1,0 +1,11 @@
+city_cat_list.json:
+["city","url"]
+
+city_level.json
+["level", "cities"]
+
+industry_list.json:
+["industry", "fields"]
+
+position_list.json
+["field","sub_position"]
